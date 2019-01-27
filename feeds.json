@@ -2,12 +2,12 @@
 	"status": 200,
 	"result": [{
 		"Id": "1",
-		"Title": "<h5>Tips for Treating Acne, Banish Breakouts and Oily Skin</h5>",
+		"Title": "<h5>Acne, Banish Breakouts and Oily Skin with simple daily steps</h5>",
 		"ImageName": "oilyskin.jpg",
 		"Description": "<p>With oily skin and acne, you're probably not always in love with your skin. But oily skin isn't all bad. One bonus: your oily skin is less prone to wrinkling than dry skin types.\r\n\r\nStill, oily skin, and the acne breakouts that often come with it, can be frustrating. With the right care, you can tame oily shine, improve acne, and learn to embrace your skin type.</p>\r\n\r\n<ul><li>\r\nCleanse your Face at Least Twice a Day\r\n</li> \r\n\r\n<li>A simple way to keep oily skin in check is to cleanse your face regularly. Wash your face twice a day, both morning and night.</li>\r\n\r\n<li>Use a foaming soap or facial cleanser over cream-based or lotion cleansers. Foaming cleansers do a much better job cleansing away excess oil and leave your skin feeling fresh and clean.</li>\r\n\r\n<li>You should also cleanse your face (and body, if body breakouts are a problem) after you sweat, like after gym class or work out. Sweat can irritate breakouts and lead to a specific type of acne called acne mechanica.</li>\r\n\r\n<li>If soap and water aren't immediately available, keep a stash of premoistened cleansing cloths in your bag to give your skin a wipe-down. There are plenty of facial cleansing cloths on the market, but even fragrance-free baby wipes will do.</li>\r\n\r\n<li>Beware of over-cleansing, though. Cleansing your face too often can irritate your skin. And since acne isn't caused by an oily or dirty face, just washing more frequently isn't going to clear breakouts</li></ul>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
-		"Category":"skin",
+		"Category":"homeremedy",
 		"Tags":"acne,oily"
 	}, {
 		"Id": "2",
@@ -16,29 +16,29 @@
 		"Description": "<p>If you suffer from oily skin, astrigent can help improve your skin's appearance by minimizing pores and drying up oily skin. \r\nAstrigent is usually applied after cleansing, but before moisturizing. The alcohol-based product can also help remove bacteria and leftover traces of cleanser or makeup.</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
-		"Category":"skin",
+		"Category":"products",
 		"Tags":"astrigent"
 	}, {
 		"Id": "3",
-		"Title": "<h5>Hydration</h5>",
+		"Title": "<h5>Hydration for healthy skin</h5>",
 		"ImageName": "hydration.jpg",
-		"Description": "<p>Hydration of skin is a good start with all day skin care, steps for hydration of skin is so simple for that we have to first use some cleanser for cleaning facial skin then you have to apply moisturizers for hydration, for happy skin just first cleanse then moisturize</p>",
+		"Description": "<p>Hydration of skin is a good start with all day skin care, steps for hydration of skin is so simple for that we have to first use some cleanser for cleaning facial skin then you have to apply moisturizers for hydration, for happy skin just first cleanse then moisturize, take watermelon, butter milk, lemon juice etc for hydration </p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
-		"Category":"skin",
-		"Tags":"hydration,oily,moisturize,dry"
+		"Category":"diet",
+		"Tags":"hydration,oily,moisturize,dry,diet"
 	}, {
 		"Id": "4",
-		"Title": "<h5>Sunscreen</h5>",
+		"Title": "<h5>Sunscreen protects your skin</h5>",
 		"ImageName": "sunscreen.jpg",
 		"Description": "<p>You have to use 3 times a day 9am, 12pm, 3pm even you are inside or outside of home or work place\r\n          <br/>Problems you will avoid if you use sunscreen :  \r\n          <ul>\r\n            <li>Pigmentation</li>\r\n            <li>Sunburn</li>\r\n            <li>Sweating</li>\r\n            <li>All kind of lights even home lights, laptop rays, steam, dust</li>\r\n            <li>Dark spots</li>\r\n            <li>Dark circles</li>\r\n          </ul>\r\n          People generally feel sunscreen will give you oily face, but you will get every skin type sunscreen in market, like sensitive sunscreen, sweat proof sunscreen, daily use sunscreen, daily moisturising sunscreen etc</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
-		"Category":"skin",
+		"Category":"makeup",
 		"Tags":"sunscreen,dry,sensitive,oily,sweat"
 	}, {
 		"Id": "5",
-		"Title": "<h5>Makeup</h5>",
+		"Title": "<h5>Makeup Tips - 01</h5>",
 		"ImageName": "slider2.jpg",
 		"Description": "</p>Generally people directly apply makeup after facewash, but this is not correct because after facewash your skin pores open at that time so whatever foundation we use then it'll go inside the skin pores thats why people get pimples, black head, white head problem, for avoiding this things\r\n         we have to follow this<ul>\r\n           <li>First we have to do cleansing with cleanser</li>\r\n           <li>Then we have to do toning</li>\r\n           <li>Then go for moisturising again we have to do moisturising again after 15mins</li>\r\n           <li>Then we have to use primer</li>\r\n         </ul>\r\n         After this step we have to start our makeup for avoiding pimples, black head, white heads problems, and other benefits if you follow these steps you will get shine, glow in makeup</p>",
 		"CreatedOn": "Jan 05, 2019",
@@ -52,7 +52,7 @@
 		"Description": "<p>A toner is a simply a substance that tones and firms skin while removing excess oils. It is also hydrating because it is mostly water based.\r\nToners can also be healing to the skin since they contain herbal extracts like green tea, chamomile, rose, etc. Some examples of natural toners\r\ninclude rose water, green tea, cucumber juice, chamomile tea and others.</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
-		"Category":"skin",
+		"Category":"makeup",
 		"Tags":"cleansing,rose water,cucumber juice,green tea"
 	}, {
 		"Id": "7",
@@ -61,7 +61,7 @@
 		"Description": "<p>An astringent is used to cleanse and purify pores. It may be alcohol or chemical based. An astringent is made of stronger stuff than a toner.\r\nIt's mainly used for specific skin types such as oily skin and acne prone skin. If used on dry or sensitive skin, it may have a drying effect and leave skin red. Some examples of astringents include with hazel, apple cider vinegar mixture, alcohol, citrus juice and more.</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
-		"Category":"skin",
+		"Category":"products",
 		"Tags":"toning,alcohol,citrus juice"
 	}, {
 		"Id": "8",
@@ -277,7 +277,7 @@
 		"Description": "<p>The hormones released during periods of stress may increase sebum production and skin inflammation, making acne worse<br/><br/>In fact, multiple studies have linked stress to an increase in acne severity<br/><br/>What's more, stress can slow wound healing by up to 40%, which may slow the repair of acne lesions <br/><br/>Certain relaxation and stress-reduction treatments have been shown to improve acne, but more research needs to be done<br/><br/><b>Ways to Reduce Stress</b><br/><ul><li>Get more sleep</li><li>Engage in physical activity</li><li>Practice yoga</li><li>Meditate</li><li>Take deep breaths</li></ul><br/><br/>SUMMARY:<br/>Hormones that are released during times of stress can make acne worse. Reducing stress may help improve acne.</p>",
 		"CreatedOn": "Jan 26, 2019",
 		"Author":"Himanshu Yadav",
-		"Category":"skin",
+		"Category":"homeremedy",
 		"Tags":"acne,stress"
 	},{
 		"Id": "32",
@@ -286,7 +286,7 @@
 		"Description": "<p>Exercise promotes healthy blood circulation. The increase in blood flow helps nourish the skin cells, which may help prevent and heal acne.<br/><br/>Exercise also plays a role in hormone regulation<br/><br/>Several studies have shown that exercise can decrease stress and anxiety, both of which are factors that can contribute to the development of acne<br/><br/>It's recommended that healthy adults exercise for 30 minutes 3–5 times per week. This can include walking, hiking, running and lifting weights.<br/><br/>SUMMARY:<br/>Exercise promotes healthy blood circulation, regulates hormones and helps reduce stress.</p>",
 		"CreatedOn": "Jan 26, 2019",
 		"Author":"Himanshu Yadav",
-		"Category":"skin",
+		"Category":"homeremedy",
 		"Tags":"acne,stress,execise"
 	},{
 		"Id": "33",
