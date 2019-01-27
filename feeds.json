@@ -16,7 +16,7 @@
 		"Description": "<p>If you suffer from oily skin, astrigent can help improve your skin's appearance by minimizing pores and drying up oily skin. \r\nAstrigent is usually applied after cleansing, but before moisturizing. The alcohol-based product can also help remove bacteria and leftover traces of cleanser or makeup.</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
-		"Category":"products",
+		"Category":"makeup",
 		"Tags":"astrigent"
 	}, {
 		"Id": "3",
@@ -39,7 +39,7 @@
 	}, {
 		"Id": "5",
 		"Title": "<h5>Makeup Tips - 01</h5>",
-		"ImageName": "slider2.jpg",
+		"ImageName": "slider3.jpg",
 		"Description": "</p>Generally people directly apply makeup after facewash, but this is not correct because after facewash your skin pores open at that time so whatever foundation we use then it'll go inside the skin pores thats why people get pimples, black head, white head problem, for avoiding this things\r\n         we have to follow this<ul>\r\n           <li>First we have to do cleansing with cleanser</li>\r\n           <li>Then we have to do toning</li>\r\n           <li>Then go for moisturising again we have to do moisturising again after 15mins</li>\r\n           <li>Then we have to use primer</li>\r\n         </ul>\r\n         After this step we have to start our makeup for avoiding pimples, black head, white heads problems, and other benefits if you follow these steps you will get shine, glow in makeup</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
@@ -48,7 +48,7 @@
 	}, {
 		"Id": "6",
 		"Title": "<h5>What is a Toner?</h5>",
-		"ImageName": "slider3.jpg",
+		"ImageName": "slider2.jpg",
 		"Description": "<p>A toner is a simply a substance that tones and firms skin while removing excess oils. It is also hydrating because it is mostly water based.\r\nToners can also be healing to the skin since they contain herbal extracts like green tea, chamomile, rose, etc. Some examples of natural toners\r\ninclude rose water, green tea, cucumber juice, chamomile tea and others.</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
