@@ -39,7 +39,7 @@
 	}, {
 		"Id": "5",
 		"Title": "<h5>Makeup Tips - 01</h5>",
-		"ImageName": "slider3.jpg",
+		"ImageName": "slider4.jpg",
 		"Description": "</p>Generally people directly apply makeup after facewash, but this is not correct because after facewash your skin pores open at that time so whatever foundation we use then it'll go inside the skin pores thats why people get pimples, black head, white head problem, for avoiding this things\r\n         we have to follow this<ul>\r\n           <li>First we have to do cleansing with cleanser</li>\r\n           <li>Then we have to do toning</li>\r\n           <li>Then go for moisturising again we have to do moisturising again after 15mins</li>\r\n           <li>Then we have to use primer</li>\r\n         </ul>\r\n         After this step we have to start our makeup for avoiding pimples, black head, white heads problems, and other benefits if you follow these steps you will get shine, glow in makeup</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
@@ -48,7 +48,7 @@
 	}, {
 		"Id": "6",
 		"Title": "<h5>What is a Toner?</h5>",
-		"ImageName": "slider2.jpg",
+		"ImageName": "slider3.jpg",
 		"Description": "<p>A toner is a simply a substance that tones and firms skin while removing excess oils. It is also hydrating because it is mostly water based.\r\nToners can also be healing to the skin since they contain herbal extracts like green tea, chamomile, rose, etc. Some examples of natural toners\r\ninclude rose water, green tea, cucumber juice, chamomile tea and others.</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
@@ -57,7 +57,7 @@
 	}, {
 		"Id": "7",
 		"Title": "<h5>What is an Astringent?</h5>",
-		"ImageName": "slider4.jpg",
+		"ImageName": "slider2.jpg",
 		"Description": "<p>An astringent is used to cleanse and purify pores. It may be alcohol or chemical based. An astringent is made of stronger stuff than a toner.\r\nIt's mainly used for specific skin types such as oily skin and acne prone skin. If used on dry or sensitive skin, it may have a drying effect and leave skin red. Some examples of astringents include with hazel, apple cider vinegar mixture, alcohol, citrus juice and more.</p>",
 		"CreatedOn": "Jan 05, 2019",
 		"Author":"Dr.Konica Saxena",
