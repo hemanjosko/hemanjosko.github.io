@@ -296,6 +296,51 @@
 		"CreatedOn": "Jan 27, 2019",
 		"Author":"Dr. Konica Saxena",
 		"Category":"surgery",
-		"Tags":"surgery,lipsuction"
+		"Tags":"surgery,liposuction"
+	},{
+		"Id": "34",
+		"Title": "<h5>Breast implants can be used to increase breast size or in reconstruction after surgery</h5>",
+		"ImageName": "breastimplants.jpg",
+		"Description": "<p>Women may seek breast surgery to improve their body shape. Mammoplasty procedures may include:<br/><br/>Breast augmentation, or enlargement, traditionally performed using saline or silicone gel prosthetics, and now occasionally with fat grafting.<br/><br/>It may be carried out if the woman feels her breasts are too small, if one breast is larger than the other, or if the breasts have changed after pregnancy or breastfeeding. Some older women opt for this treatment when the breasts being to droop due to the skin losing elasticity.<br/><br/>In some women, a breast enlargement can boost self-esteem and improve their feelings about their sexuality. In some, however, existing problems remain. This is why women are encouraged to undergo counseling first.<br/><br/>Breast reduction can help provide relief from physical discomfort, while the aim of augmentation more often relates to appearance. Breast reduction may also reduce the risk of breast cancer in women who are at high risk of the disease.<br/><br/>Mastopexy, or a breast lift, involves removing skin and glandular tissue to make the breasts smaller and rearranging the remaining tissue to make the breast appear lifted.<br/><br/>Depending on how much volume a patient has lost or desires, mastopexy can be combined with an implant. While it is similar to a breast reduction, which removes a much greater amount of tissue, mastopexy is not usually covered by major insurance carriers as it is not deemed medically necessary.<br/><br/>Male breast reduction treats gynecomastia, an enlargement of the mammary tissue in men. It may be done by liposuction or with various scar patterns, often hidden around the nipple and areola.</p>",
+		"CreatedOn": "Jan 27, 2019",
+		"Author":"Dr. Konica Saxena",
+		"Category":"surgery",
+		"Tags":"surgery,breast implants"
+	},{
+		"Id": "35",
+		"Title": "<h5>Chemical peels for resurfacing skin</h5>",
+		"ImageName": "chemical-peel.jpg",
+		"Description": "<p><b>Chemical peels</b> may help treat acne, pock marks, scars, or wrinkles. A number of active agents may be used.<br/><br/>A light or superficial peel uses Alpha Hydroxy Acids (AHAs) such as glycolic, lactic, or fruit acids to treat the outermost layers of the skin. The treatment is not as deep as with some peels, so the recovery time is minimal.<br/><br/>A medium peel usually involves TCA (tri-chloroacetic acid) of various concentrations. It penetrates the dermis, or deep layer of the skin, to a greater depth than the light peels. The recovery and pain are more significant than the lighter peels. Redness and flaking may persist for several days or weeks.<br/><br/>A deep peel, or phenol peel, penetrates the skin to the deepest extent. As a result, it has the greatest impact on resurfacing the skin, but it also has the longest recovery time, and it can causing scarring and skin lightening.<br/><br/>Chemical peels have been shown to be safe and effective for both light and darker skin types.</p>",
+		"CreatedOn": "Jan 27, 2019",
+		"Author":"Dr. Konica Saxena",
+		"Category":"surgery",
+		"Tags":"surgery,chemical peels"
+	},{
+		"Id": "36",
+		"Title": "<h5>Botulinum toxin for tighten skin</h5>",
+		"ImageName": "botox-compressor.jpg",
+		"Description": "<p><b>Botulinum toxin</b>, or botox, is the brand name of a toxin produced by the bacterium Clostridium botulinum (C. botulinum), first approved by the FDA in the 1980s for muscle spasm.<br/><br/>A range of cosmetic surgery procedures aim to improve appearance.<br/><br/>It is used to treat wrinkles and facial creases.<br/><br/>It acts by blocking the signal from nerves to the muscles that are injected. The injected muscle can no longer contract, or tighten, as forcefully as before, and this leads to a controlled relaxation of the muscles.<br/><br/>It is approved for treatment of frown lines on the forehead, crow's feet, or lines around the eye, and axillary hyperhidrosis, or increased sweating of the armpits.<br/><br/>Apart from 'botox,' several other brand names of botulinum toxin are now commercially available.</p>",
+		"CreatedOn": "Jan 27, 2019",
+		"Author":"Dr. Konica Saxena",
+		"Category":"surgery",
+		"Tags":"surgery,botox, botulinum toxin"
+	},{
+		"Id": "37",
+		"Title": "<h5>Soft tissue filler for wrinkles</h5>",
+		"ImageName": "Dermal-Fillers.jpg",
+		"Description": "<p><b>Soft tissue fillers, or dermal fillers</b>, are medical device implants approved by the FDA for use in helping to create a smoother, fuller appearance in the face.<br/><br/>They can be used to treat nasolabial folds, cheeks, and lips, and to increase the volume of the back of the hand.<br/><br/>They can also reduce wrinkles, lines and scars, and augment soft tissue contours. They are not permanent, but they are degraded by the body, so repeat treatments may be necessary to maintain the effect.<br/><br/>Commercially available products include hyaluronic acid, poly-L-lactic acid (PLLA), calcium hydroxyapetite, and polymethylmethacrylate beads (PMMA).<br/><br/>These products normally come in a gel formulation that fine needles can inject into the deeper layers of the skin and underlying soft tissue of the face. Collagen injections are no longer performed because some patients experienced allergic reactions, some of them serious.<br/><br/><b>Complications can occur with facial fillers, and especially permanent fillers. Clinicians and patients are urged to check the contents of a filler and discuss all the implications of surgery before going ahead with a procedure.</b><br/><br/>In 2015, the U.S. Food and Drug Administration (FDA) warned that rare but serious problems may arise if soft tissue fillers are accidentally injected into blood vessels in the face.</p>",
+		"CreatedOn": "Jan 27, 2019",
+		"Author":"Dr. Konica Saxena",
+		"Category":"surgery",
+		"Tags":"surgery,soft tissue filler,dermal fillers"
+	},{
+		"Id": "38",
+		"Title": "<h5>Fat injections and fat grafting</h5>",
+		"ImageName": "fattransfer.jpg",
+		"Description": "<p><b>Fat injections and fat grafting</b> have broad applications in cosmetic surgery.<br/><br/>The patient's own fat is collected from one part of the body using liposuction, and it is injected into areas requiring volume enhancement. It is usually applied to the face, including the lips, the hands, and depressions in skin contour.<br/><br/>The results are generally safe and long lasting, and it can have the additional benefit of removing fat from a place where it is not wanted. The fat is removed, washed, and purified and then carefully re-injected with specially designed needles. Sometimes the procedure needs to be repeated several times for best results.<br/><br/><b>Stem-cell enriched fat grafts</b> have been trialed for reconstructive surgery, with promising results, suggesting that the procedure is reliable, safe, and effective. However, tumor growth may be an adverse effect, so further research is needed before stem cells can become central to plastic and reconstructive surgery.</p>",
+		"CreatedOn": "Jan 27, 2019",
+		"Author":"Dr. Konica Saxena",
+		"Category":"surgery",
+		"Tags":"surgery,fat grafting"
 	}]
 }
