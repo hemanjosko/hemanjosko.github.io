@@ -288,5 +288,14 @@
 		"Author":"Himanshu Yadav",
 		"Category":"skin",
 		"Tags":"acne,stress,execise"
+	},{
+		"Id": "33",
+		"Title": "<h5>Liposuction</h5>",
+		"ImageName": "liposuction.jpg",
+		"Description": "<p>Liposuction, or suction-assisted lipectomy, uses thin cannulas, or hollow metal tubes, to vacuum fat from various parts of the body, usually the abdomen, thighs, buttocks, hips, backs of the arms, and neck. Liposuction may also be used for male breast reduction.<br/><br/>Tools used in liposuction include standard, ultrasound, mechanical, and laser devices. They all tend to involve suction of fat through a tube.<br/><br/>To prevent complications, there is a limit to the amount of fat that the surgeon can safely remove, depending on whether the patient will be discharged immediately after surgery or admitted to the hospital.<br/><br/>Liposuction should not be intended as a weight-loss procedure. When performed in the right patient, the goal is to improve contour and decrease limited areas of fat deposits.<br/><br/>Complications are rare but possible. They include the accumulation of blood under the skin, known as hematoma, infection, changes in sensation, allergic reactions, damage to underyling structures, and unsatisfactory results. The doctor must discuss these with the patient beforehand.<br/><br/>Liposuction does not reduce the risk of developing diabetes, heart disease, or high blood pressure.</p>",
+		"CreatedOn": "Jan 27, 2019",
+		"Author":"Dr. Konica Saxena",
+		"Category":"surgery",
+		"Tags":"surgery,lipsuction"
 	}]
 }
