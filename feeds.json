@@ -324,5 +324,23 @@
 		"Author":"Dr. Konica Saxena",
 		"Category":"surgery",
 		"Tags":"surgery,botox, botulinum toxin"
+	},{
+		"Id": "37",
+		"Title": "<h5>Soft tissue filler for wrinkles</h5>",
+		"ImageName": "Dermal-Fillers.jpg",
+		"Description": "<p><b>Soft tissue fillers, or dermal fillers</b>, are medical device implants approved by the FDA for use in helping to create a smoother, fuller appearance in the face.<br/><br/>They can be used to treat nasolabial folds, cheeks, and lips, and to increase the volume of the back of the hand.<br/><br/>They can also reduce wrinkles, lines and scars, and augment soft tissue contours. They are not permanent, but they are degraded by the body, so repeat treatments may be necessary to maintain the effect.<br/><br/>Commercially available products include hyaluronic acid, poly-L-lactic acid (PLLA), calcium hydroxyapetite, and polymethylmethacrylate beads (PMMA).<br/><br/>These products normally come in a gel formulation that fine needles can inject into the deeper layers of the skin and underlying soft tissue of the face. Collagen injections are no longer performed because some patients experienced allergic reactions, some of them serious.<br/><br/><b>Complications can occur with facial fillers, and especially permanent fillers. Clinicians and patients are urged to check the contents of a filler and discuss all the implications of surgery before going ahead with a procedure.</b><br/><br/>In 2015, the U.S. Food and Drug Administration (FDA) warned that rare but serious problems may arise if soft tissue fillers are accidentally injected into blood vessels in the face.</p>",
+		"CreatedOn": "Jan 27, 2019",
+		"Author":"Dr. Konica Saxena",
+		"Category":"surgery",
+		"Tags":"surgery,soft tissue filler,dermal fillers"
+	},{
+		"Id": "38",
+		"Title": "<h5>Fat injections and fat grafting</h5>",
+		"ImageName": "fattransfer.jpg",
+		"Description": "<p><b>Fat injections and fat grafting</b> have broad applications in cosmetic surgery.<br/><br/>The patient's own fat is collected from one part of the body using liposuction, and it is injected into areas requiring volume enhancement. It is usually applied to the face, including the lips, the hands, and depressions in skin contour.<br/><br/>The results are generally safe and long lasting, and it can have the additional benefit of removing fat from a place where it is not wanted. The fat is removed, washed, and purified and then carefully re-injected with specially designed needles. Sometimes the procedure needs to be repeated several times for best results.<br/><br/><b>Stem-cell enriched fat grafts</b> have been trialed for reconstructive surgery, with promising results, suggesting that the procedure is reliable, safe, and effective. However, tumor growth may be an adverse effect, so further research is needed before stem cells can become central to plastic and reconstructive surgery.</p>",
+		"CreatedOn": "Jan 27, 2019",
+		"Author":"Dr. Konica Saxena",
+		"Category":"surgery",
+		"Tags":"surgery,fat grafting"
 	}]
 }
