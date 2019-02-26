@@ -880,5 +880,35 @@
 		"Category": "homeremedy",
 		"Tags": "blackness",
 		"Lang": "HN"
+	}, {
+		"Id": "89",
+		"Title": "<h5>चेहरे को कौमल बनाये</h5>",
+		"ImageName": "multani-mitti-curd-pack.jpg",
+		"Description": "<p>दो चम्मच मुलतानी मिट्टी और चार चम्मच खट्टा दही मिलाकर पेस्ट बना लें। इसे चेहरे पर लगाएं। सूखने पर साफ कर ले। यह त्वचा को मुलायम बनाता है।</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft,multani mitti,curd",
+		"Lang": "HN"
+	}, {
+		"Id": "90",
+		"Title": "<h5>चेहरा साफ, सुंदर व चमकीला बनाये</h5>",
+		"ImageName": "Multani-Mitti.jpg",
+		"Description": "<p>दो चम्मच मुल्तानी मिट्टी, एक चम्मच मलाई, एक चम्मच शहद, एक चम्मच बादाम का तेल, एक चम्मच बेसन तथा दो चम्मच ग्लिसरीन इन सबको मिलाकर पेस्ट बना लें, फिर पूरे चेहरे पर लगाएं। सूखने के बाद साफ कर लें। इससे त्वचा साफ, सुंदर और चमकीली बनेगी। यह पैक सप्ताह में दो बार इस्तेमाल कर सकती है।</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "multani mitti,cream",
+		"Lang": "HN"
+	}, {
+		"Id": "91",
+		"Title": "<h5>कील-मुंहासों से छुटकारा पाये</h5>",
+		"ImageName": "Multani-mitti-2.jpg",
+		"Description": "<p>दो चम्मच मुल्तानी मिट्टी, एक चम्मच बादाम का तेल, एक चम्मच नींबू का रस और थोड़ी-सी हल्दी इन सबको मिलाकर पेस्ट बना लें। इस पैक को सप्ताह में एक बार इस्तेमाल करने से कील-मुंहासे दूर होते हैं।</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "pimples,multani mitti",
+		"Lang": "HN"
 	}]
 }
