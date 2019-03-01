@@ -1,0 +1,964 @@
+{
+	"status": 200,
+	"result": [{
+		"Id": "1",
+		"Title": "<h5>Acne, Banish Breakouts and Oily Skin with simple daily steps</h5>",
+		"ImageName": "oilyskin.jpg",
+		"Description": "<p>With oily skin and acne, you're probably not always in love with your skin. But oily skin isn't all bad. One bonus: your oily skin is less prone to wrinkling than dry skin types.\r\n\r\nStill, oily skin, and the acne breakouts that often come with it, can be frustrating. With the right care, you can tame oily shine, improve acne, and learn to embrace your skin type.</p>\r\n\r\n<ul><li>\r\nCleanse your Face at Least Twice a Day\r\n</li> \r\n\r\n<li>A simple way to keep oily skin in check is to cleanse your face regularly. Wash your face twice a day, both morning and night.</li>\r\n\r\n<li>Use a foaming soap or facial cleanser over cream-based or lotion cleansers. Foaming cleansers do a much better job cleansing away excess oil and leave your skin feeling fresh and clean.</li>\r\n\r\n<li>You should also cleanse your face (and body, if body breakouts are a problem) after you sweat, like after gym class or work out. Sweat can irritate breakouts and lead to a specific type of acne called acne mechanica.</li>\r\n\r\n<li>If soap and water aren't immediately available, keep a stash of premoistened cleansing cloths in your bag to give your skin a wipe-down. There are plenty of facial cleansing cloths on the market, but even fragrance-free baby wipes will do.</li>\r\n\r\n<li>Beware of over-cleansing, though. Cleansing your face too often can irritate your skin. And since acne isn't caused by an oily or dirty face, just washing more frequently isn't going to clear breakouts</li></ul>",
+		"CreatedOn": "Jan 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,oily",
+		"Lang": "EN"
+	}, {
+		"Id": "2",
+		"Title": "<h5>Is astrigent good for your face?</h5>",
+		"ImageName": "slider1.jpg",
+		"Description": "<p>If you suffer from oily skin, astrigent can help improve your skin's appearance by minimizing pores and drying up oily skin. \r\nAstrigent is usually applied after cleansing, but before moisturizing. The alcohol-based product can also help remove bacteria and leftover traces of cleanser or makeup.</p>",
+		"CreatedOn": "Jan 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "makeup",
+		"Tags": "astrigent",
+		"Lang": "EN"
+	}, {
+		"Id": "3",
+		"Title": "<h5>Hydration for healthy skin</h5>",
+		"ImageName": "hydration.jpg",
+		"Description": "<p>Hydration of skin is a good start with all day skin care, steps for hydration of skin is so simple for that we have to first use some cleanser for cleaning facial skin then you have to apply moisturizers for hydration, for happy skin just first cleanse then moisturize, take watermelon, butter milk, lemon juice etc for hydration </p>",
+		"CreatedOn": "Jan 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "diet",
+		"Tags": "hydration,oily,moisturize,dry,diet",
+		"Lang": "EN"
+	}, {
+		"Id": "4",
+		"Title": "<h5>Sunscreen protects your skin</h5>",
+		"ImageName": "sunscreen.jpg",
+		"Description": "<p>You have to use 3 times a day 9am, 12pm, 3pm even you are inside or outside of home or work place\r\n          <br/>Problems you will avoid if you use sunscreen :  \r\n          <ul>\r\n            <li>Pigmentation</li>\r\n            <li>Sunburn</li>\r\n            <li>Sweating</li>\r\n            <li>All kind of lights even home lights, laptop rays, steam, dust</li>\r\n            <li>Dark spots</li>\r\n            <li>Dark circles</li>\r\n          </ul>\r\n          People generally feel sunscreen will give you oily face, but you will get every skin type sunscreen in market, like sensitive sunscreen, sweat proof sunscreen, daily use sunscreen, daily moisturising sunscreen etc</p>",
+		"CreatedOn": "Jan 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "makeup",
+		"Tags": "sunscreen,dry,sensitive,oily,sweat",
+		"Lang": "EN"
+	}, {
+		"Id": "5",
+		"Title": "<h5>Makeup Tips - 01</h5>",
+		"ImageName": "slider4.jpg",
+		"Description": "</p>Generally people directly apply makeup after facewash, but this is not correct because after facewash your skin pores open at that time so whatever foundation we use then it'll go inside the skin pores thats why people get pimples, black head, white head problem, for avoiding this things\r\n         we have to follow this<ul>\r\n           <li>First we have to do cleansing with cleanser</li>\r\n           <li>Then we have to do toning</li>\r\n           <li>Then go for moisturising again we have to do moisturising again after 15mins</li>\r\n           <li>Then we have to use primer</li>\r\n         </ul>\r\n         After this step we have to start our makeup for avoiding pimples, black head, white heads problems, and other benefits if you follow these steps you will get shine, glow in makeup</p>",
+		"CreatedOn": "Jan 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "makeup",
+		"Tags": "makeup",
+		"Lang": "EN"
+	}, {
+		"Id": "6",
+		"Title": "<h5>What is a Toner?</h5>",
+		"ImageName": "slider3.jpg",
+		"Description": "<p>A toner is a simply a substance that tones and firms skin while removing excess oils. It is also hydrating because it is mostly water based.\r\nToners can also be healing to the skin since they contain herbal extracts like green tea, chamomile, rose, etc. Some examples of natural toners\r\ninclude rose water, green tea, cucumber juice, chamomile tea and others.</p>",
+		"CreatedOn": "Jan 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "makeup",
+		"Tags": "cleansing,rose water,cucumber juice,green tea",
+		"Lang": "EN"
+	}, {
+		"Id": "7",
+		"Title": "<h5>What is an Astringent?</h5>",
+		"ImageName": "slider2.jpg",
+		"Description": "<p>An astringent is used to cleanse and purify pores. It may be alcohol or chemical based. An astringent is made of stronger stuff than a toner.\r\nIt's mainly used for specific skin types such as oily skin and acne prone skin. If used on dry or sensitive skin, it may have a drying effect and leave skin red. Some examples of astringents include with hazel, apple cider vinegar mixture, alcohol, citrus juice and more.</p>",
+		"CreatedOn": "Jan 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "products",
+		"Tags": "toning,alcohol,citrus juice",
+		"Lang": "EN"
+	}, {
+		"Id": "8",
+		"Title": "<h5>Soy improves wrinkles, collagen, skin elasticity and skin dryness</h5>",
+		"ImageName": "is-soy-good-for-you.jpg",
+		"Description": "<p>Soy contains isoflavones, a category of plant compounds that can either mimic or block estrogen in your body.<br/><br/>Isoflavones may benefit several parts of your body, including your skin.<br/><br/>One small study in middle-aged women found that eating soy isoflavones every day for 8–12 weeks reduced fine wrinkles and improved skin elasticity<br/><br/>In postmenopausal women, soy may also improve skin dryness and increase collagen, which helps keep your skin smooth and strong<br/><br/>These isoflavones not only protect the cells inside your body from damage but also your skin from UV radiation — which may help prevent some skin cancers <br/><br/>SUMMARY<br/>Soy contains isoflavones, which have been shown to improve wrinkles, collagen, skin elasticity and skin dryness, as well as protect your skin from UV damage.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,soy",
+		"Lang": "EN"
+	}, {
+		"Id": "9",
+		"Title": "<h5>Fatty Fish keep skin moisturized</h5>",
+		"ImageName": "salmon-fish-fillet-500x500.jpg",
+		"Description": "<p>Fatty fish, such as salmon, mackerel and herring, are excellent foods for healthy skin. They are rich sources of omega-3 fatty acids, which are important for maintaining skin health.<br/><br/>Omega-3 fatty acids are necessary to keep skin thick, supple and moisturized. In fact, a deficiency in omega-3 fats can cause dry skin<br/><br/>The omega-3 fats in fish reduce inflammation, which can cause redness and acne. They can even make your skin less sensitive to the sun's harmful UV rays<br/><br/>Some studies show that fish oil supplements may fight inflammatory and autoimmune conditions affecting your skin, such as psoriasis and lupus<br/><br/>Fatty fish is also a source of vitamin E, one of the most important antioxidants for your skin. Getting enough vitamin E is essential for protecting your skin against damage from free radicals and inflammation<br/><br/>This type of seafood is also a source of high-quality protein, which is needed for maintaining the strength and integrity of your skin<br/><br/>Lastly, fish provides zinc — a mineral vital for regulating inflammation, the production of new skin cells and overall skin health. Zinc deficiency can lead to skin inflammation, lesions and delayed wound healing<br/><br/>SUMMARY<br/>Fatty types of fish, such as salmon, contain omega-3 fatty acids that can reduce inflammation and keep skin moisturized. They’re also a good source of high-quality protein, vitamin E and zinc.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,salmon,mackerel,herring",
+		"Lang": "EN"
+	}, {
+		"Id": "10",
+		"Title": "<h5>Avocados protect your skin from sun damage</h5>",
+		"ImageName": "avocado.jpg",
+		"Description": "<p>Avocados are high in healthy fats. These fats benefit many functions in your body, including the health of your skin<br/><br/>Getting enough of these fats is essential to keep skin flexible and moisturized<br/><br/>One study in over 700 women found that a high intake of total fat — specifically the types of healthy fats found in avocados — was associated with more supple, springy skin<br/><br/>Preliminary evidence also shows that avocados contain compounds that may protect your skin from sun damage. UV damage to your skin can cause wrinkles and other signs of aging<br/><br/>Avocados are also a good source of vitamin E, which is an important antioxidant that helps protect your skin from oxidative damage. Most Americans don't get enough vitamin E through their diet.<br/><br/>Interestingly, vitamin E seems to be more effective when combined with vitamin C<br/><br/>Vitamin C is also essential for healthy skin. Your skin needs it to create collagen, which is the main structural protein that keeps your skin strong and healthy<br/><br/>A deficiency in vitamin C is rare these days, but common symptoms include dry, rough and scaly skin that tends to bruise easily<br/><br/>Vitamin C is also an antioxidant that protects your skin from oxidative damage — caused by the sun and the environment — which can lead to signs of aging<br/><br/>A 100-gram serving, or about 1/2 an avocado, provides 10% of the Reference Daily Intake (RDI) for vitamin E and 17% of the RDI for vitamin C<br/><br/>SUMMARY<br/>Avocados are high in beneficial fats and contain vitamins E and C, which are important for healthy skin. They also pack compounds that may protect your skin from sun damage.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,avocado",
+		"Lang": "EN"
+	}, {
+		"Id": "11",
+		"Title": "<h5>Walnuts keeps your skin healthy</h5>",
+		"ImageName": "Walnuts-800x416.jpg",
+		"Description": "<p>Walnuts have many characteristics that make them an excellent food for healthy skin.<br/><br/>They are a good source of essential fatty acids, which are fats that your body cannot make itself.<br/><br/>In fact, they’re richer than most other nuts in both omega-3 and omega-6 fatty acids<br/><br/>A diet too high in omega-6 fats may promote inflammation, including inflammatory conditions of your skin like psoriasis. On the other hand, omega-3 fats reduce inflammation in your body — including in your skin<br/><br/>While omega-6 fatty acids are plentiful in the Western diet, sources of omega-3 fatty acids are rare. Because walnuts contain a good ratio of these fatty acids, they may fight the inflammatory response to excessive omega-6.<br/><br/>What's more, walnuts contain other nutrients that your skin needs to function properly and stay healthy.<br/><br/>One ounce (28 grams) of walnuts contains 6% of the RDI for zinc, which is essential for your skin to function properly as a barrier, as well as necessary for wound healing and combatting both bacteria and inflammation<br/><br/>Walnuts also provide small amounts of the antioxidants vitamin E, vitamin C and selenium, in addition to 4–5 grams of protein per ounce (28 grams)<br/><br/>SUMMARY<br/>Walnuts are a good source of essential fats, zinc, vitamin E, vitamin C, selenium and protein — all of which are nutrients your skin needs to stay healthy.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,walnut",
+		"Lang": "EN"
+	}, {
+		"Id": "12",
+		"Title": "<h5>Sunflower Seeds important antioxidant for the skin</h5>",
+		"ImageName": "sunflower-seeds.jpg",
+		"Description": "<p>In general, nuts and seeds are good sources of skin-boosting nutrients.<br/><br/>Sunflower seeds are an excellent example.<br/><br/>One ounce (28 grams) of sunflower seeds packs 37% of the RDI for vitamin E, 32% of the RDI for selenium, 10% of the RDI for zinc and 5.4 grams of protein<br/><br/>SUMMARY<br/>Sunflower seeds are an excellent source of nutrients, including vitamin E, which is an important antioxidant for the skin.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,sunflower seeds",
+		"Lang": "EN"
+	}, {
+		"Id": "13",
+		"Title": "<h5>Sweet Potatoes acts as a natural sunblock</h5>",
+		"ImageName": "sweet_potato.jpg",
+		"Description": "<p>Beta-carotene is a nutrient found in plants.<br/><br/>It functions as provitamin A, which means it can be converted into vitamin A in your body.<br/><br/>Beta-carotene is found in oranges and vegetables such as carrots, spinach and sweet potatoes<br/><br/>Sweet potatoes are an excellent source — one 1/2-cup serving (100 grams) of baked sweet potato contains enough beta-carotene to provide nearly four times the RDI of vitamin A<br/><br/>Carotenoids like beta-carotene keep your skin healthy by acting as a natural sunblock.<br/><br/>When consumed, this antioxidant is incorporated into your skin and protects your skin cells from sun exposure. This may help prevent sunburn, cell death and dry, wrinkled skin.<br/><br/>Interestingly, high amounts of beta-carotene may also add a warm, orange color to your skin, contributing to an overall healthier appearance<br/><br/>SUMMARY<br/>Sweet potatoes are an excellent source of beta-carotene, which acts as a natural sunblock and may protect your skin from sun damage.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,sweet potatoes",
+		"Lang": "EN"
+	}, {
+		"Id": "14",
+		"Title": "<h5>Red or Yellow Bell Peppers keeps your skin strong</h5>",
+		"ImageName": "bellpeppers-1.jpg",
+		"Description": "<p>Like sweet potatoes, bell peppers are an excellent source of beta-carotene, which your body converts into vitamin A.<br/><br/>One cup (149 grams) of chopped red bell pepper contains the equivalent of 92% of the RDI for vitamin A<br/><br/>They’re also one of the best sources of vitamin C, necessary for creating the protein collagen which keeps skin firm and strong. A single cup (149 grams) of bell pepper provides an impressive 317% of the RDI for vitamin C<br/><br/>A large observational study in women linked eating plenty of vitamin C to a reduced risk of wrinkled and dry skin with age<br/><br/>SUMMARY<br/>Bell peppers contain plenty of beta-carotene and vitamin C — both of which are important antioxidants for your skin. Vitamin C is also necessary to create collagen, the structural protein that keeps your skin strong.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,red bell pepper,yellow bell pepper",
+		"Lang": "EN"
+	}, {
+		"Id": "15",
+		"Title": "<h5>Broccoli may help prevent skin cancer</h5>",
+		"ImageName": "green-broccoli-500x500.jpg",
+		"Description": "<p>Broccoli is full of many vitamins and minerals important for skin health, including zinc, vitamin A and vitamin C<br/><br/>It also contains lutein, a carotenoid that works like beta-carotene. Lutein protects your skin from oxidative damage, which can cause your skin to become dry and wrinkled.<br/><br/>But broccoli florets also pack a special compound called sulforaphane, which boasts some impressive potential benefits. It may even have anti-cancer effects, including on some types of skin cancer<br/><br/>Sulforaphane is also a powerful protective agent against sun damage. It works in two ways: by neutralizing harmful free radicals and switching on other protective systems in your body<br/><br/>In laboratory tests, sulforaphane reduced the number of skin cells killed by UV light by as much as 29%, with protection lasting up to 48 hours. Evidence suggests sulforaphane may also maintain collagen levels in your skin<br/><br/>SUMMARY<br/>Broccoli is a good source of vitamins, minerals and carotenoids that are important for skin health. It also contains sulforaphane, which may help prevent skin cancer and protect your skin from sunburn.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,broccoli",
+		"Lang": "EN"
+	}, {
+		"Id": "16",
+		"Title": "<h5>Tomatoes may help prevent wrinkling</h5>",
+		"ImageName": "Bright_red_tomato_and_cross_section02.jpg",
+		"Description": "<p>Tomatoes are a great source of vitamin C and contain all of the major carotenoids, including lycopene.<br/><br/>Beta-carotene, lutein and lycopene have been shown to protect your skin against damage from the sun. They may also help prevent wrinkling<br/><br/>Because tomatoes contain all of the major carotenoids, they’re an excellent food for maintaining healthy skin.<br/><br/>Consider pairing carotenoid-rich foods like tomatoes with a source of fat, such as cheese or olive oil. Fat increases your absorption of carotenoids<br/><br/>SUMMARY<br/>Tomatoes are a good source of vitamin C and all of the major carotenoids, especially lycopene. These carotenoids protect your skin from sun damage and may help prevent wrinkling.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,tomatoes",
+		"Lang": "EN"
+	}, {
+		"Id": "17",
+		"Title": "<h5>Dark Chocolate improves blood flow and skin texture</h5>",
+		"ImageName": "darkchocolate.jpg",
+		"Description": "<p>If you need one more reason to eat chocolate, here it is: The effects of cocoa on your skin are pretty phenomenal.<br/><br/>After 6–12 weeks of consuming a cocoa powder high in antioxidants each day, participants in one study experience thicker, more hydrated skin.<br/><br/>Their skin was also less rough and scaly, less sensitive to sunburn and had better blood flow — which brings more nutrients to your skin <br/><br/>Another study found that eating 20 grams of high-antioxidant dark chocolate per day could allow your skin to withstand over twice as much UV radiation before burning versus eating low-antioxidant chocolate<br/><br/>Several other studies have produced similar results, including improvements in the appearance of wrinkles. However, keep in mind that at least one study did not find significant effects<br/><br/>Make sure to choose dark chocolate with at least 70% cocoa in order to maximize the benefits and keep added sugar to a minimum.<br/><br/>SUMMARY<br/>Cocoa contains antioxidants that may protect your skin against sunburn. These antioxidants may also improve wrinkles, skin thickness, hydration, blood flow and skin texture.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,dark chocolate",
+		"Lang": "EN"
+	}, {
+		"Id": "18",
+		"Title": "<h5>Green Tea improves hydration</h5>",
+		"ImageName": "green-tea.jpg",
+		"Description": "<p>Green tea may protect your skin from damage and aging.<br/><br/>The powerful compounds found in green tea are called catechins and work to improve the health of your skin in several ways.<br/><br/>Like several other antioxidant-containing foods, green tea can help protect your skin against sun damage<br/><br/>One 12-week study in 60 women found that drinking green tea daily could reduce redness from sun exposure by up to 25%. Green tea also improved the moisture, roughness, thickness and elasticity of their skin<br/><br/>While green tea is a great choice for healthy skin, you may want to avoid drinking your tea with milk. There's evidence that milk could reduce the impact of green tea’s antioxidants<br/><br/>SUMMARY<br/>The catechins found in green tea are powerful antioxidants that can protect your skin against sun damage and reduce redness as well as improve its hydration, thickness and elasticity.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,green tea",
+		"Lang": "EN"
+	}, {
+		"Id": "19",
+		"Title": "<h5>Red Wine contains famous antioxidant</h5>",
+		"ImageName": "big-reds-header.jpg",
+		"Description": "<p>Red wine is famous for containing resveratrol, a compound that comes from the skin of red grapes.<br/><br/>Resveratrol is credited with a wide range of health benefits, among them reducing the effects of aging.<br/><br/>Test-tube studies suggest it may also slow the production of harmful free radicals, which damage skin cells and cause signs of aging<br/><br/>Unfortunately, there's not much evidence that the amount of resveratrol you get from a glass of red wine is enough to impact your skin. And since red wine is an alcoholic beverage, there are negative effects to drinking it in excess.<br/><br/>It's not recommended to start drinking red wine just because of its potential health benefits. However, if you already drink in moderation, you might enjoy red wine as your alcoholic beverage of choice.<br/><br/>SUMMARY<br/>Resveratrol, the famous antioxidant found in red wine, may slow your skin’s aging process by impairing harmful free radicals that damage your skin.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "diet,red wine",
+		"Lang": "EN"
+	}, {
+		"Id": "20",
+		"Title": "<h5>Acne - Apple cider vinegar</h5>",
+		"ImageName": "applecidevinegar.jpg",
+		"Description": "<p>Apple cider vinegar is made by fermenting apple cider, or the unfiltered juice from pressed apples.<br/><br/>Like other vinegars, it is known for its ability to fight many types of bacteria and viruses<br/><br/>Apple cider vinegar contains several organic acids that have been shown to kill P. acnes<br/><br/>In particular, succinic acid has been shown to suppress inflammation caused by P. acnes, which may prevent scarring<br/><br/>Also, lactic acid has been shown to improve the appearance of acne scars<br/><br/> What's more, apple cider vinegar may help dry up the excess oil that causes acne in the first place.<br/><br/><b>How to Use It</b><br/><ul><li>Mix 1 part apple cider vinegar and 3 parts water (use more water for sensitive skin).</li><li>After cleansing, gently apply the mixture to the skin using a cotton ball.</li><li>Let sit for 5–20 seconds, rinse with water and pat dry.</li><li>Repeat this process 1–2 times per day, as needed.</li><li>It is important to note that applying apple cider vinegar to your skin can cause burns and irritation, so it should always be used in small amounts and diluted with water.</li></ul><br/><br/>SUMMARY:<br/>The organic acids in apple cider vinegar may help kill acne-causing bacteria and reduce the appearance of scars. Applying it to the skin may cause burns or irritation, so it should be used carefully.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,apple cider vinegar",
+		"Lang": "EN"
+	}, {
+		"Id": "21",
+		"Title": "<h5>Acne - Zinc Supplement</h5>",
+		"ImageName": "zincsupplement.jpg",
+		"Description": "<p>Zinc is an essential nutrient that's important for cell growth, hormone production, metabolism and immune function.<br/><br/>It is also one of the most studied natural treatments for acne. Research shows that people with acne tend to have lower levels of zinc in their blood than those with clear skin<br/><br/>Several studies have shown that taking zinc orally helps reduce acne.<br/><br/>In one study, 48 acne patients were given oral zinc supplements three times per day. After eight weeks, 38 patients experienced an 80–100% reduction in acne<br/><br/>The optimal dosage of zinc for acne has not been established, but several studies have shown a significant reduction of acne using 30–45 mg of elemental zinc per day<br/><br/>Elemental zinc refers to the amount of zinc that's present in the compound. Zinc is available in many forms, and each one contains a different amount of elemental zinc.<br/><br/>Zinc oxide contains the highest amount of elemental zinc at 80%.<br/><br/>The recommended safe upper limit of zinc is 40 mg per day, so it is probably best to not exceed that amount unless under the supervision of a medical doctor. Taking too much zinc may cause adverse effects, including stomach pain and gut irritation.<br/><br/>It is also important to note that applying zinc to the skin has not been shown to be effective. This may be because zinc is not effectively absorbed through the skin.<br/><br/>SUMMARY:<br/>Individuals with acne tend to have lower zinc levels than people with clear skin. Several studies show that taking zinc orally can significantly reduce acne.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "products",
+		"Tags": "acne,zinc supplements",
+		"Lang": "EN"
+	}, {
+		"Id": "22",
+		"Title": "<h5>Acne - Honey and Cinnamon Mask</h5>",
+		"ImageName": "honeycinamonmask.jpg",
+		"Description": "<p>Both honey and cinnamon are excellent sources of antioxidants<br/><br/>Studies have found applying antioxidants to the skin is more effective at reducing acne than benzoyl peroxide and retinoids<br/><br/>These are two common acne medications for the skin that have antibacterial properties.<br/><br/>The antioxidants studied were vitamin B3, linoleic (omega-6) fatty acid and sodium ascorbyl phosphate (SAP), which is a vitamin C derivative.<br/><br/>These specific antioxidants are not found in honey or cinnamon, but there is a possibility that other antioxidants may have a similar effect.<br/><br/>Honey and cinnamon also have the ability to fight bacteria and reduce inflammation, which are two factors that trigger acne<br/><br/>While the anti-inflammatory, antioxidant and antibacterial properties of honey and cinnamon may benefit acne-prone skin, no studies exist on their ability to treat acne.<br/><br/><b>How to Make a Honey and Cinnamon Mask</b><br/><ul><li>Mix 2 tablespoons honey and 1 teaspoon cinnamon together to form a paste.</li><li>After cleansing, apply the mask to your face and leave it on for 10–15 minutes.</li><li>Rinse the mask off completely and pat your face dry.</li></ul><br/><br/>SUMMARY:<br/>Honey and cinnamon have anti-inflammatory, antioxidant and antibacterial properties. Because of this, they may be beneficial for acne-prone skin.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,honey,cinnamon",
+		"Lang": "EN"
+	}, {
+		"Id": "23",
+		"Title": "<h5>Acne - Spot Treat With Tea Tree Oil</h5>",
+		"ImageName": "tea-tree-oil.png",
+		"Description": "<p>Tea tree oil is an essential oil that is extracted from the leaves of Melaleuca alternifolia, a small tree native to Australia.<br/><br/>It is well known for its ability to fight bacteria and reduce skin inflammation<br/><br/>What's more, several studies show that applying 5% tea tree oil to the skin effectively reduces acne<br/><br/>When compared to 5% benzoyl peroxide, 5% tea tree oil did not act as quickly, but it did significantly improve acne after three months of useIt also resulted in fewer adverse effects like dryness, irritation and burning, compared to benzoyl peroxide.<br/><br/>Tea tree oil is very potent, so always dilute it before applying it to your skin.<br/><br/><b>How to Use It</b><br/><ul><li>Mix 1 part tea tree oil with 9 parts water.</li><li>Dip a cotton swab into the mixture and apply it to affected areas.</li><li>Apply moisturizer if desired.</li><li>Repeat this process 1–2 times per day, as needed.</li></ul><br/><br/>SUMMARY:<br/>Tea tree oil has strong anti-bacterial and anti-inflammatory properties. Applying it to the skin has been shown to reduce acne.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "products",
+		"Tags": "acne,tea,tree oil",
+		"Lang": "EN"
+	}, {
+		"Id": "24",
+		"Title": "<h5>Acne - Apply Green Tea to Your Skin</h5>",
+		"ImageName": "greenteaonskin.jpg",
+		"Description": "<p>Green tea is very high in antioxidants, and drinking it can promote good health.<br/><br/>There aren't any studies exploring the benefits of drinking green tea when it comes to acne, but applying it directly to the skin has been shown to help.<br/><br/>This is likely because the flavonoids and tannins in green tea are known to help fight bacteria and reduce inflammation, which are two main causes of acne<br/><br/>The major antioxidant in green tea — epigallocatechin-3-gallate (EGCG) — has been shown to reduce sebum production, fight inflammation and inhibit the growth of P. acnes in individuals with acne-prone skin<br/><br/>Multiple studies have shown that applying a 2–3% green tea extract to the skin significantly reduces sebum production and pimples in those with acne<br/><br/>You can buy creams and lotions that contain green tea, but it is just as easy to make your own mixture at home.<br/><br/><b>How to Use It</b><ul><li>Steep green tea in boiling water for 3–4 minutes.</li><li>Allow tea to cool.</li><li>Using a cotton ball, apply tea to skin or pour into a spray bottle to spritz on.</li><li>Allow to dry, then rinse with water and pat dry.</li><li>You can also add the remaining tea leaves to honey and make a mask.</li></ul><br/><br/>Even though there isn't any evidence that drinking green tea can fight acne, some research suggests it may still be beneficial.<br/><br/>For example, drinking green tea has been shown to lower blood sugar and insulin levels, which are factors that can contribute to the development of acne<br/><br/>SUMMARY:<br/>Green tea is high in antioxidants that help fight bacteria and reduce inflammation. Applying green tea to the skin has been shown to significantly reduce acne.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,green tea",
+		"Lang": "EN"
+	}, {
+		"Id": "25",
+		"Title": "<h5>Acne - Apply Witch Hazel</h5>",
+		"ImageName": "witch-hazel-growing.jpg",
+		"Description": "<p>Witch hazel is extracted from the bark and leaves of the North American witch hazel shrub, Hamamelis virginiana. It contains tannins, which have strong antibacterial and anti-inflammatory properties<br/><br/>That's why it's used to treat a broad range of skin conditions, including dandruff, eczema, varicose veins, burns, bruises, insect bites and acne.<br/><br/>Unfortunately, there aren't any studies on the ability of witch hazel to treat acne specifically.<br/><br/>However, there are several studies that show applying witch hazel to the skin can fight bacteria, reduce inflammation and help with healing<br/><br/><b>How to Use It</b><br/><ul><li>Combine 1 tablespoon witch hazel bark and 1 cup water in a small saucepan.</li><li>Soak witch hazel for 30 minutes and then bring the mixture to a boil on the stove.</li><li>Reduce to a simmer and cook, covered, for 10 minutes.</li><li>Remove the mixture from the heat and let sit for an additional 10 minutes.</li><li>Strain and store the liquid in a sealed container.</li><li>Apply to clean skin using a cotton ball 1–2 times per day, or as desired.</li></ul><br/><br/>Nevertheless, it is important to note that commercially prepared versions may not contain tannins, as they are often lost in the distillation process.<br/><br/>SUMMARY:<br/>Applying witch hazel to the skin has been shown to fight bacteria, reduce inflammation and help heal the skin. It may be beneficial for individuals with acne, but more research is needed.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,witch hazel",
+		"Lang": "EN"
+	}, {
+		"Id": "26",
+		"Title": "<h5>Acne - Moisturize With Aloe Vera</h5>",
+		"ImageName": "aloe-vera-gel.jpg",
+		"Description": "<p>Aloe vera is a tropical plant whose leaves produce a clear gel.<br/><br/>The gel is often added to lotions, creams, ointments and soaps. It's commonly used to treat abrasions, rashes, burns and other skin conditions.<br/><br/>When applied to the skin, aloe vera gel can help heal wounds, treat burns and fight inflammation<br/><br/>Aloe vera also contains salicylic acid and sulfur, which are both used extensively in the treatment of acne<br/><br/>Several studies have shown that applying salicylic acid to the skin significantly reduces acne<br/><br/>Similarly, applying sulfur has been proven to be an effective acne treatment<br/><br/>While research shows great promise, the anti-acne benefits of aloe vera itself require further scientific evidence.<br/><br/><b>How to Use It</b><br/><ul><li>Scrape the gel from the aloe plant out with a spoon.</li><li>Apply gel directly to clean skin as a moisturizer.</li><li>Repeat 1–2 times per day, or as desired.</li><li>You can also buy aloe vera gel from the store, but make sure it is pure aloe without any added ingredients.</li></ul><br/><br/>SUMMARY:<br/>When applied to the skin, aloe vera gel can help heal wounds, treat burns and fight inflammation. It may be beneficial for individuals with acne-prone skin, but more research needs to be done.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,aloe vera",
+		"Lang": "EN"
+	}, {
+		"Id": "27",
+		"Title": "<h5>Acne - Take a Fish Oil Supplement</h5>",
+		"ImageName": "fish-oil.jpg",
+		"Description": "<p>Omega-3 fatty acids are incredibly healthy fats that offer a multitude of health benefits.<br/><br/>You must get these fats from your diet, but research shows that most people who eat a standard Western diet don't get enough of them<br/><br/>Fish oils contain two main types of omega-3 fatty acids: eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA).<br/><br/>EPA benefits the skin in several ways, including managing oil production, maintaining adequate hydration and preventing acne<br/><br/>High levels of EPA and DHA have been shown to decrease inflammatory factors, which may reduce the risk of acne<br/><br/>In one study, 45 individuals with acne were given omega-3 fatty acid supplements containing both EPA and DHA daily. After 10 weeks, acne decreased significantly <br/><br/>There is no specific recommended daily intake of omega-3 fatty acids, but most health organizations recommend healthy adults consume a minimum of 250–500 mg of combined EPA and DHA daily.<br/><br/>You can also get omega-3 fatty acids by eating salmon, sardines, anchovies, walnuts, chia seeds and ground flaxseeds.<br/><br/>To learn more about fish oil supplements, check out this article.<br/><br/>SUMMARY:<br/>Fish oils contain EPA and DHA omega-3 fatty acids. Taking a fish oil supplement may help decrease acne.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "products",
+		"Tags": "acne,fish oil supplements",
+		"Lang": "EN"
+	}, {
+		"Id": "28",
+		"Title": "<h5>Acne - Exfoliate Regularly</h5>",
+		"ImageName": "scrubbing.jpg",
+		"Description": "<p>Exfoliation is the process of removing the top layer of dead skin cells. It can be achieved mechanically by using a brush or scrub to physically remove the cells. Alternatively, it can be removed chemically by applying an acid that dissolves them.<br/><br/>Exfoliation is believed to improve acne by removing the skin cells that clog up pores.<br/><br/>It is also believed to make acne treatments for the skin more effective by allowing them to penetrate deeper, once the topmost layer of skin is removed.<br/><br/>Unfortunately, the research on exfoliation and its ability to treat acne is limited.<br/><br/>Some studies show that microdermabrasion, which is a method of exfoliation, can improve the skin's appearance, including some cases of acne scarring<br/><br/>In one small study, 25 patients with acne received eight microdermabrasion treatments at weekly intervals. Based on before and after photos, this helped improve acne<br/><br/> 96% of the participants were pleased with the results and would recommend the procedure to others. Yet while these results indicate that exfoliation may improve acne, more research is needed.<br/><br/>There are a wide variety of exfoliation products available in stores and online, but it's just as easy to make a scrub at home using sugar or salt.<br/><br/><b>How to Make a Scrub at Home</b><br/><ul><li>Mix equal parts sugar (or salt) and coconut oil.</li><li>Scrub skin with mixture and rinse well.</li><li>Exfoliate as often as desired up to once daily.</li></ul><br/><br/>SUMMARY:<br/>Exfoliation is the process of removing the top layer of dead skin cells. It may reduce the appearance of scars and discoloration, but more research needs to be done on its ability to treat acne.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,scrubbing,exfoliate",
+		"Lang": "EN"
+	}, {
+		"Id": "29",
+		"Title": "<h5>Acne - Follow a Low Glycemic Load Diet</h5>",
+		"ImageName": "Glycemic_Fruit.jpg",
+		"Description": "<p>The relationship between diet and acne has been debated for years.<br/><br/>Recent evidence suggests that dietary factors, such as insulin and glycemic index, may be associated with acne<br/><br/>A food's glycemic index (GI) is a measure of how quickly it raises blood sugar.<br/><br/>Eating high-GI foods causes a spike in insulin, which is thought to increase sebum production. Because of this, high-GI foods are believed to have a direct effect on the development and severity of acne.<br/><br/>Foods with a high glycemic index include white bread, sugary soft drinks, cakes, doughnuts, pastries, candies, sugary breakfast cereals and other processed foods.<br/><br/>Foods with a low glycemic index include fruits, vegetables, legumes, nuts and whole or minimally processed grains.<br/><br/>In one study, 43 people followed either a high- or low-glycemic diet. After 12 weeks, the individuals consuming a low-glycemic diet had a significant improvement in both acne and insulin sensitivity, compared to those eating carb-dense foods<br/><br/>Another study with 31 participants yielded similar results<br/><br/> These small studies suggest that a low-glycemic diet may be helpful for individuals with acne-prone skin, but further research is needed.<br/><br/>SUMMARY:<br/>Eating high-glycemic foods may increase sebum production and contribute to acne. More research is needed to determine whether a low-glycemic diet can effectively treat or prevent acne.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "diet",
+		"Tags": "acne,glycemic load diet",
+		"Lang": "EN"
+	}, {
+		"Id": "30",
+		"Title": "<h5>Acne - Cut Back on Dairy</h5>",
+		"ImageName": "stopdairy.jpg",
+		"Description": "<p>The relationship between dairy and acne is highly controversial.<br/><br/>Drinking milk and consuming dairy products exposes you to hormones, which may cause hormonal changes and lead to acne<br/><br/>Two large studies reported that higher levels of milk consumption were associated with acne<br/><br/>However, participants self-reported the data in both of these studies, so more research needs to be done in order to establish a true causal relationship.<br/><br/>SUMMARY:<br/>Some studies found a positive association between drinking milk and acne. Limiting milk and dairy consumption may be a good idea for those with acne-prone skin, but more research needs to be done.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,dairy",
+		"Lang": "EN"
+	}, {
+		"Id": "31",
+		"Title": "<h5>Acne - Reduce Stress</h5>",
+		"ImageName": "Reduce-stress.jpg",
+		"Description": "<p>The hormones released during periods of stress may increase sebum production and skin inflammation, making acne worse<br/><br/>In fact, multiple studies have linked stress to an increase in acne severity<br/><br/>What's more, stress can slow wound healing by up to 40%, which may slow the repair of acne lesions <br/><br/>Certain relaxation and stress-reduction treatments have been shown to improve acne, but more research needs to be done<br/><br/><b>Ways to Reduce Stress</b><br/><ul><li>Get more sleep</li><li>Engage in physical activity</li><li>Practice yoga</li><li>Meditate</li><li>Take deep breaths</li></ul><br/><br/>SUMMARY:<br/>Hormones that are released during times of stress can make acne worse. Reducing stress may help improve acne.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,stress",
+		"Lang": "EN"
+	}, {
+		"Id": "32",
+		"Title": "<h5>Acne - Exercise Regularly</h5>",
+		"ImageName": "how-to-exercise-regularly.jpg",
+		"Description": "<p>Exercise promotes healthy blood circulation. The increase in blood flow helps nourish the skin cells, which may help prevent and heal acne.<br/><br/>Exercise also plays a role in hormone regulation<br/><br/>Several studies have shown that exercise can decrease stress and anxiety, both of which are factors that can contribute to the development of acne<br/><br/>It's recommended that healthy adults exercise for 30 minutes 3–5 times per week. This can include walking, hiking, running and lifting weights.<br/><br/>SUMMARY:<br/>Exercise promotes healthy blood circulation, regulates hormones and helps reduce stress.</p>",
+		"CreatedOn": "Jan 26",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,stress,execise",
+		"Lang": "EN"
+	}, {
+		"Id": "33",
+		"Title": "<h5>Liposuction</h5>",
+		"ImageName": "liposuction.jpg",
+		"Description": "<p>Liposuction, or suction-assisted lipectomy, uses thin cannulas, or hollow metal tubes, to vacuum fat from various parts of the body, usually the abdomen, thighs, buttocks, hips, backs of the arms, and neck. Liposuction may also be used for male breast reduction.<br/><br/>Tools used in liposuction include standard, ultrasound, mechanical, and laser devices. They all tend to involve suction of fat through a tube.<br/><br/>To prevent complications, there is a limit to the amount of fat that the surgeon can safely remove, depending on whether the patient will be discharged immediately after surgery or admitted to the hospital.<br/><br/>Liposuction should not be intended as a weight-loss procedure. When performed in the right patient, the goal is to improve contour and decrease limited areas of fat deposits.<br/><br/>Complications are rare but possible. They include the accumulation of blood under the skin, known as hematoma, infection, changes in sensation, allergic reactions, damage to underyling structures, and unsatisfactory results. The doctor must discuss these with the patient beforehand.<br/><br/>Liposuction does not reduce the risk of developing diabetes, heart disease, or high blood pressure.</p>",
+		"CreatedOn": "Jan 27",
+		"Author": "Dr. Konica Saxena",
+		"Category": "surgery",
+		"Tags": "surgery,liposuction",
+		"Lang": "EN"
+	}, {
+		"Id": "34",
+		"Title": "<h5>Breast implants can be used to increase breast size or in reconstruction after surgery</h5>",
+		"ImageName": "breastimplants.jpg",
+		"Description": "<p>Women may seek breast surgery to improve their body shape. Mammoplasty procedures may include:<br/><br/>Breast augmentation, or enlargement, traditionally performed using saline or silicone gel prosthetics, and now occasionally with fat grafting.<br/><br/>It may be carried out if the woman feels her breasts are too small, if one breast is larger than the other, or if the breasts have changed after pregnancy or breastfeeding. Some older women opt for this treatment when the breasts being to droop due to the skin losing elasticity.<br/><br/>In some women, a breast enlargement can boost self-esteem and improve their feelings about their sexuality. In some, however, existing problems remain. This is why women are encouraged to undergo counseling first.<br/><br/>Breast reduction can help provide relief from physical discomfort, while the aim of augmentation more often relates to appearance. Breast reduction may also reduce the risk of breast cancer in women who are at high risk of the disease.<br/><br/>Mastopexy, or a breast lift, involves removing skin and glandular tissue to make the breasts smaller and rearranging the remaining tissue to make the breast appear lifted.<br/><br/>Depending on how much volume a patient has lost or desires, mastopexy can be combined with an implant. While it is similar to a breast reduction, which removes a much greater amount of tissue, mastopexy is not usually covered by major insurance carriers as it is not deemed medically necessary.<br/><br/>Male breast reduction treats gynecomastia, an enlargement of the mammary tissue in men. It may be done by liposuction or with various scar patterns, often hidden around the nipple and areola.</p>",
+		"CreatedOn": "Jan 27",
+		"Author": "Dr. Konica Saxena",
+		"Category": "surgery",
+		"Tags": "surgery,breast implants",
+		"Lang": "EN"
+	}, {
+		"Id": "35",
+		"Title": "<h5>Chemical peels for resurfacing skin</h5>",
+		"ImageName": "chemical-peel.jpg",
+		"Description": "<p><b>Chemical peels</b> may help treat acne, pock marks, scars, or wrinkles. A number of active agents may be used.<br/><br/>A light or superficial peel uses Alpha Hydroxy Acids (AHAs) such as glycolic, lactic, or fruit acids to treat the outermost layers of the skin. The treatment is not as deep as with some peels, so the recovery time is minimal.<br/><br/>A medium peel usually involves TCA (tri-chloroacetic acid) of various concentrations. It penetrates the dermis, or deep layer of the skin, to a greater depth than the light peels. The recovery and pain are more significant than the lighter peels. Redness and flaking may persist for several days or weeks.<br/><br/>A deep peel, or phenol peel, penetrates the skin to the deepest extent. As a result, it has the greatest impact on resurfacing the skin, but it also has the longest recovery time, and it can causing scarring and skin lightening.<br/><br/>Chemical peels have been shown to be safe and effective for both light and darker skin types.</p>",
+		"CreatedOn": "Jan 27",
+		"Author": "Dr. Konica Saxena",
+		"Category": "surgery",
+		"Tags": "surgery,chemical peels",
+		"Lang": "EN"
+	}, {
+		"Id": "36",
+		"Title": "<h5>Botulinum toxin for tighten skin</h5>",
+		"ImageName": "botox-compressor.jpg",
+		"Description": "<p><b>Botulinum toxin</b>, or botox, is the brand name of a toxin produced by the bacterium Clostridium botulinum (C. botulinum), first approved by the FDA in the 1980s for muscle spasm.<br/><br/>A range of cosmetic surgery procedures aim to improve appearance.<br/><br/>It is used to treat wrinkles and facial creases.<br/><br/>It acts by blocking the signal from nerves to the muscles that are injected. The injected muscle can no longer contract, or tighten, as forcefully as before, and this leads to a controlled relaxation of the muscles.<br/><br/>It is approved for treatment of frown lines on the forehead, crow's feet, or lines around the eye, and axillary hyperhidrosis, or increased sweating of the armpits.<br/><br/>Apart from 'botox,' several other brand names of botulinum toxin are now commercially available.</p>",
+		"CreatedOn": "Jan 27",
+		"Author": "Dr. Konica Saxena",
+		"Category": "surgery",
+		"Tags": "surgery,botox, botulinum toxin",
+		"Lang": "EN"
+	}, {
+		"Id": "37",
+		"Title": "<h5>Soft tissue filler for wrinkles</h5>",
+		"ImageName": "Dermal-Fillers.jpg",
+		"Description": "<p><b>Soft tissue fillers, or dermal fillers</b>, are medical device implants approved by the FDA for use in helping to create a smoother, fuller appearance in the face.<br/><br/>They can be used to treat nasolabial folds, cheeks, and lips, and to increase the volume of the back of the hand.<br/><br/>They can also reduce wrinkles, lines and scars, and augment soft tissue contours. They are not permanent, but they are degraded by the body, so repeat treatments may be necessary to maintain the effect.<br/><br/>Commercially available products include hyaluronic acid, poly-L-lactic acid (PLLA), calcium hydroxyapetite, and polymethylmethacrylate beads (PMMA).<br/><br/>These products normally come in a gel formulation that fine needles can inject into the deeper layers of the skin and underlying soft tissue of the face. Collagen injections are no longer performed because some patients experienced allergic reactions, some of them serious.<br/><br/><b>Complications can occur with facial fillers, and especially permanent fillers. Clinicians and patients are urged to check the contents of a filler and discuss all the implications of surgery before going ahead with a procedure.</b><br/><br/>In 2015, the U.S. Food and Drug Administration (FDA) warned that rare but serious problems may arise if soft tissue fillers are accidentally injected into blood vessels in the face.</p>",
+		"CreatedOn": "Jan 27",
+		"Author": "Dr. Konica Saxena",
+		"Category": "surgery",
+		"Tags": "surgery,soft tissue filler,dermal fillers",
+		"Lang": "EN"
+	}, {
+		"Id": "38",
+		"Title": "<h5>Fat injections and fat grafting</h5>",
+		"ImageName": "fattransfer.jpg",
+		"Description": "<p><b>Fat injections and fat grafting</b> have broad applications in cosmetic surgery.<br/><br/>The patient's own fat is collected from one part of the body using liposuction, and it is injected into areas requiring volume enhancement. It is usually applied to the face, including the lips, the hands, and depressions in skin contour.<br/><br/>The results are generally safe and long lasting, and it can have the additional benefit of removing fat from a place where it is not wanted. The fat is removed, washed, and purified and then carefully re-injected with specially designed needles. Sometimes the procedure needs to be repeated several times for best results.<br/><br/><b>Stem-cell enriched fat grafts</b> have been trialed for reconstructive surgery, with promising results, suggesting that the procedure is reliable, safe, and effective. However, tumor growth may be an adverse effect, so further research is needed before stem cells can become central to plastic and reconstructive surgery.</p>",
+		"CreatedOn": "Jan 27",
+		"Author": "Dr. Konica Saxena",
+		"Category": "surgery",
+		"Tags": "surgery,fat grafting",
+		"Lang": "EN"
+	}, {
+		"Id": "39",
+		"Title": "<h5>चेहरे की रूखी त्वचा की देखभाल</h5>",
+		"ImageName": "dry-skin-hindi.jpg",
+		"Description": "<ul><li>रूखी (डाई) त्वचा सूखी तथा शुष्क होती है। इस पर मौसम का प्रभाव शीघ्र पड़ता है। देखभाल के अभाव में रूखी त्वचा पर शीघ्र झुर्रियां पड़ जाती है।</li><li>ऐसी त्वचा पर मॉइस्चराइजर या तैलीय क्रीम लगानी चाहिए।</li><li>विटामिन 'ए', 'बी', 'सी' एवं 'डी' युक्त आहार का अधिक सेवन करना चाहिए।</li><li>अधिक से अधिक पानी पीना चाहिए।</li><li>गर्मी की अपेक्षा सर्दियों में त्वचा अधिक शुष्क हो जाती है। ऐसे में त्वचा की सफाई अथवा स्नान के लिए हल्के गुनगुने पानी का प्रयोग करें। तेज गर्म पानी का प्रयोग कदापि न करे।</li></ul>",
+		"CreatedOn": "Feb 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "dry,wrinkles,moisturizer,warm water,cleaning",
+		"Lang": "HN"
+	}, {
+		"Id": "40",
+		"Title": "<h5>चेहरे की तैलीय त्वचा की देखभाल</h5>",
+		"ImageName": "oily-skin.jpg",
+		"Description": "<ul><li><p>तैलीय त्वचा चिकनी, छिद्रयुक्त और चमकीली होती हैं। ऐसी त्वचा पर शीघ्र ही कील-मुंहासे उत्पन्न हो जाते है।</p></li><li><p>तैलीय त्वचा को सदैव साफ-सफाई और विशेष देखभाल करने की आवश्यकता होती है।</p></li><li><p>चेहरे को दो-तीन बार फेशियल जेल या झागदार कलीजर से साफ करें।</p></li><li><p>चेहरे पर मॉइस्चराइजर टोनर लगाएं।</p></li><li><p>त्वचा की सुरक्षा के लिए ऑयल फ्री सनस्क्रीन का प्रयोग करें।</p></li><li><p>रात को सोते समय ए.एच.ए. (अल्फा हाइड्रॉक्सी एसिड) टोनर त्वचा पर अवश्य लगाएं।</p></li><li><p>अधिक तेल-मसाले या चिकनाई युक्त आहार का सेवन न करे </p></li><li><p> धूप में अधिक बाहर जाने से बचें।</p></li></ul>",
+		"CreatedOn": "Feb 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "oily,pimples,aha",
+		"Lang": "HN"
+	}, {
+		"Id": "41",
+		"Title": "<h5>चेहरे की मिश्रित त्वचा की देखभाल</h5>",
+		"ImageName": "combi-skin.jpg",
+		"Description": "<ul><li><p>मिश्रित त्वचा की देखभाल के लिए रूखी तथा तैलीय त्वचा के मिले-जुले उपाय अपनाने की आवश्यकता होती है।</p></li><li><p>चेहरे को साबुन रहित क्लींजर से साफ करें।</p></li><li><p>गालों पर मॉइस्चराइजर तथा टीजोन (माथा, नाक और ठोड़ी) पर ऑयल फ्री क्रीम लगाएं।</p></li><li><p>धूप में निकलते समय ऑयल फ्री सनस्क्रीन का इस्तेमाल करे।</p></li><li><p>रात को त्वचा की मालिश के बाद एएचए लोशन लगाएं।</p></li></ul>",
+		"CreatedOn": "Feb 05",
+		"Author": "Dr.Sunita Yadav",
+		"Category": "homeremedy",
+		"Tags": "combination,cleanser,tzone,aha,sunscreen",
+		"Lang": "HN"
+	}, {
+		"Id": "42",
+		"Title": "<h5>चेहरे की नाजुक त्वचा की देखभाल</h5>",
+		"ImageName": "sensitive-skin.jpg",
+		"Description": "<ul><li><p>संवेदनशील (सेंसिटिव) त्वचा पर प्रायः कील-मुंहासे, ब्लैक हेड एवं झाइयों की भरमार होती है।</p></li><li><p>तेज धूप, गर्मी, ठण्ड या वर्षा का प्रभाव इस पर ज्यादा पड़ता है।</p></li><li><p>ऐसी त्वचा की विशेष देखभाल की आवश्यकता होती है।</p></li><li><p>नाजुक त्वचा धूप में काफी संवेदनशील होती है। बाहर धूप में निकलते समय चेहरा*लाल व त्वचा पर दाने हो जाते है। इसलिए घर से बाहर<br/>निकलते समय चेहरे को ठंडे पानी से धोने के बाद सनस्क्रीन का इस्तेमाल ज़रूर करना चाहिए। जिससे धूप की किरणें सीधे चेहरे पर भी पड़े तो सनस्क्रीन लगी होने की वजह से चेहरे पर ज्यादा असर न पड़े।</p></li></ul>",
+		"CreatedOn": "Feb 05",
+		"Author": "Mrs.Purnima Saxena",
+		"Category": "homeremedy",
+		"Tags": "sensitive,pimples,blackhead,whitehead,sunscreen",
+		"Lang": "HN"
+	}, {
+		"Id": "43",
+		"Title": "<h5>चेहरे की सामान्य त्वचा की देखभाल</h5>",
+		"ImageName": "normalskin.jpg",
+		"Description": "<ul><li><p>एक चम्मच शहद में एक चम्मच अरंडी का तेल मिलाकर चेहरे और गर्दन पर लगाएं। 10 मिनट बाद ठंडे पानी से धो लें।</p></li><li><p>खीरे का रस दो चम्मच, लौकी का रस दो चम्मच, 4 संतरे की फांके, दो चम्मच पके हुए पपीते का गूदा, एक बादाम तथा 8-10 अंगूर-सभी को ठीक से मिलाकर पीस लें। इसमें एक चम्मच गुलाब जल डालकर चेहरे पर लगाएं। 10-15 मिनट बाद चेहरे को ठंडे पानी से धोकर साफ कर ले।</p></li><li><p>एक चम्मच चंदन और आधा चम्मच हल्दी- दोनों को गुलाब जल में मिलाकर पेस्ट बना लें। इसे चेहरे और गर्दन पर लगाएं। 15 मिनट बाद गुनगुने पानी से साफ कर लें।</p></li><li><p>एक चम्मच मैदा, एक चम्मच गुलाब जल और एक चम्मच दूध-तीनों को मिलाकर पेस्ट बना लें। इस पेस्ट को चेहरे और गर्दन पर लगाएं। 10-15 मिनट बाद चेहरे को गुनगुने पानी से धो लें।</p></li><li><p>एक चम्मच मुल्तानी मिट्टी, एक चम्मच दही और आधा चम्मच ग्लिसरीन इन सबको एक चम्मच गुलाब जल में मिलाकर ठीक से फेंट लें। इसे चेहरे पर लगाएं। सूखने के बाद चेहरा ठंडे पानी से साफ कर ले।</p></li><li><p>एक चम्मच जौ का आटा, एक चम्मच बेसन, एक चम्मच दही और आधा चम्मच गुलाब जल-सभी को ठीक से मिलाकर चेहरे पर लगाएं। 10 मिनट बाद चेहरा अच्छी तरह धो ले। यह सामान्य त्वचा के लिए बढ़िया उपाय है।</p></li><li><p>दो चम्मच गेहूं का आटा, एक चम्मच मलाई वाला दूध, आधा चम्मच नींबू का रस और आधा चम्मच हल्दी पाउडर इन सबको मिलाकर पूरे चेहरे पर लगाएं। 10 मिनट बाद इसे रगड़कर उतार लें। फिर साफ पानी से चेहरा धो लें।</p></li></ul>",
+		"CreatedOn": "Feb 05",
+		"Author": "Mrs.Purnima Saxena",
+		"Category": "homeremedy",
+		"Tags": "normal,honey,grapes,rose water",
+		"Lang": "HN"
+	}, {
+		"Id": "44",
+		"Title": "<h5>चेहरे को आकर्षक एवं चमकदार बनाने के उपाय</h5>",
+		"ImageName": "attractive-skin.jpg",
+		"Description": "<ul><li><p>तीन चम्मच गेहूं का चोकर, एक चम्मच मलाई और एक चम्मच मकखन में आवश्यकतानुसार दूध मिलाकर गाढा पेस्ट बना लें। इस पेस्ट को चेहरे पर लगाएं। 20 मिनट बाद ठंडे पानी से चेहरा साफ कर ले।</p></li><li><p>कच्चे पपीते का पेस्ट चार चम्मच तथा नारियल का तेल एक चम्मच दोनों को मिलाकर चेहरे और गर्दन पर लगाएं। 10-15 मिनट बाद ठंडे पानी से चेहरे तथा गर्दन को ले।</p></li><li><p>एक चम्मच शहद, एक चम्मच मलाई और आधा चम्मच हल्दी तीनों को मिलाकर पेस्ट बना लें। इस पेस्ट को पूरे चेहरे पर अच्छी तरह लगाएं। 15 मिनट बाद चेहरे को ठंडे पानी से धो लें।</p></li><li><p>एक पके केले को ठीक से मसल लें। इसमें कुछ बूंदे ग्लिसरीन की। मिलाकर इस मिश्रण को पूरे चेहरे पर लगाएं। सूख जाने पर ठंड पानी से धो ले।</p></li><li><p>एक चम्मच बादाम रोगन, एक चम्मच मलाई, एक चम्मच शहद, एक चम्मच कच्चा दूध, एक चम्मच गुलाब जल और एक चम्मच ग्लिसरीन इन सबको मिलाकर चेहरे, गर्दन एवं हाथ-पैर पर मलने से त्वचा की शुष्कता दूर होती है।</p></li><li><p>स्नान करने से 10-15 मिनट पहले दो चम्मच गाजर के रस में एक चम्मच कच्चा दूध मिलाकर नित्य चेहरे पर लगाएं। सूखने के बाद रगड़कर छुड़ा लें। यह प्रयोग नियमित रूप से कर सकती है।</p></li><li><p>मूंग की दाल को दही में पीसकर इसमें चुटकी भर हल्दी मिलाकर पूरे चेहरे पर लगाएं। चेहरे पर लगा लेप जब सूख जाये तो हल्के हाथों से रगड़कर छुड़ा लें। इससे त्वचा की शुष्कता दूर होगी और कांति जाएगी।</p></li><li>एक चम्मच सरसों, एक चम्मच काला तिल और आधा जायफल इन तीनों को रात भर के लिए पानी में भिगो दे। सबह उठकर ठीक से पीस ले। इसमें थोड़ा सा बेसन मिलाकर चेहरे पर लगाएं।</li><li>नाशपाती का कद्दूकस कर लें। इसे पूरे चेहरे पर लगाएं। कछ देर बाद चेहरे को पानी से साफ कर ले। यह त्वचा को शकता दूर करता है।</li><li>संतरे के रस को रुई के फाहे से चेहरे पर रोजाना लगाने से त्वचा की शुष्कता दूर होती है।</li></ul>",
+		"CreatedOn": "Feb 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "milk,attractive,pineapple,lemon,coconul oil",
+		"Lang": "HN"
+	}, {
+		"Id": "45",
+		"Title": "<h5>मिश्रित त्वचा निखारने के उपचार</h5>",
+		"ImageName": "combo.jpg",
+		"Description": "<ul><li>आधा कप अंजीर, एक चम्मच मुल्तानी मिट्टी, एक चम्मच पिसा पोस्ता, चार चम्मच संतरे का रस, आधा कप पिसा हरा मटर और एक चम्मच चंदन का तेल सभी को ठीक से मिला ले। इसे मिश्रित त्वचा पर लगाएं और सूखने के बाद हाथों को गीला करके हल्के हाथों से मसाज करते हुए पैक उतारें।</li><li><p>एक अंडा, चार चम्मच दही, एक चम्मच शहद और एक चम्मच नींबू का रस लें। सर्वप्रथम अंडे को फोड़कर दही के साथ ठीक से फेंट लें। इसके दो हिस्से कर लें। एक हिस्से में शहद मिलाएं। इस हिस्से को सी-जोन (गाल) पर लगाएं। तदुपरांत दूसरे हिस्से में नींबू का रस मिलाकर टी-जोन (माधा, नाक, ठोड़ी) पर लगाएं। 15-20 मिनट बाद चेहरे को साफ कर लें। यह उपाय नियमित रूप से कर सकती है।</p></li></ul>",
+		"CreatedOn": "Feb 05",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "combination,egg,lemon",
+		"Lang": "HN"
+	}, {
+		"Id": "46",
+		"Title": "<h5>चेहरे के दाग-धब्बे</h5>",
+		"ImageName": "spoty-skin.jpg",
+		"Description": "<ul><li>ताज़ी नीम और तुलसी की पत्तियों को ठीक से पीसकर चेहरे पर लगाने से हल्के दाग-धब्बे मिट जाते हैं।</li><li>आलू को अच्छी तरह पीसकर चेहरे पर लगाएं। 15 मिनट बाद चेहरे को पानी से साफ कर लें। इसका प्रयोग नियमित रूप से करने पर चेहरे का कालापन तथा दाग-धब्बे साफ हो जाते हैं।</li><li>पत्तागोभी को अच्छी तरह पीसकर चार चम्मच रस निकाले। इसमें एक चम्मच शहद मिलाकर सप्ताह में दो बार पूरे चेहरे पर लगाएं। इससे चेहरे का कालापन दूर हो जाता है।</li><li>मूली के कोमल पत्तों को पीसकर चेहरे पर लगाएं। 15 मिनट बाद पानी से चेहरे को अच्छी तरह धो लें। सप्ताह में दो बार इसका प्रयोग करने से कुछ ही सप्ताह में मुंहासों के हल्के दाग-धब्बे मिट जाते हैं।</li><li>एक चम्मच मुल्तानी मिट्टी में दो चम्मच टमाटर का रस मिलाकर चेहरे पर लगाने से कालापन तथा ब्लैक हेड दूर होते है। यह प्रयोग आप सप्ताह में दो बार कर सकती है।</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "neem,tulsi,potato,marks",
+		"Lang": "HN"
+	}, {
+		"Id": "47",
+		"Title": "<h5>रोम छिद्र कैसे कम करें</h5>",
+		"ImageName": "open-pores-one.jpg",
+		"Description": "<ul><li><p>बर्फ को कपड़े में लेकर चेहरे पर मलने से खुले रोमछिद्र बंद हो जाते है।</p></li><li><p>टमाटर के स्लाइस चेहरे पर मलने से खुले रोमछिद्र दूर होते है।</p></li><li><p>तैलीय त्वचा के रोम छिद्रों को बंद करने के लिए एस्ट्रिजेंट लगाएँ।</p></li><li><p>दो चम्मच गरम पानी में चुटकी भर फिटकरी मिला लें। इसे रूई के फाहे से रोम छिद्रों पर लगाएं। यह प्रयोग रोम छिद्रों को बंद करने में सहायक होता है।</p></li><li><p>एक चम्मच सिरका को एक चम्मच पानी में मिलाकर रूई के फाहे से चेहरे पर लगाने से खुले रोम छिद्र बंद हो जाते हैं।</p></li><li><p>खुले रोमछिद्रों पर स्ट्राबेरी का गूदा लगाएं। यह खुले रोम छिद्रों को दूर करने में काफी कारगर सिद्ध होता है।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Sunita Yadav",
+		"Category": "homeremedy",
+		"Tags": "open pores,ice,tomato,strawberry",
+		"Lang": "HN"
+	}, {
+		"Id": "48",
+		"Title": "<h5>रोमछिद्र के बचाव के घरेलू तरीके</h5>",
+		"ImageName": "open-pores.jpg",
+		"Description": "<ul><li><p>खुले रोमछिद्रों की समस्या से बचने के लिए त्वचा की नियमित रूप से सही सफाई करें। ।</p></li><li><p>चेहरे को दिन में चार-पाँच बार स्वच्छ पानी से अवश्य धोएं।</p></li><li><p>रूई के फाहे में स्किन फ्रेशनर लगाकर दिन में कई बार चेहरा साफ करें।</p></li><li><p>रात को सोते समय मेकअप अवश्य साफ कर लें, ताकि त्वचा को ताजी हवा मिल सके।</p></li><li><p>बाहर से आने के बाद चेहरे को हल्के साबुन से अवश्य साफ करें।</p></li><li><p>चेहरा धोने के लिए गुनगुने पानी का प्रयोग करें। गरम पानी खुले रोमछिद्रों को अधिक फैला देता है, जबकि ठंडा पानी रोमछिद्रों को संकुचित करता है।</p></li><li><p>खुले रोमछिद्रों की समस्या होने पर टेलकम पाउडर और फेस पाउडर का इस्तेमाल कम करें।</p></li><li><p>तैलीय त्वचा पर मेकअप करने से पहले चेहरे को ठंडे पानी से धो लें, फिर पैक लगाएं। इससे रोमछिद्र संकुचित हो जाएंगे और मेकअप भी अधिक समय तक टिका रहेगा।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Sakshi",
+		"Category": "homeremedy",
+		"Tags": "open pores,cold water",
+		"Lang": "HN"
+	}, {
+		"Id": "49",
+		"Title": "<h5>झुर्रियों की समस्या </h5>",
+		"ImageName": "wrinkles.jpg",
+		"Description": "<ul><li><p>बढ़ती उम्र में प्रायः त्वचा पर झुर्रियां आ जाती है। परंतु कई बार यह समस्या कम उम्र में भी दिखाई देने लगती है। ऐसे में चिंतित होना स्वाभाविक है। चेहरे पर समय से पूर्व झुर्रियां आदि न पड़े, इसके लिए त्वचा की विशेष देखभाल करने की आवश्यकता होती है।</p></li><li><p>मसूर की दाल को रात भर के लिए पानी में भिगो दें। सुबह ठीक से पीसकर इसमें चार-पाँच बुँदे बादाम रोगन मिलाकर चेहरे पर लगाएं। सूखने के बाद पानी से धोकर चेहरा साफ कर लें। इससे झुर्रियां दूर हो जाती है।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles",
+		"Lang": "HN"
+	}, {
+		"Id": "50",
+		"Title": "<h5>मूली से उपचार</h5>",
+		"ImageName": "white-radish.jpg",
+		"Description": "<p>चार चम्मच मूली के रस में एक चम्मच मक्खन मिलाकर ठीक से फंट लें। इसे त्वचा पर मलकर लगाएं। आधे घंटे बाद गुनगुने पानी से धो लें। इससे झुर्रियां दूर होती है और त्वचा में अद्भुत निखार आ जाता है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Himanshu Yadav ",
+		"Category": "homeremedy",
+		"Tags": "white radish",
+		"Lang": "HN"
+	}, {
+		"Id": "51",
+		"Title": "<h5>नींबू से उपचार</h5>",
+		"ImageName": "lemon.jpg",
+		"Description": "<p>एक चम्मच नींबू का रस और एक चम्मच ग्लिसरीन दोनों को ठीक से मिलाकर रात को सोते समय मेकअप उतारने के बाद चेहरे पर लगाएं। सुबह ठंडे पानी से चेहरा धो लें।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Nidhi Bhatnagar",
+		"Category": "homeremedy",
+		"Tags": "lemon",
+		"Lang": "HN"
+	}, {
+		"Id": "52",
+		"Title": "<h5>गुलाब जल और शहद से उपचार</h5>",
+		"ImageName": "rose-day.jpg",
+		"Description": "<p>एक चम्मच ग्लिसरीन, एक चम्मच गुलाब जल और चार चम्मच शहद-इन सबको मिलाकर किसी शीशी में रख लें। इसे रोज सुबह-शाम लगाएं। 10 मिनट बाद चेहरे को धो लें। इससे झुरयां दूर होती है। चेहरा भी खिला-खिला रहता है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "rose water,honey",
+		"Lang": "HN"
+	}, {
+		"Id": "53",
+		"Title": "<h5>मोसम्बी व हल्दी से उपचार</h5>",
+		"ImageName": "orange-turmeric.jpg",
+		"Description": "<p>एक चम्मच उड़द की दाल को चार चम्मच मोसम्बी के रस में डालकर रात भर के लिए रख दे। सुबह इसे पीसकर इसमें चुटकी भर हल्दी मिलाकर पूरे चेहरे पर लगाएं। 10-15 मिनट बाद चेहरा ठंडे पानी से साफ कर लें।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Megha Satogiya",
+		"Category": "homeremedy",
+		"Tags": "turmeric",
+		"Lang": "HN"
+	}, {
+		"Id": "54",
+		"Title": "<h5>सेब से उपचार</h5>",
+		"ImageName": "apple.jpg",
+		"Description": "<p>एक सेब को पानी में ठीक से उबाल लें। फिर उसे मसलकर छिलका और बीज फेंक दें। इसमें एक चम्मच शहद और एक चम्मच मलाई मिलाकर चेहरे पर लगाएं। 15 मिनट बाद चेहरा पानी से साफ कर लें। यह प्रयोग नियमित रूप से करें।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "apple",
+		"Lang": "HN"
+	}, {
+		"Id": "55",
+		"Title": "<h5>अरंडी के तेल, केला और शहद से उपचार</h5>",
+		"ImageName": "banana-honey.jpg",
+		"Description": "<ul><li><p>एक चम्मच अरंडी के तेल में पांच बूंदें शहद मिलाकर ठीक से फेंट लें। इसे चेहरे पर नियमित रूप से लगाने पर झुर्रियों की समस्या उत्पन्न नहीं होती।</p></li><li><p>एक केले को ठीक से मसल लें। इसमें आधा चम्मच शहद और दो-तीन बूंदे बादाम रोगन मिलाकर चेहरे पर लगाएं। 10 मिनट बाद चेहरा साफ कर लें</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "banana,honey",
+		"Lang": "HN"
+	}, {
+		"Id": "56",
+		"Title": "<h5>बादाम के तेल व अंडे से उपचार</h5>",
+		"ImageName": "almond.png",
+		"Description": "<ul><li><p>एक अंडे का पीला वाला हिस्सा, एक चम्मच बादाम का तेल और आधा चम्मच गुलाब जल इन तीनों को मिलाकर ठीक से फेंट लें। इसे पूरे चेहरे और गर्दन पर लगाएं। 20 मिनट बाद गुनगुने पानी से चेहरा साफ कर ले।</p></li><li><p>कच्चे दूध में थोड़ा-सा नमक मिलाकर स्नान करने से पहले चेहरे पर लगाने से झुर्रियां नहीं पड़ती।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "almond,egg",
+		"Lang": "HN"
+	}, {
+		"Id": "57",
+		"Title": "<h5>अल्ट्रावायलेट किरणों से नुकसान</h5>",
+		"ImageName": "UV-damages-skin-web.jpg",
+		"Description": "<p>सूर्य को अल्ट्रा वॉयलेट किरणें त्वचा को हानि पहुंचाता है, जिससे त्वचा पर झुर्रियां पड़ जाती है। जब भी धूप में निकलें, पर्याप्त बचाव अवश्य कर लें। वज़न बढ़ने के बाद घटाने से झुर्रियां आ जाती है। इसलिए वज़न बढ़ने न दें। अपने खान-पान पर ध्यान दें। तली चीजें कम खायें। रोजाना सैर करें और चेहरे को साफ रखें। अगर आप सुबह सैर करने नहीं जा सकते तो शाम को सैर करने ज़रूर जाया करें।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Megha Satogiya",
+		"Category": "homeremedy",
+		"Tags": "uv damages",
+		"Lang": "HN"
+	}, {
+		"Id": "58",
+		"Title": "<h5>संतुलित भोजन का महत्व</h5>",
+		"ImageName": "balanced-diet.jpg",
+		"Description": "<p>त्वचा स्वस्थ एवं सुंदर बनाए रखने के लिए संतुलित भोजन ग्रहण करना ज़रूरी है। आहार में पर्याप्त मात्रा में प्रोटीन, विटामिन, तथा मिनरल्स होने चाहिए। शरीर को पर्याप्त मात्रा में पोषक पदार्थ न मिलने से त्वचा कुपोषण का शिकार हो जाती है जिससे त्वचा पर झुर्रियां पड़ जाती है। इसलिए हमेशा संतुलित एवं पौष्टिक भोजन करें। पौष्टिक भोजन चेहरे पर चमक लाता है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Sakshi",
+		"Category": "homeremedy",
+		"Tags": "balance diet",
+		"Lang": "HN"
+	}, {
+		"Id": "59",
+		"Title": "<h5>धूम्रपान से नुकसान</h5>",
+		"ImageName": "smoking.jpg",
+		"Description": "<p>रूप से सही व्यायाम की आवश्यकता होती है। व्यायाम के अभाव में त्वचा पर झुर्रियां उत्पन्न हो जाती है। धूम्रपान त्वचा को काफी नुकसान पहुंचाता है। धूम्रपान से चेहरे, होंठ और गर्दन पर झुर्रियां उत्पन्न हो जाती है। सिगरेट का धुआँ मुँह से खींचने के कारण होंठ और चेहरे पर सिकुड़न आ जाती है। धूम्रपान के धुएं में पाए जाने वाले तत्व त्वचा की कसावट कम कर देते हैं जिससे त्वचा ढीली और झुर्रिदार हो जाती है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "smoking,execise",
+		"Lang": "HN"
+	}, {
+		"Id": "60",
+		"Title": "<h5>मुंहासों की समस्या</h5>",
+		"ImageName": "acne-problem.jpg",
+		"Description": "<p>किशोरावस्था में चेहरे पर मुंहासे निकलना एक आम समस्या है। इस उम्र में शारीरिक परिवर्तन होने की वजह से तैलीय ग्रंथियां अधिक सक्रिय हो जाता है, जिससे मुंहासे की समस्या उत्पन्न हो जाती है। इसके अलावा अधिक तेल मसाले एव चर्बीयुक्त चीज़े खाना, अनियमित खान-पान, कुपोषण, देर रात तक जागरण करना, अधिक चाय, कॉफी एवं धूम्रपान का सेवन करना, कब्ज की शिकायत, मासिक धर्म संबंधी गड़बड़ी, बालों में रूसी तथा मानसिक तनाव आदि कारणों से चेहरे पर मुंहासे उत्पन्न हो जाते है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Sakshi",
+		"Category": "homeremedy",
+		"Tags": "acne,smoking,tea,coffee",
+		"Lang": "HN"
+	}, {
+		"Id": "61",
+		"Title": "<h5>खरबूजों के बीजों से मुंहासों का इलाज</h5>",
+		"ImageName": "musk-melon-seeds-kharbuja_2.jpg",
+		"Description": "<ul><li><p>खरबूजे के बीज को गाय के दूध में पीसकर चेहरे पर उबटन की तरह लगाने से मुंहासे दूर हो जाते है।</p></li><li><p>कलौंजी को सिरके में पीस लें। इसे रात को सोते समय चेहरे पर लगाएं। सुबह उठकर ठंडे पानी से चेहरा धो लें।</p></li><li><p>छोटी वाली बेर को जलाकर उसकी राख पानी में मिलाकर पेस्ट बना लें। इसे मुंहासों पर लगाएं। आधे घंटे बाद चेहरा ठंडे पानी से साफ कर लें। इससे मुंहासे अधिक नहीं फैलते।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Renuka Satogiya",
+		"Category": "homeremedy",
+		"Tags": "acne,muskmelon",
+		"Lang": "HN"
+	}, {
+		"Id": "62",
+		"Title": "<h5>मुलहठी-बेर से मुंहासों का इलाज</h5>",
+		"ImageName": "mulethi.jpg",
+		"Description": "<ul><li><p>मुलहठी और बेर की गुठली-दोनों को समान मात्रा में लेकर पानी में ठीक से पीस ले फिर थोड़ा सा पानी मिला लें। फिर इसे चेहरे पर उबटन की तरह लगाएं।</p></li><li><p>केसर और लाल चंदन-दोनों को पीसकर चेहरे पर लगाने से मुंहासों की समस्या दूर हो जाती है।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,licorice root",
+		"Lang": "HN"
+	}, {
+		"Id": "63",
+		"Title": "<h5>जायफल-चंदन से मुंहासों का इलाज</h5>",
+		"ImageName": "jaifal.jpg",
+		"Description": "<ul><li>सेमल के पेड़ के कांटे को दूध के साथ पीसकर मुंहासों पर लगाने से मुंहासे शीघ्र ही सूख जाते हैं। जायफल और लाल चंदन दोनों को समान मात्रा में पीसकर मुंहासों पर लगाने से मुंहासे साफ हो जाते है।</li><li>अजवायन को पीसकर इसमें दही मिलाकर चेहरे पर लगाएं। एक घंटे बाद चेहरा ठंडे पानी से धो लें। यह मुंहासे दूर कर देता है।</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,nutmeg",
+		"Lang": "HN"
+	}, {
+		"Id": "64",
+		"Title": "<h5>पुदीने से मुंहासों का इलाज</h5>",
+		"ImageName": "mint.jpg",
+		"Description": "<ul><li>पुदीने की पत्तियों का पेस्ट मुंहासों पर लगाने से मुंहासे सूख जाते है। एक चम्मच मूली का रस और एक चम्मच खीरे का रस दोनों को मिलाकर मुंहासे युक्त चेहरे पर लेप लगाएं। एक घंटे बाद चेहरा ठंडे पानी से साफ कर लें। यह प्रयोग नियमित रूप से करने पर मुंहासे साफ हो जाते हैं।</li><li>जामुन की गुठली को छील और पीस कर पेस्ट बना लें। इस पेस्ट को मुंहासों पर लगाने से मुंहासे सूख जाते हैं।</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,mint",
+		"Lang": "HN"
+	}, {
+		"Id": "65",
+		"Title": "<h5>नीम के बीज से मुंहासों का इलाज</h5>",
+		"ImageName": "nimboli.jpg",
+		"Description": "<ul><li>निबौली (नीम का बीज) को छील और पीस कर पेस्ट बना लें। इसमें थोड़ा-सा मट्ठा मिलाकर चेहरे पर लगाने से मुंहासे साफ हो जाते है। 10-12 चिरौजी के दाने पीसकर, दूध में मिलाकर पेस्ट बना लें। मुंहासे युक्त चेहरे पर इसका लेप रोजाना करने से मुंहासे मिट जाते हैं।</li><li>शहतूत की थोड़ी-सी छाल को दूध में पीसकर मुंहासों पर लगाने से मुंहासे दूर हो जाते हैं।</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,neem seeds",
+		"Lang": "HN"
+	}, {
+		"Id": "66",
+		"Title": "<h5>हल्दी बेसन से मुंहासों वा इलाज</h5>",
+		"ImageName": "haldi-aur-besan-ka-mishran.jpg",
+		"Description": "<ul><li>हल्दी और रक्तचंदन-दोनों को दूध में मिलाकर पेस्ट बना लें। इसे मुंहासे युक्त चेहरे पर लगाएं एक घंटे बाद चेहरा ठंडे पानी से साफ कर ले</li><li>एक लीटर पानी में एक चम्मच जीरा डालकर उबाल ले। ठंडा होने पर इस पानी से चेहरा धो डाले। यह प्रयोग नियमित रूप से करने पर मुंहासे तथा झाइयां दूर हो जाती है।</li><li>एक चम्मच बेसन और आधा चम्मच सूखी नीम की पत्ती दोनों को कच्चे दूध में मिलाकर पेस्ट बना ले। इसे चेहरे पर लेप करे। एक घंटे बाद चेहरे को ठंडे पानी से धो लें।</li><li>आधा चम्मच अदरक के रस में चुटकी भर नमक मिलाकर मुंहासों पर हल्का लेप करें। इससे मुंहासे शीघ्र ही सूख जाएंगे।</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Sakshi",
+		"Category": "homeremedy",
+		"Tags": "acne,turmeric,besan",
+		"Lang": "HN"
+	}, {
+		"Id": "67",
+		"Title": "<h5>नींबू जैतून से मुंहासों का इलाज</h5>",
+		"ImageName": "lemonolive.jpg",
+		"Description": "<ul><li>आधा चम्मच नींबू के रस में आधा चम्मच जैतून का तेल मिलाकर सुबह-शाम मुंहासों पर लगाएं।</li><li>एक चम्मच बेसन, एक चम्मच बादाम रोगन, आधा चम्मच नीबू का रस तथा आधा चम्मच खीरे का रस इन सबको मिलाकर नहाने से आधा घंटा पहले चेहरे पर लेप करें। कुछ दिनों तक प्रयोग करने से मुंहासे दूर करने में सहायता मिलेगी।</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,lemon,olive",
+		"Lang": "HN"
+	}, {
+		"Id": "68",
+		"Title": "<h5>दही-शहद-अंडे से मुंहासों का इलाज</h5>",
+		"ImageName": "curdohoneyegg.jpg",
+		"Description": "<ul><li><p>एक चम्मच दही, एक चम्मच शहद और एक अंडे की सफेदी-तीनों को अच्छी तरह मिलाकर चेहरे पर लगाएं।</p></li><li><p>दो चम्मच चोकर, आधा चम्मच नींबू का रस और एक चम्मच आलू का रस इन सबमें थोड़ा-सा दूध मिलाकर पेस्ट बना लें। इसे चेहरे पर लगाएं।</p></li><li><p>आलू को कद्दूकस करके चेहरे पर लगाएं। सूखने पर ठंडे पानी से धो लें। यह मुंहासे दूर करने के साथ-साथ दाग-धब्बे भी मिटाता है।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,curd,honey,egg",
+		"Lang": "HN"
+	}, {
+		"Id": "69",
+		"Title": "<h5>लौंग के तेल से मुहासों का इलाज</h5>",
+		"ImageName": "long.jpg",
+		"Description": "<ul><li><p>मुंहासे निकलते समय उन पर थोड़ी देर तक बर्फ के क्यूब रखें। इसके बाद हल्का-सा लौंग का तेल लगाएं। इससे मुंहासे नहीं उभरेंगे।</p></li><li><p>एक चम्मच शहद और एक चम्मच गुलाब जल-दोनों को एक गिलास पानी में डालकर सुबह खाली पेट पीने से मुंहासे दूर होते है।</p></li><li><p>यदि मुंहासों के साथ-साथ कब्ज की शिकायत हो तो सुबह खाली पेट एक नींबू का रस एक गिलास गुनगुने पानी में मिलाकर पीएं।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,clove",
+		"Lang": "HN"
+	}, {
+		"Id": "70",
+		"Title": "<h5>दमदम दमके चेहरा</h5>",
+		"ImageName": "face_shine_glow.jpg",
+		"Description": "<ul><li><p>दिन में चार-पांच बार चेहरे को ग्लिसरीनयुक्त साबुन से साफ करें।</p></li><li><p>नहाने से पहले एक दिन छोड़कर चेहरे पर भाप लें। भाप लेने से रोमछिद्र अच्छी तरह खुल जाते हैं और फिर पैक लगाकर थोड़ी देर रखे।</p></li><li><p>सुबह खुली हवा में नियमित रूप से घूमने निकलें।</p></li><li><p>उगते सूर्य की किरणें चेहरे पर लगने दें। सुबह के समय सूर्य से निकलने वाली अल्ट्रा वॉयलेट किरणें मुंहासों को दूर करती है।</p></li><li><p>नियमित रूप से व्यायाम करें। खेलकूद में हिस्सा ले। दिन भर में 7-8 लीटर पानी अवश्य पीएं।</p></li><li><p>नियत समय पर भोजन करें। हड़बड़ी में भोजन न करें। एक जगह शांत बैठकर आराम से भोजन ग्रहण करें।</p></li><li><p>अपने भोजन में ताजे फल, हरी सब्जियाँ, सलाद, रेशायुक्त खाद्य पदार्थ तथा अंकुरित अन्न आदि शामिल करें।</p></li><li><p>तले, चटपटे, वसायुक्त तथा मीठे व्यंजन अधिक न खाएं।</p></li><li><p>चाय, कॉफी, कल, सॉफ्ट ड्रिंक, चॉकलेट, आइसक्रीम, मैदे से बने</p></li><li><p>पदार्थ, मिठाई, अचार, डिब्बाबंद सामग्री, बासी भोजन आदि का सेवन न करे।</p></li><li><p>पान, तंबाकू, गुटखा, शराब तथा बीड़ी-सिगरेट आदि नशीले पदाथों का सेवन बंद कर दे।<br/>भय, चिंता एवं मानसिक तनाव आदि से बचे।</p></li><li><p>देर रात तक जागरण न करें। हमेशा पूरी नींद लें। सुबह जल्दी उठें।</p></li><li><p>कृत्रिम सौंदर्य प्रसाधनों का अधिक इस्तेमाल न करें।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "glow,shiny face",
+		"Lang": "HN"
+	}, {
+		"Id": "71",
+		"Title": "<h5>तुलसी से झाइयों का उपचार</h5>",
+		"ImageName": "tulsi.jpg",
+		"Description": "<p>आधा चम्मच टमाटर का रस, आधा चम्मच तुलसी के पत्तों का रस, आधा चम्मच हरे धनिये के पत्तों का रस और आधा चम्मच पुदीने का रस-इन सबको मिलाकर रूई के फाहे से झाइयों पर लगाएं। यह प्रयोग सप्ताह में तीन बार करें। शीघ्र ही लाभ दिखाई देगा।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles,tulsi",
+		"Lang": "HN"
+	}, {
+		"Id": "72",
+		"Title": "<h5>शहद-मुल्तानी मिट्टी से झाइयों का उपचार</h5>",
+		"ImageName": "honey-multani.jpg",
+		"Description": "<p>एक चम्मच सरसों के दानों को ठीक से पीस लें। इसमें आधा चम्मच शहद, आधा चम्मच मुलतानी मिट्टी और थोड़ा-सा दूध मिलाकर पेस्ट बना ले। इस पेस्ट का झाइयों पर लेप करें। सूखने पर ठंडे पानी से चेहरा धो लें। यह प्रयोग सप्ताह में एक बार करें।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles,honey",
+		"Lang": "HN"
+	}, {
+		"Id": "73",
+		"Title": "<h5>बादाम से झाइयों का उपचार</h5>",
+		"ImageName": "three-almonds.jpg",
+		"Description": "<p>एक बादाम को दूध में रात भर के लिए भिगो दें। सुबह बादाम का छिलका उतारकर घिस लें। इसमें एक चम्मच शहद, आधा चम्मच ग्लिसरीन, एक चम्मच बेसन, 4-5 बूंदें नींबू का रस तथा थोड़ा-सा गुलाब जल मिलाकर पेस्ट बना लें। इस पेस्ट को झाइयों पर लगाएं। सूख जाने पर दूध से साफ कर लें। यह झाइयां दूर करने का अच्छा उपाय है। सप्ताह में दो बार यह प्रयोग कर सकती हैं।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles,almonds",
+		"Lang": "HN"
+	}, {
+		"Id": "74",
+		"Title": "<h5>बेसन-छाछ से झाइयों का उपचार</h5>",
+		"ImageName": "gram-flour.jpg",
+		"Description": "<p>एक चम्मच बेसन को छाछ में मिलाकर गाढ़ा पेस्ट बना लें। इस पेस्ट को नियमित रूप से झाइयों पर लगाने से यह समस्या दूर हो जाती हैं। झाइयां अधिक काली होने पर आधा चम्मच अरंडी का तेल और आधा चम्मच नींबू का रस- दोनों को मिलाकर झाइयों पर सप्ताह में दो बार लगाएं।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles,besan,buttermilk",
+		"Lang": "HN"
+	}, {
+		"Id": "75",
+		"Title": "<h5>संतरे के छिलके से झाइयों का उपचार</h5>",
+		"ImageName": "orange-Peel.jpg",
+		"Description": "<p>एक पिस्ता बादाम और एक चम्मच संतरे के छिलके का पाउडर-दोनों को कच्चे दूध में मिलाकर पेस्ट बना लें। इसे चेहरे और गर्दन की झाइयों पर लगाएं। एक घंटे बाद ठंडे पानी से धो लें।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles,orange peel",
+		"Lang": "HN"
+	}, {
+		"Id": "76",
+		"Title": "<h5>चंदन पाउडर से झाइयों का उपचार</h5>",
+		"ImageName": "sandalwood.jpg",
+		"Description": "<ul><li><p>आधा चम्मच चंदन का पाउडर और आधे जायफल को कच्चे दूध में पीस लें। इसे झाइयों पर लगाएं। 10 मिनट बाद चेहरे को स्वच्छ पानी से धो लें।</p></li><li><p>एक चम्मच अनार के छिलके के पाउडर में गुलाब जल मिलाकर पेस्ट बना लें। इसे झाइयों पर नियमित रूप से लगाने पर समस्या दूर हो जाती है।</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles,sandalwood",
+		"Lang": "HN"
+	}, {
+		"Id": "77",
+		"Title": "<h5>मसूर की दाल से झाइयों का उपचार</h5>",
+		"ImageName": "masoor.jpg",
+		"Description": "<p>एक चम्मच मसूर की धुली दाल को रात भर के लिए दूध में भिगोकर रख दें। सुबह इसे बरगद की एक कोमल पत्ती के साथ पीस लें। फिर ठीक से फेंटकर झाइयों पर लगाएं। आधे घंटे बाद इसे हल्के हाथों से छुड़ा लें। इसके बाद ठंडे पानी से चेहरा धो लें। यह प्रयोग सप्ताह में दो बार कर सकती है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles",
+		"Lang": "HN"
+	}, {
+		"Id": "78",
+		"Title": "<h5>गाजर के रस से झाइयों का उपचार</h5>",
+		"ImageName": "carrotjuice2.jpg",
+		"Description": "<p>एक चम्मच गाजर का रस, एक चम्मच मुल्तानी मिट्टी, एक चम्मच संतरे का रस<br />ओर आधा चम्मच नींबू का रस-इन सब ठीक से मिलाकर झाइयों पर लगाएं। आधे घंटे बाद ठंडे पानी से चेहरा धो लें। यह प्रयोग सप्ताह में एक बार करें।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles,carrot",
+		"Lang": "HN"
+	}, {
+		"Id": "79",
+		"Title": "<h5>काले तिल-हल्दी से झाइयों का उपचार</h5>",
+		"ImageName": "sessame.jpg",
+		"Description": "<p>आधा चम्मच काला तिल और आधा चम्मच कच्ची पिसी हल्दी-दोनों को गरम दूध में ठीक से पीस लें। इस पेस्ट को झाइयों पर नियमित रूप से लगाने पर समस्या दूर हो जाती है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "wrinkles,sessame seeds",
+		"Lang": "HN"
+	}, {
+		"Id": "80",
+		"Title": "<h5>तुलसी-नारियल से झाइयों का उपचार</h5>",
+		"ImageName": "coconut.jpg",
+		"Description": "<p>आठ-दस तुलसी की ताज़ी पत्तियों का पेस्ट तथा एक चम्मच कच्चे नारियल का पेस्ट-दोनों को मिलाकर झाइयों पर लगाएं। यह प्रयोग नियमित रूप से करने पर कुछ ही दिनों में लाभ दिखाई देगा।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,tulsi,coconut",
+		"Lang": "HN"
+	}, {
+		"Id": "81",
+		"Title": "<h5>चेहरे की सफाई</h5>",
+		"ImageName": "Cleanser-Header-Photojpg.jpg",
+		"Description": "<ul><li>सोने से पहले चेहरे को क्लींजिंग मिल्क से रोजाना साफ करें।</li><li>धूप में जाने से पहले सनस्क्रीन क्रीम चेहरे पर अवश्य लगा लें।</li><li>अपने चेहरे पर सस्ते, पुराने एवं एक्सपायरी डेट वाले सौन्दर्य प्रसाधन कभी न लगाएं।</li><li>चेहरे पर झाइयां होने पर न तो ब्लीचिंग करवाएं और न ही बालों में हेयर डाई लगवाएं।</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cleaning",
+		"Lang": "HN"
+	}, {
+		"Id": "82",
+		"Title": "<h5>ब्लीचिंग</h5>",
+		"ImageName": "bleaching-Full-Face.jpg",
+		"Description": "<ul><li>इस विधि द्वारा अनचाहे बालों से छुटकारा नहीं मिलता, बल्कि छोटे-छोटे बालों को छिपाया जाता है।</li><li>गाल, होंठ, माथा, गले, पीठ और पैर पर ब्लीच किया जाना है।</li><li>ब्लीचिंग बहुत ही सावधानी से करवानी पड़ती है।</li><li>ब्लीचिंग को पहले शरीर के थोड़े से हिस्से पर टेस्ट कर लेना चाहिए।</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "bleach",
+		"Lang": "HN"
+	}, {
+		"Id": "83",
+		"Title": "<h5>फेस पैक और फेस मास्क</h5>",
+		"ImageName": "facepack.jpg",
+		"Description": "<p>फेस पैक और फेस मास्क त्वचा के लिए सर्वोत्तम टॉनिक है। यह दोनों मृत कोशिकाओं को हटाने का काम करते हैं। इनमें प्रोटीन, विटामिन, एमिनो एसिड, फास्फोरस तथा मिनरल्स आदि पौष्टिक तत्व मौजूद होते है। ये त्वचा की गहराई तक पौष्टिक तत्व पहुँचाते है और स्वस्थ कोशिकाओं का निर्माण कर त्वचा को सुंदर, कोमल एवं जवान बने रहने का सामर्थ्य प्रदान करते है। फेस पैक और फेस मास्क में मौजूद एस्ट्रिंजेंट त्वचा को कसावट देते है, जिससे त्वचा के रक्त संचार में सुधार होता है। इसकी वजह से असमय पड़ने वाली झुर्रियां दूर होती है। इनके नियमित इस्तेमाल से झुर्रियों की समस्या से बचा जा सकता है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "facemask,facepack",
+		"Lang": "HN"
+	}, {
+		"Id": "84",
+		"Title": "<h5>चेहरे का रूखापन हटाये</h5>",
+		"ImageName": "dry-skin.jpg",
+		"Description": "<p>एक चम्मच दूध में ठंडी मलाई व एक चुटकी हल्दी का बारीक चूर्ण मिलाकर चेहरे पर नित्य मलने से त्वचा का रूखापन दूर होता है और चेहरा कांतिवान हो जाता हैं।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "dry skin",
+		"Lang": "HN"
+	}, {
+		"Id": "85",
+		"Title": "<h5>खीरे का फेस पैक</h5>",
+		"ImageName": "cucumber-face-pack.jpg",
+		"Description": "<p>एक चम्मच खीरे का रस, दो चम्मच नारियल का पानी और दो चम्मच कच्चा दूध- तीनों को मिलाकर रूई के फाहे से चेहरे पर लगाएं। 10-15 मिनट बाद चेहरा साफ कर ले। यह पैक चेहरे की कोमलता एवं लावण्यता बनाए रखता है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cucumber,facepack",
+		"Lang": "HN"
+	}, {
+		"Id": "86",
+		"Title": "<h5>खीरा-टमाटर-मुल्तानी मिट्टी का पेस्ट</h5>",
+		"ImageName": "cucumber.jpg",
+		"Description": "<p>एक चम्मच खीरे का रस, दो चम्मच टमाटर का रस और एक चम्मच गुलाब जल-तीनों को मिलाकर प्रतिदिन रूई क फाहे से चेहरे पर लगाएं। 10-15 मिनट बाद चेहरे को साफ कर लें। इससे चेहरा निखर उठेगा। दो चम्मच खीरे का रस, दो चम्मच टमाटर का रस और दो चम्मच मुलतानी मिट्टी-तीनों को मिलाकर पेस्ट बना लें। इसे चेहरे पर लगाएं। सूखने के बाद चेहरा साफ कर ले। काली हुई त्वचा और झाइयों क लिए यह अच्छा पैक है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cucumber,tomato,facepack",
+		"Lang": "HN"
+	}, {
+		"Id": "87",
+		"Title": "<h5>खीरे अंडे व मकई का पेस्ट</h5>",
+		"ImageName": "cucumber-facepacks.jpg",
+		"Description": "<p>त्वचा पर निखार लाने के लिए खीरा और टमाटर को समान मात्रा में मिलाकर पेस्ट बना ले। इस चेहरे पर लगाएं। इससे त्वचा पर निखार आएगा।</p><p>4 इंच खीरा को छीलकर कद्दूकस कर लें। इसे बारीक कपड़े में रखकर चेहरे पर लगाएं। यह तेलीय त्वचा के लिए अच्छा उपाय है।</p><p>दो चम्मच खीरे का रस, एक अंडा और दो चम्मच मक्की का आटा-तीनों को मिलाकर पेस्ट बना लें। इस पेस्ट को चेहरे पर लगाएं। सूखने पर चेहरा साफ कर लें। इससे चेहरा साफ और सुंदर बन जाएगा।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "facepack,cucumber,egg",
+		"Lang": "HN"
+	}, {
+		"Id": "88",
+		"Title": "<h5>चेहरे का कालापन दूर करे</h5>",
+		"ImageName": "Youthful-Skin.jpg",
+		"Description": "<p>एक चम्मच खीरे का रस, दो चम्मच हल्दी और आधा चम्मच नींबू का रस- तीनों को मिलाकर पेस्ट बना ले फिर चेहरे पर लेप करे। आधे घंटे बाद चेहरा साफ कर ले। यह पैक चेहरे का कालापन दूर कर देता है।</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "blackness",
+		"Lang": "HN"
+	}, {
+		"Id": "89",
+		"Title": "<h5>चेहरे को कौमल बनाये</h5>",
+		"ImageName": "multani-mitti-curd-pack.jpg",
+		"Description": "<p>दो चम्मच मुलतानी मिट्टी और चार चम्मच खट्टा दही मिलाकर पेस्ट बना लें। इसे चेहरे पर लगाएं। सूखने पर साफ कर ले। यह त्वचा को मुलायम बनाता है।</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft,multani mitti,curd",
+		"Lang": "HN"
+	}, {
+		"Id": "90",
+		"Title": "<h5>चेहरा साफ, सुंदर व चमकीला बनाये</h5>",
+		"ImageName": "Multani-Mitti.jpg",
+		"Description": "<p>दो चम्मच मुल्तानी मिट्टी, एक चम्मच मलाई, एक चम्मच शहद, एक चम्मच बादाम का तेल, एक चम्मच बेसन तथा दो चम्मच ग्लिसरीन इन सबको मिलाकर पेस्ट बना लें, फिर पूरे चेहरे पर लगाएं। सूखने के बाद साफ कर लें। इससे त्वचा साफ, सुंदर और चमकीली बनेगी। यह पैक सप्ताह में दो बार इस्तेमाल कर सकती है।</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "multani mitti,cream",
+		"Lang": "HN"
+	}, {
+		"Id": "91",
+		"Title": "<h5>कील-मुंहासों से छुटकारा पाये</h5>",
+		"ImageName": "Multani-mitti-2.jpg",
+		"Description": "<p>दो चम्मच मुल्तानी मिट्टी, एक चम्मच बादाम का तेल, एक चम्मच नींबू का रस और थोड़ी-सी हल्दी इन सबको मिलाकर पेस्ट बना लें। इस पैक को सप्ताह में एक बार इस्तेमाल करने से कील-मुंहासे दूर होते हैं।</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "pimples,multani mitti",
+		"Lang": "HN"
+	}, {
+		"Id": "92",
+		"Title": "<h5>मुलतानी मिट्टी का पैक</h5>",
+		"ImageName": "multani-mitti-sarso.jpg",
+		"Description": "<p>दो चम्मच मुल्तानी मिट्टी, एक चम्मच सरसों का तेल, एक चम्मच मलाई, एक चम्मच बेसन, चार चम्मच लौकी का रस और चुटकी भर हल्दी-इन सबको मिलाकर पूरे चेहरे तथा गर्दन पर लगाएं। यह पैक चेहरे और गर्दन का कालापन दूर कर देता है। दो चम्मच मुलतानी मिट्टी और एक अंडे की सफेदी-दोनों को मिलाकर पेस्ट बना लें। चेहरे पर झाइयां होने पर यह पैक लगाएं।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "black face,soy oil,multani mitti",
+		"Lang": "HN"
+	}, {
+		"Id": "93",
+		"Title": "<h5>चेहरे को चमकदार बनाये</h5>",
+		"ImageName": "multani-mitti-cleansing.jpg",
+		"Description": "<p>एक चम्मच मुल्तानी मिट्टी और एक चम्मच क्लीजिंग मिल्क दोनों को मिलाकर गाढ़ा पेस्ट बना लें। इसे शुष्क त्वचा पर लगाएं। 10-15 मिनट बाद छुड़ा लें। इससे त्वचा साफ तथा मुलायम होगी।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cleansing milk,soft skin,multani mitti",
+		"Lang": "HN"
+	}, {
+		"Id": "94",
+		"Title": "<h5>चंदन व खसखस का पेस्ट</h5>",
+		"ImageName": "khaskhas-chandan.jpg",
+		"Description": "<p>एक चम्मच चंदन का पाउडर, एक चम्मच खीरे का रस, एक चम्मच पिसी हुई खसखस (पोस्ता दाना) और दो चम्मच नारियल का पानी-सभी को मिलाकर पेस्ट बना लें। यह पैक सांवली त्वचा पर सप्ताह में एक बार इस्तेमाल करें।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "sandalwood, khaskhas, poppy seeds",
+		"Lang": "HN"
+	}, {
+		"Id": "95",
+		"Title": "<h5>चंदन-दूध का पेस्ट</h5>",
+		"ImageName": "chandan-milk.jpg",
+		"Description": "<p>एक चम्मच चंदन का पाउडर, एक चम्मच पिसी हुई खसखस और दो चम्मच कच्चा दूध-तीनों को मिलाकर पेस्ट बना लें। यह पैक पूरे चेहरे पर लगाएं। 15 मिनट बाद साफ कर लें। इस पैक को सप्ताह में एक बार इस्तेमाल करने से त्वचा साफ और कोमल बनती है।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft skin,sandalwood, milk",
+		"Lang": "HN"
+	}, {
+		"Id": "96",
+		"Title": "<h5>चंदन-गुलाब जल का पेस्ट</h5>",
+		"ImageName": "SandalwoodRosewater-Paste.jpg",
+		"Description": "<p>दो चम्मच चंदन का पाउडर और चार चम्मच गुलाब जल दोनों को मिलाकर पूरे चेहरे तथा गर्दन पर लगाएं। 15 मिनट बाद इसे स्वच्छ पानी से साफ कर लें। सप्ताह में एक बार इस पैक को इस्तेमाल करने से त्वचा स्निग्ध एवं सुकोमल हो जाती है।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft skin,sandalwood",
+		"Lang": "HN"
+	}]
+}
