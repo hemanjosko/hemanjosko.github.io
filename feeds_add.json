@@ -910,5 +910,55 @@
 		"Category": "homeremedy",
 		"Tags": "pimples,multani mitti",
 		"Lang": "HN"
+	}, {
+		"Id": "92",
+		"Title": "<h5>मुलतानी मिट्टी का पैक</h5>",
+		"ImageName": "multani-mitti-sarso.jpg",
+		"Description": "<p>दो चम्मच मुल्तानी मिट्टी, एक चम्मच सरसों का तेल, एक चम्मच मलाई, एक चम्मच बेसन, चार चम्मच लौकी का रस और चुटकी भर हल्दी-इन सबको मिलाकर पूरे चेहरे तथा गर्दन पर लगाएं। यह पैक चेहरे और गर्दन का कालापन दूर कर देता है। दो चम्मच मुलतानी मिट्टी और एक अंडे की सफेदी-दोनों को मिलाकर पेस्ट बना लें। चेहरे पर झाइयां होने पर यह पैक लगाएं।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "black face,soy oil,multani mitti",
+		"Lang": "HN"
+	}, {
+		"Id": "93",
+		"Title": "<h5>चेहरे को चमकदार बनाये</h5>",
+		"ImageName": "multani-mitti-cleansing.jpg",
+		"Description": "<p>एक चम्मच मुल्तानी मिट्टी और एक चम्मच क्लीजिंग मिल्क दोनों को मिलाकर गाढ़ा पेस्ट बना लें। इसे शुष्क त्वचा पर लगाएं। 10-15 मिनट बाद छुड़ा लें। इससे त्वचा साफ तथा मुलायम होगी।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cleansing milk,soft skin,multani mitti",
+		"Lang": "HN"
+	}, {
+		"Id": "94",
+		"Title": "<h5>चंदन व खसखस का पेस्ट</h5>",
+		"ImageName": "khaskhas-chandan.jpg",
+		"Description": "<p>एक चम्मच चंदन का पाउडर, एक चम्मच खीरे का रस, एक चम्मच पिसी हुई खसखस (पोस्ता दाना) और दो चम्मच नारियल का पानी-सभी को मिलाकर पेस्ट बना लें। यह पैक सांवली त्वचा पर सप्ताह में एक बार इस्तेमाल करें।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "sandalwood, khaskhas, poppy seeds",
+		"Lang": "HN"
+	}, {
+		"Id": "95",
+		"Title": "<h5>चंदन-दूध का पेस्ट</h5>",
+		"ImageName": "chandan-milk.jpg",
+		"Description": "<p>एक चम्मच चंदन का पाउडर, एक चम्मच पिसी हुई खसखस और दो चम्मच कच्चा दूध-तीनों को मिलाकर पेस्ट बना लें। यह पैक पूरे चेहरे पर लगाएं। 15 मिनट बाद साफ कर लें। इस पैक को सप्ताह में एक बार इस्तेमाल करने से त्वचा साफ और कोमल बनती है।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft skin,sandalwood, milk",
+		"Lang": "HN"
+	}, {
+		"Id": "96",
+		"Title": "<h5>चंदन-गुलाब जल का पेस्ट</h5>",
+		"ImageName": "SandalwoodRosewater-Paste.jpg",
+		"Description": "<p>दो चम्मच चंदन का पाउडर और चार चम्मच गुलाब जल दोनों को मिलाकर पूरे चेहरे तथा गर्दन पर लगाएं। 15 मिनट बाद इसे स्वच्छ पानी से साफ कर लें। सप्ताह में एक बार इस पैक को इस्तेमाल करने से त्वचा स्निग्ध एवं सुकोमल हो जाती है।</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft skin,sandalwood",
+		"Lang": "HN"
 	}]
 }
