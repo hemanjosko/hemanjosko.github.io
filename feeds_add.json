@@ -960,5 +960,225 @@
 		"Category": "homeremedy",
 		"Tags": "soft skin,sandalwood",
 		"Lang": "HN"
+	}, {
+		"Id": "133",
+		"Title": "<h5>Treat pigmentation by orange peel</h5>",
+		"ImageName": "orange-Peel.jpg",
+		"Description": "<p>One almond and one tablespoon orange peel powder both of them grind in raw milk and make paste and apply on face and neck for pigmentation and after one hour wash it by cold water</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "pigmentation,orange peel",
+		"Lang": "EN"
+	}, {
+		"Id": "134",
+		"Title": "<h5>Treat pigmentation by sandalwood powder</h5>",
+		"ImageName": "sandalwood.jpg",
+		"Description": "<ul><li><p>Half tablespoon sandalwood powder and half nutmeg both of them can be grind in raw milk and apply on pigmentation after 10 minutes wash by clean water</p></li><li><p>One tablespoon pomegranate peel powder and rosewater make paste and use regularly on pigmentation</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "pigmentation,sandalwood,pigmentation",
+		"Lang": "EN"
+	}, {
+		"Id": "135",
+		"Title": "<h5>Treat pigmentation by Masur lentils</h5>",
+		"ImageName": "masoor.jpg",
+		"Description": "<p>One tablespoon washed masur lentils dip in milk for whole night, morning grind with it with a banyan soft leave and apply on pigmentation, after half hour remove it my soft hand and after that wash your face by cold water you can do this twice in a week</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "pigmentation",
+		"Lang": "EN"
+	}, {
+		"Id": "136",
+		"Title": "<h5>Treat pigmentation by Carrot juice</h5>",
+		"ImageName": "carrotjuice2.jpg",
+		"Description": "<p>One tablespoon carrot juice, one tablespoon multani soil, one tablespoon orange juice and half tablespoon lemon juice mix all and apply on Pigmentation, after half hour wash it by cold water, you do this weekly</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "pigmentation,carrot",
+		"Lang": "EN"
+	}, {
+		"Id": "137",
+		"Title": "<h5>Treat pigmentation by Turmeric and Black Sessame seeds</h5>",
+		"ImageName": "sessame.jpg",
+		"Description": "<p>Half tablespoon black sessame seeds and half tablespoon raw grinded turmeric both of them you have to grind in hot milk and make paste, this facepack if you use regularly on face you can get rid of Pigmentation</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "pigmentation,sessame seeds",
+		"Lang": "EN"
+	}, {
+		"Id": "138",
+		"Title": "<h5>Treat pigmentation by tulsi and coconut</h5>",
+		"ImageName": "coconut.jpg",
+		"Description": "<p>Eight-ten tulsi fresh tulsi leaves paste and one tablespoon coconut water and make it paste and apply on pigmentation, if you do it regularly you can see difference on face in a healthy way</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,tulsi,coconut",
+		"Lang": "EN"
+	}, {
+		"Id": "139",
+		"Title": "<h5>Cleaning of face</h5>",
+		"ImageName": "Cleanser-Header-Photojpg.jpg",
+		"Description": "<ul><li>Before sleeping you have to clean your face by daily by cleansing milk</li><li>Before going out you have to use sunscreen</li><li>On your face dont use cheap, old and expired beauty products</li><li>If you are facing problem of wrinkles dont do bleaching and hair die</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cleaning",
+		"Lang": "EN"
+	}, {
+		"Id": "140",
+		"Title": "<h5>Bleaching</h5>",
+		"ImageName": "bleaching-Full-Face.jpg",
+		"Description": "<ul><li>Bleaching can hide your small hairs on skin</li><li>Cheek, lips, forehead, neck, and back can be bleached</li><li>For bleaching have to be done by professionals</li><li>Bleach always has to test on small part of your skin before bleaching on whole area</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "bleach",
+		"Lang": "EN"
+	}, {
+		"Id": "141",
+		"Title": "<h5>Face pack and Face Mask</h5>",
+		"ImageName": "facepack.jpg",
+		"Description": "<p>Facepack and facemask are really good for face. both are really good for removing dead cells, it contains protien, vitamin, amino acid, phosphorus and minerals. both will provide minerals to deep of your skin, and make stamina for your skin to healthy, soft and young. facepack and facemask contains estrigent that gives your skin tightness and improves blood flow in skin that helps not to have early age wrinkles, and if you use it regularly you can help your skin to fight with wrinkles</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "facemask,facepack",
+		"Lang": "EN"
+	}, {
+		"Id": "142",
+		"Title": "<h5>How to remove dryness of face</h5>",
+		"ImageName": "dry-skin.jpg",
+		"Description": "<p>One tablespoon cold milk cream and one pinch of turmeric mix it rub on face daily it will help to rid of dryness of face and make it more shiny</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "dry skin",
+		"Lang": "EN"
+	}, {
+		"Id": "143",
+		"Title": "<h5>Cucumber face pack</h5>",
+		"ImageName": "cucumber-face-pack.jpg",
+		"Description": "<p>One tablespoon cucumber juice, two tablespoon coconut water and two tablespoon raw milk mix all apply on face by cotton, after 10-15 minutes clean your face, it will keep your face soft</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cucumber,facepack",
+		"Lang": "EN"
+	}, {
+		"Id": "144",
+		"Title": "<h5>Facepack of Tomato-Cucumber-Multani Soil</h5>",
+		"ImageName": "cucumber.jpg",
+		"Description": "<p>One tablespoon cucumber juice, two tablespoon tomato juice and one tablespoon rosewater mix all three and everyday use it on face by cotton, after 10-15 minute clean your face, it will glow your face.<br/>Two tablespoon cucumber juice, two tablespoon tomato juice and two tablespoon multani soil mix all and make paste, apply on face, after dry on face clean that facepack this is really good for Pigmentation</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cucumber,tomato,facepack",
+		"Lang": "EN"
+	}, {
+		"Id": "145",
+		"Title": "<h5>Facepack of Cucumber-Egg-Tomato</h5>",
+		"ImageName": "cucumber-facepacks.jpg",
+		"Description": "<p>For make your face more attractive use cucumber and tomato in same amount and make paste apply it on face</p><p>4 inch cucumber strip it and make it paste and filter it by cloth, it is very good for oily skin</p><p>Two tablespoon cucumber juice, one egg and two tablespoon corn flour mix all and make paste, apply it on face, when this facepack dry on face clean your face</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "facepack,cucumber,egg",
+		"Lang": "EN"
+	}, {
+		"Id": "146",
+		"Title": "<h5>How to remove blackness of face</h5>",
+		"ImageName": "Youthful-Skin.jpg",
+		"Description": "<p>One tablespoon cucumber juice and two tablespoon turmeric powder and half tablespoon lemon juice mix all make paste and apply on face after half hour clean it, it will clear darkness from face</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "blackness",
+		"Lang": "EN"
+	}, {
+		"Id": "147",
+		"Title": "<h5>How to make your face soft</h5>",
+		"ImageName": "multani-mitti-curd-pack.jpg",
+		"Description": "<p>Two tablespoon multani soil and four tablespoon sour curd mix and make paste and apply on face when dry clean that it will make skin softer</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft,multani mitti,curd",
+		"Lang": "EN"
+	}, {
+		"Id": "148",
+		"Title": "<h5>How to make your face clean, beautiful and shiny</h5>",
+		"ImageName": "Multani-Mitti.jpg",
+		"Description": "<p>Two tablespoon multani soil, one tablespoon spoon milk cream, one tablespoon honey, one tablespoon almond oil, one tablespoon spoon gram flour and two tablespoon glycerin mix all and make a facepack and apply it on whole face, when dry clean the facepack from face. you can use this facepack twice in a week for clean, beautiful and shiny skin</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "multani mitti,cream",
+		"Lang": "EN"
+	}, {
+		"Id": "149",
+		"Title": "<h5>How to get rid of Pimples</h5>",
+		"ImageName": "Multani-mitti-2.jpg",
+		"Description": "<p>Two tablespoon multani soil, and one tablespoon almond oil and one tablespoon lemon juice, and a single pinch of turmeric powder and mix and make paste, Use this facepack weekly for rid of pimples.</p>",
+		"CreatedOn": "Feb 26",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "pimples,multani mitti",
+		"Lang": "EN"
+	}, {
+		"Id": "150",
+		"Title": "<h5>Facepack of Multani soil</h5>",
+		"ImageName": "multani-mitti-sarso.jpg",
+		"Description": "<p>Two tablespoon Multani soil, one tablespoon soy oil, one tablespoon milk cream, one tablespoon gram flour, four tablespoon Gourd juice and add one pinch Turmeric powder mix them and apply on face and neck. This facepack removes blackness from face and neck<br/>Two tablespoon Multani soil and one egg white mix both of them and make paste apply when you feel wrinkles on your face</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "black face,soy oil,multani mitti",
+		"Lang": "EN"
+	}, {
+		"Id": "151",
+		"Title": "<h5>Make your face Shiny</h5>",
+		"ImageName": "multani-mitti-cleansing.jpg",
+		"Description": "<p>One tablespoon Multani soil and One tablespoon Cleansing milk mix them and make a thick paste, apply this on dry skin, after 10-15 minutes wash it and your skin will be clean and soft.</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "cleansing milk,soft skin,multani mitti",
+		"Lang": "EN"
+	}, {
+		"Id": "152",
+		"Title": "<h5>Facepack of SandalWood-Poppy Seeds</h5>",
+		"ImageName": "khaskhas-chandan.jpg",
+		"Description": "<p>One tablespoon SandalWood powder, One tablespoon cucumber juice, One tablespoon grinded poppy seeds and two tablespoon Coconut water mix all of them make paste. Apply this facepack weekly for Light dark skin.</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "sandalwood, khaskhas, poppy seeds",
+		"Lang": "EN"
+	}, {
+		"Id": "153",
+		"Title": "<h5>Facepack of SandalWood and Milk</h5>",
+		"ImageName": "chandan-milk.jpg",
+		"Description": "<p>One tablespoon sandalwood powder and one tablespoon grinded poppy seeds and two tablespoon raw milk grind all three and make facepack apply this paste on your whole face, after 15 minutes wash it, Apply this facepack weekly and your skin will be Clean and Soft</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft skin,sandalwood, milk",
+		"Lang": "EN"
+	}, {
+		"Id": "154",
+		"Title": "<h5>Facepack of SandalWood and Rosewater</h5>",
+		"ImageName": "SandalwoodRosewater-Paste.jpg",
+		"Description": "<p>Two tablespoon sandalwood powder and four tablespoon Rosewater mix both of them and apply on whole face and neck area, after 15 minutes wash it by clean water.<br/>Apply this facepack weekly and your skin will be soft.</p>",
+		"CreatedOn": "Mar 01",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "soft skin,sandalwood",
+		"Lang": "EN"
 	}]
 }
