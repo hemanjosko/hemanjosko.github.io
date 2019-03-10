@@ -1,6 +1,6 @@
 {
 	"status": 200,
 	"result": [{
-		"imageName": "greetings/womensday2019jpg"
+		"imageUrl": "greetings/womensday2019jpg"
 	}]
 }
