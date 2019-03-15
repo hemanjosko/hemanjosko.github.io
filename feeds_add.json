@@ -1250,5 +1250,155 @@
 		"Category": "homeremedy",
 		"Tags": "pigmentation,besan,buttermilk",
 		"Lang": "EN"
+	}, 	{
+		"Id": "108",
+		"Title": "<h5>How to heal by white radish</h5>",
+		"ImageName": "white-radish.jpg",
+		"Description": "<p>Four tablespoon white radish juice and one tablespoon butter mix it and apply on skin, wash it after half hour with warm water, this mixture can help you to get rid of wrinkles and make your skin glow</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Himanshu Yadav ",
+		"Category": "homeremedy",
+		"Tags": "white radish,wrinkles",
+		"Lang": "EN"
+	}, {
+		"Id": "109",
+		"Title": "<h5>Heal skin by Lemon</h5>",
+		"ImageName": "lemon.jpg",
+		"Description": "<p>One tablespoon lemon juice and one tablespoon glycerine mix both of them apply on night after removing makeup and wash it by morning with cold water</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Nidhi Bhatnagar",
+		"Category": "homeremedy",
+		"Tags": "lemon",
+		"Lang": "EN"
+	}, {
+		"Id": "110",
+		"Title": "<h5>Treat skin by rose water and honey</h5>",
+		"ImageName": "rose-day.jpg",
+		"Description": "<p>One tablespoon glycerine, one tablespoon rosewater and four tablespoon honey mix all in keep in a bottle, use this in daily morning and evening time on face, after 10 minuter wash your face, this helps when you are facing wrinkles problem</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "rose water,honey",
+		"Lang": "EN"
+	}, {
+		"Id": "112",
+		"Title": "<h5>Treat skin by apple</h5>",
+		"ImageName": "apple.jpg",
+		"Description": "<p>Boil one apple in water after that peel it and mash it, throw seeds and add one tablespoon honey and one tablespoon milk cream mix it and apply on face, after 15 minutes wash it by water, do this process regularly</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "apple",
+		"Lang": "EN"
+	}, {
+		"Id": "113",
+		"Title": "<h5>Treat skin by banana and honey</h5>",
+		"ImageName": "banana-honey.jpg",
+		"Description": "<ul><li><p>One tablespoon castor oil and five drops of honey mix properly in a bowl, and use this on face regularly you won't get wrinkles</p></li><li><p>Mash one banana properly, add half tablespoon honey and two drops of almond oil mix it and apply on face after 10 minutes wash it.</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "banana,honey",
+		"Lang": "EN"
+	}, {
+		"Id": "114",
+		"Title": "<h5>Treat skin by almond oil and egg</h5>",
+		"ImageName": "almond.png",
+		"Description": "<ul><li><p>Yellow part of one egg and one tablespoon almond oil and half tablespoon rosewater mix all three and make paste and apply on whole face and neck, after 20 minutes clean it with warm water</p></li><li><p>Add one pinch of salt in raw milk apply on face before bathing this can helps in wrinkles</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "almond,egg",
+		"Lang": "EN"
+	}, {
+		"Id": "115",
+		"Title": "<h5>How to save your skin by UV damages</h5>",
+		"ImageName": "UV-damages-skin-web.jpg",
+		"Description": "<p>UV rays hurts skin and may cause wrinkles. when you go out always do proper safety of skin, when you reduce weight can cause wrinkles so try not to gain  body weight, always checks what you are eating dont eat alot of junk food, go for walk daily and always keep your face clean, if you are not able to go for walk in morning then go for evening</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Megha Satogiya",
+		"Category": "homeremedy",
+		"Tags": "uv damages",
+		"Lang": "EN"
+	}, {
+		"Id": "116",
+		"Title": "<h5>Importance of balanced diet</h5>",
+		"ImageName": "balanced-diet.jpg",
+		"Description": "<p>For healhy and beautiful skin you have to eat balanced diet. In your diet always take protien, vitamin and minerals, if your body doesn't get proper nutrition can also cause wrinkles for that always take balance and nutritious diet that can make your skin glow</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Sakshi",
+		"Category": "homeremedy",
+		"Tags": "balance diet",
+		"Lang": "EN"
+	}, {
+		"Id": "117",
+		"Title": "<h5>Loss by smoking</h5>",
+		"ImageName": "smoking.jpg",
+		"Description": "<p>If you want to keep your skin healthy always go for execise, if you don't execise your skin can get wrinkles, Smoking always affect your skin, if you smoke you will get wrinkles on face and neck. because of smoke your lips also get shrinked and black, chemicals in smoke also reduce the tightness of skin.</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "smoking,execise",
+		"Lang": "EN"
+	}, {
+		"Id": "118",
+		"Title": "<h5>Acne Problem</h5>",
+		"ImageName": "acne-problem.jpg",
+		"Description": "<p>Teenagers generally affected by pimples, in this age body changes increase oily cells and create pimples on your face, other than that if you eat alot of oily and spicy food, wake till late night, and take alot of tea and coffee and cigeratte that can give you constipation, and irregular periods, and dandruff and mental stress that also create pimples on face</p>",
+		"CreatedOn": "Feb 07",
+		"Author": "Sakshi",
+		"Category": "homeremedy",
+		"Tags": "acne,smoking,tea,coffee",
+		"Lang": "EN"
+	}, {
+		"Id": "119",
+		"Title": "<h5>Treat acne by Musk Melon</h5>",
+		"ImageName": "musk-melon-seeds-kharbuja_2.jpg",
+		"Description": "<ul><li><p>Seeds of musk melon can grind in cow milk and apply on face that reduces pimples</p></li><li><p>Nigella sativa grind in vinegar, apply on face in night before sleeping, and in morning wash it by cold water</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Renuka Satogiya",
+		"Category": "homeremedy",
+		"Tags": "acne,muskmelon",
+		"Lang": "EN"
+	}, {
+		"Id": "120",
+		"Title": "<h5>Treat acne by licorice</h5>",
+		"ImageName": "mulethi.jpg",
+		"Description": "<ul><li><p>Licorice and Jijube seeds take in same amount and grind in little water and use it on face and neck</p></li><li><p>Saffron and red sandalwood mix and grind it and apply on face can help in pimples</p></li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Himanshu Yadav",
+		"Category": "homeremedy",
+		"Tags": "acne,licorice root",
+		"Lang": "EN"
+	}, {
+		"Id": "121",
+		"Title": "<h5>Treat pimples by Nutmeg-SandalWood</h5>",
+		"ImageName": "jaifal.jpg",
+		"Description": "<ul><li>Bombax ceiba folks grind in milk and apply on face that helps in pimples. Nutmeg and red sandalwood mix in equal amount grind it with little water apply on pimples</li><li>Grind carom seeds in curd and apply on face, after an hour wash it with cold water that will reduce pimples</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,nutmeg",
+		"Lang": "EN"
+	}, {
+		"Id": "122",
+		"Title": "<h5>Treat acne by Mint</h5>",
+		"ImageName": "mint.jpg",
+		"Description": "<ul><li>Mint leaves paste apply on pimples, One tablespoon white radish juice and one tablespoon cucumber juice mix both of them and apply on face, after an hour clean it by cold water, do this method regularly helps reducing pimples</li><li>Seeds of java plum peel it and grind it make a paste and apply on pimples</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,mint",
+		"Lang": "EN"
+	}, {
+		"Id": "123",
+		"Title": "<h5>Treat pimples by Neem Seeds</h5>",
+		"ImageName": "nimboli.jpg",
+		"Description": "<ul><li>Peel neem seeds and grind it make paste add little butter milk and apply on pimples.10-12 Buchanania lanzan seeds or chironji grind in milk and make paste, apply on pimples daily</li><li>Bark of mulberry grind in milk and apply on pimples</li></ul>",
+		"CreatedOn": "Feb 07",
+		"Author": "Dr.Konica Saxena",
+		"Category": "homeremedy",
+		"Tags": "acne,neem seeds",
+		"Lang": "EN"
 	}]
 }
