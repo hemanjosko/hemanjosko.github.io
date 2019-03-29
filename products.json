@@ -3,22 +3,22 @@
 	"result": [{
 		"name": "Hello world",
 		"imageUrl": "slider/slide_one.jpg",
-		"link":"http://google.com",
+		"link":"http://amazon.in",
 		"vendor":"amazon"
 	},{
 		"name": "Hello world",
 		"imageUrl": "slider/slide_two.jpg",
-		"link":"http://google.com",
+		"link":"http://amazon.in",
 		"vendor":"amazon"
 	},{
 		"name": "Hello world",
 		"imageUrl": "slider/slide_three.jpg",
-		"link":"http://google.com",
+		"link":"http://amazon.in",
 		"vendor":"amazon"
 	},{
 		"name": "Hello world",
 		"imageUrl": "slider/slide_four.jpg",
-		"link":"http://google.com",
+		"link":"http://amazon.in",
 		"vendor":"amazon"
 	}]
 }
