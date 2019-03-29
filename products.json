@@ -17,8 +17,8 @@
 		"vendor":"amazon"
 	},{
 		"name": "Body care products",
-		"imageUrl":,
-		"link":"slider/slider_four.jpg", "https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=26f45ca0830ae6430bafd3f852784feb&camp=3638&creative=24630&index=hpc&keywords=body care",
+		"imageUrl":"slider/slider_four.jpg",
+		"link": "https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=26f45ca0830ae6430bafd3f852784feb&camp=3638&creative=24630&index=hpc&keywords=body care",
 		"vendor":"amazon"
 	}]
 }
