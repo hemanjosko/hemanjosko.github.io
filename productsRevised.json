@@ -5,28 +5,50 @@
 		"imageUrl": "slider/slider_one.jpg",
 		"link":"",
 		"vendor":"self",
-		"sponsor":"1",
-		"intent":"com.heychum.charm.posts.activity.HomeRemedyActivity"
+		"sponsor":"0",
+		"intent":"com.heychum.charm.posts.activity.HomeRemedyActivity",
+		"data":""
 	},{
 		"name": "Makeup Ideas",
 		"imageUrl": "slider/slider_two.jpg",
 		"link":"",
 		"vendor":"self",
-		"sponsor":"1",
-		"intent":"com.heychum.charm.posts.activity.MakeUpActivity"
+		"sponsor":"0",
+		"intent":"com.heychum.charm.posts.activity.MakeUpActivity",
+		"data":""
 	},{
 		"name": "Cool Skin products",
 		"imageUrl": "slider/slider_three.jpg",
 		"link":"",
 		"vendor":"self",
-		"sponsor":"1",
-		"intent":"com.heychum.charm.posts.activity.ProductsActivity"
+		"sponsor":"0",
+		"intent":"com.heychum.charm.posts.activity.ProductsActivity",
+		"data":""
 	},{
 		"name": "Skin Care Diet",
 		"imageUrl":"slider/slider_four.jpg",
 		"link":"",
 		"vendor":"self",
-		"sponsor":"1",
-		"intent":"com.heychum.charm.posts.activity.DietActivity"
+		"sponsor":"0",
+		"intent":"com.heychum.charm.posts.activity.DietActivity",
+		"data":""
+	},{
+		"name": "33% Off: Glenmark La Shield",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61Yd%2BQnYKJL._SL1000_.jpg",
+		"link":"",
+		"vendor":"self",
+		"sponsor":"0",
+		"intent":"com.heychum.charm.posts.activity.FeedViewActivity",
+		"data":{
+			"Id": "1",
+			"Title": "<h5>Acne, Banish Breakouts and Oily Skin with simple daily steps</h5>",
+			"ImageName": "oilyskin.jpg",
+			"Description": "<p>With oily skin and acne, you're probably not always in love with your skin. But oily skin isn't all bad. One bonus: your oily skin is less prone to wrinkling than dry skin types.\r\n\r\nStill, oily skin, and the acne breakouts that often come with it, can be frustrating. With the right care, you can tame oily shine, improve acne, and learn to embrace your skin type.</p>\r\n\r\n<ul><li>\r\nCleanse your Face at Least Twice a Day\r\n</li> \r\n\r\n<li>A simple way to keep oily skin in check is to cleanse your face regularly. Wash your face twice a day, both morning and night.</li>\r\n\r\n<li>Use a foaming soap or facial cleanser over cream-based or lotion cleansers. Foaming cleansers do a much better job cleansing away excess oil and leave your skin feeling fresh and clean.</li>\r\n\r\n<li>You should also cleanse your face (and body, if body breakouts are a problem) after you sweat, like after gym class or work out. Sweat can irritate breakouts and lead to a specific type of acne called acne mechanica.</li>\r\n\r\n<li>If soap and water aren't immediately available, keep a stash of premoistened cleansing cloths in your bag to give your skin a wipe-down. There are plenty of facial cleansing cloths on the market, but even fragrance-free baby wipes will do.</li>\r\n\r\n<li>Beware of over-cleansing, though. Cleansing your face too often can irritate your skin. And since acne isn't caused by an oily or dirty face, just washing more frequently isn't going to clear breakouts</li></ul>",
+			"CreatedOn": "Jan 05",
+			"Author": "Dr.Konica Saxena",
+			"Category": "homeremedy",
+			"Tags": "acne,oily",
+			"Lang": "EN"
+		}
 	}]
 }
