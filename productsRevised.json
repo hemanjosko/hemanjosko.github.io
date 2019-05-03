@@ -3,30 +3,30 @@
 	"result": [{
 		"name": "Home Remedies",
 		"imageUrl": "slider/slider_one.jpg",
-		"link":"https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=43d8e717ad2aa7ae0c6c9c699254e3d0&camp=3638&creative=24630&index=hpc&keywords=skin care",
-		"vendor":"amazon",
+		"link":"",
+		"vendor":"self",
 		"sponsor":"1",
 		"intent":"com.heychum.charm.posts.activity.HomeRemedyActivity"
 	},{
-		"name": "Makeup products",
+		"name": "Makeup Ideas",
 		"imageUrl": "slider/slider_two.jpg",
-		"link":"https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=8ca6cec0c228ef99b66d29b6919cadf0&camp=3638&creative=24630&index=hpc&keywords=makeup",
-		"vendor":"amazon",
+		"link":"",
+		"vendor":"self",
 		"sponsor":"1",
 		"intent":"com.heychum.charm.posts.activity.MakeUpActivity"
 	},{
-		"name": "Organic products",
+		"name": "Cool Skin products",
 		"imageUrl": "slider/slider_three.jpg",
-		"link":"https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=4d49c0b57ca48ab9f06b2334ee54933b&camp=3638&creative=24630&index=hpc&keywords=organic products for skin",
-		"vendor":"amazon",
+		"link":"",
+		"vendor":"self",
 		"sponsor":"1",
 		"intent":"com.heychum.charm.posts.activity.ProductsActivity"
 	},{
-		"name": "Body care products",
+		"name": "Skin Care Diet",
 		"imageUrl":"slider/slider_four.jpg",
-		"link": "https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=26f45ca0830ae6430bafd3f852784feb&camp=3638&creative=24630&index=hpc&keywords=body care",
-		"vendor":"amazon",
+		"link":"",
+		"vendor":"self",
 		"sponsor":"1",
-		"intent":"0"
+		"intent":"com.heychum.charm.posts.activity.DietActivity"
 	}]
 }
