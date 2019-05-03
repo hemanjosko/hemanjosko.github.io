@@ -1,61 +1,26 @@
 {
 	"status": 200,
 	"result": [{
-		"name": "67% Off: Recast Vitamin C",
-		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81wPIxCM9BL._SL1500_.jpg",
-		"link":"https://www.amazon.in/gp/product/B07214YDHX/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07214YDHX&linkCode=as2&tag=hemanjosko-21&linkId=4d6968f330dc0dcb7f8e2caf38901240",
-		"vendor":"amazon",
-		"sponsor":"1",
-		"intent":"com.heychum.charm.posts.activity.HomeRemedyActivity"
-	},{
-		"name": "33% Off: Glenmark La Shield",
-		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61Yd%2BQnYKJL._SL1000_.jpg",
-		"link":"https://www.amazon.in/gp/product/B01N1QEI52/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01N1QEI52&linkCode=as2&tag=hemanjosko-21&linkId=99ddb020eba82b4eb07ef827f93d8f52",
-		"vendor":"amazon",
-		"sponsor":"1",
-		"intent":"0"
-	},{
-		"name": "33% Off: Maybelline Lipstick",
-		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/517%2BnzlPMsL._SL1280_.jpg",
-		"link":"https://www.amazon.in/gp/product/B071HB669J/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B071HB669J&linkCode=as2&tag=hemanjosko-21&linkId=d8deb7540ddf4f1a8a984c67c891ec16",
-		"vendor":"amazon",
-		"sponsor":"1",
-		"intent":"0"
-	},{
-		"name": "25% Off: Rivona Lip Scrub",
-		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61c0pxxNr7L._SL1080_.jpg",
-		"link":"https://www.amazon.in/gp/product/B07N5KR1DP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07N5KR1DP&linkCode=as2&tag=hemanjosko-21&linkId=82ceb303e28420623bdaf034f715f52b",
-		"vendor":"amazon",
-		"sponsor":"1",
-		"intent":"0"
-	},{
-		"name": "7% Off: Body Scrub",
-		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/7196WM7UflL._SL1500_.jpg",
-		"link":"https://www.amazon.in/gp/product/B07K4BFQK1/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07K4BFQK1&linkCode=as2&tag=hemanjosko-21&linkId=bb2e1f289cda511fecbccaf8353d1cb9",
-		"vendor":"amazon",
-		"sponsor":"1",
-		"intent":"0"
-	},{
-		"name": "Skin Care products",
+		"name": "Home Remedies",
 		"imageUrl": "slider/slider_one.jpg",
 		"link":"https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=43d8e717ad2aa7ae0c6c9c699254e3d0&camp=3638&creative=24630&index=hpc&keywords=skin care",
 		"vendor":"amazon",
 		"sponsor":"1",
-		"intent":"0"
+		"intent":"com.heychum.charm.posts.activity.HomeRemedyActivity"
 	},{
 		"name": "Makeup products",
 		"imageUrl": "slider/slider_two.jpg",
 		"link":"https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=8ca6cec0c228ef99b66d29b6919cadf0&camp=3638&creative=24630&index=hpc&keywords=makeup",
 		"vendor":"amazon",
 		"sponsor":"1",
-		"intent":"0"
+		"intent":"com.heychum.charm.posts.activity.MakeUpActivity"
 	},{
 		"name": "Organic products",
 		"imageUrl": "slider/slider_three.jpg",
 		"link":"https://www.amazon.in/gp/search?ie=UTF8&tag=hemanjosko-21&linkCode=ur2&linkId=4d49c0b57ca48ab9f06b2334ee54933b&camp=3638&creative=24630&index=hpc&keywords=organic products for skin",
 		"vendor":"amazon",
 		"sponsor":"1",
-		"intent":"0"
+		"intent":"com.heychum.charm.posts.activity.ProductsActivity"
 	},{
 		"name": "Body care products",
 		"imageUrl":"slider/slider_four.jpg",
