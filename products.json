@@ -6,7 +6,7 @@
 		"link":"https://www.amazon.in/gp/product/B07214YDHX/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07214YDHX&linkCode=as2&tag=hemanjosko-21&linkId=4d6968f330dc0dcb7f8e2caf38901240",
 		"vendor":"amazon",
 		"sponsor":"1",
-		"intent":"HomeRemedyActivity"
+		"intent":"com.heychum.charm.posts.activity.HomeRemedyActivity"
 	},{
 		"name": "33% Off: Glenmark La Shield",
 		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61Yd%2BQnYKJL._SL1000_.jpg",
