@@ -1,6 +1,10 @@
 {
 	"status": 200,
 	"result": [{
-		"result": "1.0.29"
+		"result": "1.0.29",
+		"engStr":"English One",
+		"engStrTwo":"English Two",
+		"hindiStr":"Hindi One",
+		"hindiStrTwo":"Hindi Two"
 	}]
 }
