@@ -2,9 +2,13 @@
 	"status": 200,
 	"result": [{
 		"result": "1.0.29",
-		"engStr":"English One",
-		"engStrTwo":"English Two",
-		"hindiStr":"Hindi One",
-		"hindiStrTwo":"Hindi Two"
+		"engStr":"New Version of Application is Available!",
+		"engStrTwo":"We always do regular updates to keep you updated, with several bug fixes and other exciting changes",
+		"hindiStr":"ऐप्प का नया वर्शन गूगल स्टोर पर उपलब्ध है !",
+		"hindiStrTwo":"हम लगातार प्रयास करते है की आप तक नयी से नयी और अच्छी सुविधाएं ऐप्प के जरिये पहुचाये, उन सुविधावो को प्राप्त करने के लिए अभी ऐप्प अपडेट करे धन्यवाद",
+		"buttonEng":"Update Now",
+		"buttonHindi":"ऐप अपडेट करे",
+		"skipEng":"Skip",
+		"skipHindi":"अभी नहीं",
 	}]
 }
