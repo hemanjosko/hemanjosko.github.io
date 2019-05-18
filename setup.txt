@@ -1,7 +1,8 @@
 greetings.json  			-			Not Using 
 greetings_fixed.json 		-			Not Using 
 products.json				slider		before 1.0.29
-productsRevised.json		Slider		for 1.0.29	
+productsRevised.json		Slider		for 1.0.29
+productsRevisedOne.json		Slider		for 1.0.30	
 count.json					-			Not Using Removed
 first.json					content		On load first time when welcome
 feeds_add.json				content		On MainActivity
