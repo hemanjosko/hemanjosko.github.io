@@ -1,6 +1,12 @@
 {
 	"status": 200,
 	"result": [{
+		"name": "Update App Now",
+		"imageUrl":"slider/update_image.jpg",
+		"link": "https://goo.gl/R9z51K",
+		"vendor":"self",
+		"sponsor":"0"
+	},{
 		"name": "Home Remedies",
 		"imageUrl": "Gram-flour-face-packs-for-face-glow-in-Hindi.jpg",
 		"link":"",
