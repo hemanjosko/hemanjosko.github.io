@@ -8,29 +8,40 @@
 	#iframe {}
 	.video-container {position: relative;padding-bottom: 56.25%;height: 0; overflow: hidden;border-radius: 8px;}
     .video-container iframe,.video-container object,.video-container embed {position: absolute;top: 0;left: 0;width: 100%;    height: 100%;}
+	#shimmer {
+	background: linear-gradient(270deg, #ffdea9, #647a93);
+	background-size: 400% 400%;
+
+	-webkit-animation: shimmer 30s ease infinite;
+	-moz-animation: shimmer 30s ease infinite;
+	animation: shimmer 30s ease infinite;}
+
+	@-webkit-keyframes shimmer {
+		 0%{background-position:0% 50%}
+		 50%{background-position:100% 50%}
+		 100%{background-position:0% 50%}
+	}
+	@-moz-keyframes shimmer {
+		 0%{background-position:0% 50%}
+		 50%{background-position:100% 50%}
+		 100%{background-position:0% 50%}
+	}
+	@keyframes shimmer { 
+		 0%{background-position:0% 50%}
+		 50%{background-position:100% 50%}
+		 100%{background-position:0% 50%}
+	}
 	</style>
 </head>
 <body>
-	<div>
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/La3bFMSweJo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/2963mU5bi24" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 	</div>
-	<div>
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/oIXWi8kev2w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/iQRVUTpaV3E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 	</div>
-	<div>
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/m2kEp4MTHnk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div>
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/DGMFele2rg8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div>
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/9LW74U3wPDY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div>
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/kJSraAhi7S0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div>
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/Xq1AaZv_gug" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/oxVRx1MFj-Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 	</div>
 </body>
 </html>
