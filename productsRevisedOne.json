@@ -1,6 +1,22 @@
 {
 	"status": 200,
 	"result": [{
+		"name": "Daily Routines",
+		"imageUrl": "slider/SkincareRoutine.jpg",
+		"link":"",
+		"vendor":"self",
+		"sponsor":"0",
+		"intent":"com.heychum.charm.posts.activity.RoutineActivity",
+		"data":""
+	},{
+		"name": "Drink More Water",
+		"imageUrl": "slider/DrinkWater.jpg",
+		"link":"",
+		"vendor":"self",
+		"sponsor":"0",
+		"intent":"com.heychum.charm.posts.activity.DrinkWaterActivity",
+		"data":""
+	},{
 		"name": "Home Remedies",
 		"imageUrl": "Gram-flour-face-packs-for-face-glow-in-Hindi.jpg",
 		"link":"",
