@@ -2,7 +2,7 @@
 	"status": 200,
 	"result": [{
 		"name": "Daily Routines",
-		"imageUrl": "SkincareRoutine.jpg",
+		"imageUrl": "slider/SkincareRoutine.jpg",
 		"link":"",
 		"vendor":"self",
 		"sponsor":"0",
@@ -10,7 +10,7 @@
 		"data":""
 	},{
 		"name": "Drink More Water",
-		"imageUrl": "DrinkWater.jpg",
+		"imageUrl": "slider/DrinkWater.jpg",
 		"link":"",
 		"vendor":"self",
 		"sponsor":"0",
