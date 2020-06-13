@@ -1,2 +1,6 @@
 .container { background:#ffffff;margin:0 !important;padding:0 !important;}
 .clear {clear:both;}
+#body-container{margin-bottom: 60px;}
+.myna-speak{width:70%;}
+.customer-speak {width:70%;float:right;padding:15px 15px 0 0;}
+.customer-speak button {float:right;}
