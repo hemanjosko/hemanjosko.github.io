@@ -1,7 +1,8 @@
 var g_title = {"EN":"Myna", "HN":"मैना"};
 var g_start = {"EN":"Let's Start", "HN":"शुरू करे "};
 var g_first = {"EN":"Dear Farmer<br/>I am Myna, I will try to provide you lots of information related farming,<br/> price of crops, subsidy information, government schemes and weather <br/>", 
-"HN":"प्रिय किसान भाई,<br/>मेरा नाम मैना है, में आपको खेती सम्बन्धी देशभर की जानकारियां <br/>एवं सरकारी नियम व सब्सिडी, फसलों की वर्त्तमान कीमत, <br/>मौसम और भी कई जानकारियां में आपको <br/>देने की कोशिश करुँगी"}
+"HN":"प्रिय किसान भाई,<br/>मेरा नाम मैना है, में आपको खेती सम्बन्धी देशभर की जानकारियां <br/>एवं सरकारी नियम व सब्सिडी, फसलों की वर्त्तमान कीमत, <br/>मौसम और भी कई जानकारियां में आपको <br/>देने की कोशिश करुँगी"};
+var click_once = 0;
 $( document ).ready(function() {
 	var queryString = window.location.search;
 	var urlParams = new URLSearchParams(queryString);
@@ -109,8 +110,11 @@ function firstStart(){
 }
 
 function openStateWebsite(){
-	var state = $(".customer-speak select").val();
-	window.location.href = stateUrl(state);
-	appJavaScriptInterface.makeToast('Loading ...', true);
-	
+	if(click_once==0){
+		click_once = 1;
+		var state = $(".customer-speak select").val();
+		window.location.href = stateUrl(state);
+		appJavaScriptInterface.makeToast('Loading ...', true);
+		click_once = 0;
+	}
 }
