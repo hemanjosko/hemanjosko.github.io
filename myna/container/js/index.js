@@ -24,10 +24,10 @@ function stateUrl(state){
 	var temp = {
 		"AN":"http://agri.and.nic.in",
 		"AP":"http://www.apagrisnet.gov.in",
-		"AR":"http://arunachalpradesh.nic.in",
+		"AR":"http://www.agri.arunachal.gov.in/",
 		"AS":"https://agri-horti.assam.gov.in/",
 		"BR":"https://state.bihar.gov.in/",
-		"CH":"http://agriportal.cg.nic.in/",
+		"CH":"http://chandigarh.gov.in/dept_agri.htm",
 		"CT":"http://agridept.cg.gov.in",
 		"DN":"http://dnh.nic.in/Departments/Agriculture.aspx",
 		"DD":"https://daman.nic.in/agriculture.aspx",
