@@ -44,7 +44,7 @@ function stateUrl(state){
 		"MP":"http://mpkrishi.mp.gov.in/",
 		"MH":"http://krishi.maharashtra.gov.in",
 		"MN":"http://agrimanipur.gov.in/",
-		"ML":"https://www.megagriculture.gov.in/",
+		"ML":"https://megagriculture.gov.in/",
 		"MZ":"http://agriculturemizoram.nic.in/",
 		"NL":"https://agriculture.nagaland.gov.in/",
 		"OR":"http://agriodisha.nic.in/",
