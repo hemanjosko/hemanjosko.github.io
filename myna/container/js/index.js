@@ -1,12 +1,19 @@
+var queryString = window.location.search;
+var urlParams = new URLSearchParams(queryString);
+var lang = urlParams.get('lang');
+
 var g_title = {"EN":"Myna", "HN":"मैना"};
 var g_start = {"EN":"Let's Start", "HN":"शुरू करे "};
 var g_first = {"EN":"Dear Farmer<br/>I am Myna, I will try to provide you lots of information related farming,<br/> price of crops, subsidy information, government schemes and weather <br/>", 
 "HN":"प्रिय किसान भाई,<br/>मेरा नाम मैना है, में आपको खेती सम्बन्धी देशभर की जानकारियां <br/>एवं सरकारी नियम व सब्सिडी, फसलों की वर्त्तमान कीमत, <br/>मौसम और भी कई जानकारियां में आपको <br/>देने की कोशिश करुँगी"};
+var g_option = {"EN":"Dear farmer brother, Today I can show you the weather and I can show your states official website","HN":"प्रिय किसान भाई, आज मैं आपको मौसम दिखा सकता हूं और मैं आपके राज्यों की आधिकारिक वेबसाइट दिखा सकता हूँ"};
+var g_first_option = {"EN":"Let's see website of State Official Agricultural Government", "HN":"आइए देखते हैं राज्य आधिकारिक कृषि सरकार की वेबसाइट"};
+var g_second_option = {"EN":"Let's see how is weather today", "HN":"आइए देखें कि आज कैसा है मौसम"};
 var click_once = 0;
+var g_okay = {"EN":"Okay","HN":"ठीक है"};
+var g_website = {"EN":"Government Website","HN":"सरकारी वेबसाइट"};
+var g_weather = {"EN":"Weather","HN":"मौसम"}
 $( document ).ready(function() {
-	var queryString = window.location.search;
-	var urlParams = new URLSearchParams(queryString);
-	var lang = urlParams.get('lang')
 	if(lang!=""){
 		changeLanguage(lang);
 	}else{
@@ -103,9 +110,8 @@ return state;
 }
 
 function firstStart(){
-	$(".myna-speak span").html("Kya aap apne state ki website par jana chahenge?");
-	$(".customer-speak").html(returnStateSelection()+
-		'<br/><button type="button" onclick="openStateWebsite()" class="btn btn-primary rounded-pill">Okay</button>');
+	$(".myna-speak span").html(g_first_option[lang]);
+	$(".customer-speak").html(returnStateSelection()+'<br/><button type="button" onclick="openStateWebsite()" class="btn btn-primary rounded-pill">'+g_okay[lang]+'</button>');
 	
 }
 
@@ -120,8 +126,8 @@ function openStateWebsite(){
 }
 
 function seccondStart(){
-	$(".myna-speak span").html("Kya aap apne shehar ka weather janana chahenge?");
-	$(".customer-speak").html('<button type="button" onclick="openWeatherWebsite()" class="btn btn-primary rounded-pill">Okay</button>');
+	$(".myna-speak span").html(g_second_option[lang]);
+	$(".customer-speak").html('<button type="button" onclick="openWeatherWebsite()" class="btn btn-primary rounded-pill">'+g_okay[lang]+'</button>');
 }
 
 function openWeatherWebsite(){
@@ -129,7 +135,7 @@ function openWeatherWebsite(){
 }
 
 function listStart(){
-	$(".myna-speak span").html("Kripya inme se ek choose kijiye?");
-	$(".customer-speak").html('<button type="button" onclick="firstStart()" class="mr-1 btn btn-primary rounded-pill">Government Website</button>'+
-	'<button type="button" onclick="seccondStart()" class="mr-1 btn btn-primary rounded-pill">Weather</button>');
+	$(".myna-speak span").html(g_option[lang]);
+	$(".customer-speak").html('<button type="button" onclick="firstStart()" class="mr-1 btn btn-primary rounded-pill">'+g_website[lang]+'</button>'+
+	'<button type="button" onclick="seccondStart()" class="mr-1 btn btn-primary rounded-pill">'+g_weather[lang]+'</button>');
 }
