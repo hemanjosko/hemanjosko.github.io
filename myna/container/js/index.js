@@ -14,7 +14,7 @@ var g_okay = {"EN":"Okay","HN":"ठीक है"};
 var g_website = {"EN":"Government Website","HN":"सरकारी वेबसाइट"};
 var g_weather = {"EN":"Weather","HN":"मौसम"};
 var g_loading = {"EN":"Loading...","HN":"कृपया प्रतीक्षा करे..."};
-var g_myna_msg = {"EN":"Hello I&#39m maina and I&#39m farmer&#39s friend","HN":"हैलो मैं मैना हूं और मैं किसान की दोस्त हूँ "};
+var g_myna_msg = {"EN":"Hello I am maina and I am farmer friend","HN":"हैलो मैं मैना हूं और मैं किसान की दोस्त हूँ "};
 $( document ).ready(function() {
 	if(lang!=""){
 		changeLanguage(lang);
@@ -135,6 +135,7 @@ function seccondStart(){
 
 function openWeatherWebsite(){
 	window.location.href = "https://www.accuweather.com/";
+	appJavaScriptInterface.makeToast(g_loading[lang], true);
 }
 
 function listStart(){
