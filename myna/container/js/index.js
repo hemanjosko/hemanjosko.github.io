@@ -118,3 +118,18 @@ function openStateWebsite(){
 		click_once = 0;
 	}
 }
+
+function seccondStart(){
+	$(".myna-speak span").html("Kya aap apne shehar ka weather janana chahenge?");
+	$(".customer-speak").html('<button type="button" onclick="openWeatherWebsite()" class="btn btn-primary rounded-pill">Okay</button>');
+}
+
+function openWeatherWebsite(){
+	window.location.href = "https://www.accuweather.com/";
+}
+
+function listStart(){
+	$(".myna-speak span").html("Kripya inme se ek choose kijiye?");
+	$(".customer-speak").html('<button type="button" onclick="firstStart()" class="mr-1 btn btn-primary rounded-pill">Government Website</button>'+
+	'<button type="button" onclick="seccondStart()" class="mr-1 btn btn-primary rounded-pill">Weather</button>');
+}
