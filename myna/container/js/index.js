@@ -7,18 +7,21 @@ var g_start = {"EN":"Let's Start", "HN":"शुरू करे "};
 var g_first = {"EN":"Dear Farmer<br/>I am Myna, I will try to provide you lots of information related farming,<br/> price of crops, subsidy information, government schemes and weather <br/>", 
 "HN":"प्रिय किसान भाई,<br/>मेरा नाम मैना है, में आपको खेती सम्बन्धी देशभर की जानकारियां <br/>एवं सरकारी नियम व सब्सिडी, फसलों की वर्त्तमान कीमत, <br/>मौसम और भी कई जानकारियां में आपको <br/>देने की कोशिश करुँगी"};
 var g_option = {"EN":"Dear farmer brother, Today I can show you the weather and I can show your states official website","HN":"प्रिय किसान भाई, आज मैं आपको मौसम दिखा सकता हूं और मैं आपके राज्यों की आधिकारिक वेबसाइट दिखा सकता हूँ"};
-var g_first_option = {"EN":"Let's see website of State Official Agricultural Government", "HN":"आइए देखते हैं राज्य आधिकारिक कृषि सरकार की वेबसाइट"};
+var g_first_option = {"EN":"Let's see website of State Official Agricultural Government<br/><br/>Select your state", "HN":"आइए देखते हैं राज्य आधिकारिक कृषि सरकार की वेबसाइट<br/><br/>अपना राज्य चुनें"};
 var g_second_option = {"EN":"Let's see how is weather today", "HN":"आइए देखें कि आज कैसा है मौसम"};
 var click_once = 0;
 var g_okay = {"EN":"Okay","HN":"ठीक है"};
 var g_website = {"EN":"Government Website","HN":"सरकारी वेबसाइट"};
-var g_weather = {"EN":"Weather","HN":"मौसम"}
+var g_weather = {"EN":"Weather","HN":"मौसम"};
+var g_loading = {"EN":"Loading...","HN":"कृपया प्रतीक्षा करे..."};
+var g_myna_msg = {"EN":"Hello I'm maina and I'm farmer's friend","HN":"हैलो मैं मैना हूं और मैं किसान की दोस्त हूँ "};
 $( document ).ready(function() {
 	if(lang!=""){
 		changeLanguage(lang);
 	}else{
 		changeLanguage("EN");
 	}
+	$(".navbar-brand").attr("onclick","appJavaScriptInterface.makeToast('"+g_myna_msg[lang]+"', true)");
 });
 
 function changeLanguage(lang){
@@ -120,7 +123,7 @@ function openStateWebsite(){
 		click_once = 1;
 		var state = $(".customer-speak select").val();
 		window.location.href = stateUrl(state);
-		appJavaScriptInterface.makeToast('Loading ...', true);
+		appJavaScriptInterface.makeToast(g_loading[lang], true);
 		click_once = 0;
 	}
 }
