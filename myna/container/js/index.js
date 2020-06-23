@@ -173,6 +173,9 @@ function gothirdStart(){
 	appJavaScriptInterface.makeToast(g_loading[lang], true);
 }
 function openMainPage(){
-	window.location.href = "https://hemanjosko.github.io/myna/?lang="+lang;
+	appJavaScriptInterface.goAct("MainActivity", true);
 	appJavaScriptInterface.makeToast(g_loading[lang], true);
+}
+function shareApp(){
+	appJavaScriptInterface.shareApp();
 }
