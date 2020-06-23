@@ -177,5 +177,5 @@ function openMainPage(){
 	appJavaScriptInterface.makeToast(g_loading[lang], true);
 }
 function shareApp(){
-	appJavaScriptInterface.shareApp();
+	appJavaScriptInterface.shareApp("खेती की देश विदेश की सभी जानकारियां और सही सलाह पाने के लिए अभी डाउनलोड करें  - Myna - Smart Krishi Network ");
 }
