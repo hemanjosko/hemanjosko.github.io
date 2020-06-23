@@ -19,6 +19,7 @@ var g_videos = {"EN":"Videos","HN":"वीडियो"};
 var g_prices = {"EN":"Prices","HN":"कीमत"};
 var g_third_option = {"EN":"See agricultural and informational videos", "HN":"कृषि और सूचनात्मक वीडियो देखें"};
 var g_fourth_option = {"EN":"See the current prices of crops", "HN":"फसलों की वर्तमान कीमतों को देखें"};
+var g_goback = {"EN":"<< Go back", "HN":"<< पिछे जाइये "};
 $( document ).ready(function() {
 	if(lang!=""){
 		changeLanguage(lang);
@@ -116,12 +117,6 @@ function returnStateSelection(){
 return state;
 }
 
-function firstStart(){
-	$(".myna-speak span").html(g_first_option[lang]);
-	$(".customer-speak").html(returnStateSelection()+'<br/><button type="button" onclick="openStateWebsite()" class="btn btn-primary rounded-pill">'+g_okay[lang]+'</button>');
-	
-}
-
 function openStateWebsite(){
 	if(click_once==0){
 		click_once = 1;
@@ -132,22 +127,38 @@ function openStateWebsite(){
 	}
 }
 
+function listStart(){
+	$(".myna-speak span").html(g_option[lang]);
+	$(".customer-speak").html('<button type="button" onclick="firstStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_website[lang]+'</button>'+
+	'<button type="button" onclick="seccondStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_weather[lang]+'</button>'+
+	'<button type="button" onclick="thirdStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_videos[lang]+'</button>'+
+	'<button type="button" onclick="fourthStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_prices[lang]+'</button>'+
+	'<button type="button" onclick="openMainPage()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_goback[lang]+'</button>');
+}
+
+function firstStart(){
+	$(".myna-speak span").html(g_first_option[lang]);
+	$(".customer-speak").html(returnStateSelection()+'<br/><button type="button" onclick="openStateWebsite()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_okay[lang]+'</button>'+
+	'<button type="button" onclick="openMainPage()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_goback[lang]+'</button>');
+	
+}
 function seccondStart(){
 	$(".myna-speak span").html(g_second_option[lang]);
-	$(".customer-speak").html('<button type="button" onclick="openWeatherWebsite()" class="btn btn-primary rounded-pill">'+g_okay[lang]+'</button>');
+	$(".customer-speak").html('<button type="button" onclick="openWeatherWebsite()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_okay[lang]+'</button>'+
+	'<button type="button" onclick="openMainPage()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_goback[lang]+'</button>');
 }
 function thirdStart(){
 	$(".myna-speak span").html(g_third_option[lang]);
-	$(".customer-speak").html('<button type="button" onclick="gothirdStart()" class="btn btn-primary rounded-pill">'+g_okay[lang]+'</button>');
+	$(".customer-speak").html('<button type="button" onclick="gothirdStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_okay[lang]+'</button>'+
+	'<button type="button" onclick="openMainPage()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_goback[lang]+'</button>');
 }
-function gothirdStart(){
-	window.location.href = "https://hemanjosko.github.io/myna/videos.html?lang="+lang;
-	appJavaScriptInterface.makeToast(g_loading[lang], true);
-}
+
 function fourthStart(){
 	$(".myna-speak span").html(g_fourth_option[lang]);
-	$(".customer-speak").html('<button type="button" onclick="goFourthStart()" class="btn btn-primary rounded-pill">'+g_okay[lang]+'</button>');
+	$(".customer-speak").html('<button type="button" onclick="goFourthStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_okay[lang]+'</button>'+
+	'<button type="button" onclick="openMainPage()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_goback[lang]+'</button>');
 }
+
 function goFourthStart(){
 	window.location.href = "https://agmarknet.gov.in/";
 	appJavaScriptInterface.makeToast(g_loading[lang], true);
@@ -157,11 +168,11 @@ function openWeatherWebsite(){
 	window.location.href = "https://www.accuweather.com/";
 	appJavaScriptInterface.makeToast(g_loading[lang], true);
 }
-
-function listStart(){
-	$(".myna-speak span").html(g_option[lang]);
-	$(".customer-speak").html('<button type="button" onclick="firstStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_website[lang]+'</button>'+
-	'<button type="button" onclick="seccondStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_weather[lang]+'</button>'+
-	'<button type="button" onclick="thirdStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_videos[lang]+'</button>'+
-	'<button type="button" onclick="fourthStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">'+g_prices[lang]+'</button>');
+function gothirdStart(){
+	window.location.href = "https://hemanjosko.github.io/myna/videos.html?lang="+lang;
+	appJavaScriptInterface.makeToast(g_loading[lang], true);
+}
+function openMainPage(){
+	window.location.href = "https://hemanjosko.github.io/myna/?lang="+lang;
+	appJavaScriptInterface.makeToast(g_loading[lang], true);
 }
