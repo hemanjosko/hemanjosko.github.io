@@ -173,7 +173,9 @@ function gothirdStart(){
 	appJavaScriptInterface.makeToast(g_loading[lang], true);
 }
 function openMainPage(){
-	appJavaScriptInterface.openMain();
+	$("#body-container .col").html('<p class="myna-speak"><img width="100" class="img-fluid mb-2" alt="Responsive image" src="container/images/hellobird.png"/><br/><span></span></p>'+
+	'<p class="customer-speak"><button type="button" onclick="listStart()" class="btn btn-primary rounded-pill"></button></p><div class="clear"></div>');
+	changeLanguage(lang);
 }
 function shareApp(){
 	appJavaScriptInterface.shareApp("खेती की देश विदेश की सभी जानकारियां और सही सलाह पाने के लिए अभी डाउनलोड करें  - Myna - Smart Krishi Network ");
