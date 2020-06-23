@@ -15,6 +15,7 @@ var g_website = {"EN":"Government Website","HN":"सरकारी वेबस
 var g_weather = {"EN":"Weather","HN":"मौसम"};
 var g_loading = {"EN":"Loading...","HN":"कृपया प्रतीक्षा करे..."};
 var g_myna_msg = {"EN":"Hello I am myna and I am farmer friend","HN":"हैलो मैं मैना हूं और मैं किसान की दोस्त हूँ "};
+var g_videos = {"EN":"Videos","HN":"वीडियो"};
 $( document ).ready(function() {
 	if(lang!=""){
 		changeLanguage(lang);
@@ -132,6 +133,10 @@ function seccondStart(){
 	$(".myna-speak span").html(g_second_option[lang]);
 	$(".customer-speak").html('<button type="button" onclick="openWeatherWebsite()" class="btn btn-primary rounded-pill">'+g_okay[lang]+'</button>');
 }
+function thirdStart(){
+	window.location.href = "https://hemanjosko.github.io/myna/videos.html";
+	appJavaScriptInterface.makeToast(g_loading[lang], true);
+}
 
 function openWeatherWebsite(){
 	window.location.href = "https://www.accuweather.com/";
@@ -141,5 +146,6 @@ function openWeatherWebsite(){
 function listStart(){
 	$(".myna-speak span").html(g_option[lang]);
 	$(".customer-speak").html('<button type="button" onclick="firstStart()" class="mr-1 btn btn-primary rounded-pill">'+g_website[lang]+'</button>'+
-	'<button type="button" onclick="seccondStart()" class="mr-1 btn btn-primary rounded-pill">'+g_weather[lang]+'</button>');
+	'<button type="button" onclick="seccondStart()" class="mr-1 btn btn-primary rounded-pill">'+g_weather[lang]+'</button>'+
+	'<button type="button" onclick="thirdStart()" class="mr-1 btn btn-primary rounded-pill">'+g_videos[lang]+'</button>');
 }
