@@ -173,8 +173,7 @@ function gothirdStart(){
 	appJavaScriptInterface.makeToast(g_loading[lang], true);
 }
 function openMainPage(){
-	appJavaScriptInterface.goAct("MainActivity", true);
-	appJavaScriptInterface.makeToast(g_loading[lang], true);
+	appJavaScriptInterface.openMain();
 }
 function shareApp(){
 	appJavaScriptInterface.shareApp("खेती की देश विदेश की सभी जानकारियां और सही सलाह पाने के लिए अभी डाउनलोड करें  - Myna - Smart Krishi Network ");
