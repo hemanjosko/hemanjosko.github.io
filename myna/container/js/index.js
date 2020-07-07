@@ -67,6 +67,14 @@ var g_goback = {
 	"EN": "<< Go back",
 	"HN": "<< पिछे जाइये "
 };
+var g_covid = {
+	"EN": "#IndiaFightsCorona COVID-19",
+	"HN": "#IndiaFightsCorona कोरोना वायरस"
+};
+var g_insurance = {
+	"EN": "Pradhan Mantri Fasal Bima Yojana",
+	"HN": "प्रधानमंत्री फ़सल बीमा योजना"
+};
 $(document).ready(function () {
 	if (lang != "") {
 		changeLanguage(lang);
@@ -80,6 +88,11 @@ function changeLanguage(lang) {
 	$(".navbar-brand").html(g_title[lang]);
 	$(".customer-speak button").html(g_start[lang]);
 	$(".myna-speak span").html(g_first[lang]);
+	$("#ln-covid").html(g_covid[lang]);
+	if(lang=="HN"){
+		$("#ln-covid").attr("href", "https://www.mygov.in/hi/covid-19/");
+	}
+	$("#ln-insurance").html(g_insurance[lang]);
 }
 
 function stateUrl(state) {
