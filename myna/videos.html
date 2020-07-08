@@ -15,7 +15,7 @@
 	</script>		
 	<style>
 		body{margin:0;padding:0;}
-		div{border:.5px solid #ccc;border-radius:.3em;margin-top:10px;overflow: hidden;height: 316px;}
+		#shimmer{border:.5px solid #ccc;border-radius:.3em;margin-top:10px;overflow: hidden;height: 316px;}
 		#iframe {}
 		.video-container {position: relative;padding-bottom: 56.25%;height: 0; overflow: hidden;border-radius: 8px;}
 		.video-container iframe,.video-container object,.video-container embed {position: absolute;top: 0;left: 0;width: 100%;    height: 100%;}
@@ -43,15 +43,41 @@
 			 100%{background-position:0% 50%}
 		}
 	</style>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
 <body>
-	<div id="shimmer">
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/YJTD43j5Mrw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <a class="nav-link active" id="organic-tab" data-toggle="tab" href="#organic" role="tab" aria-controls="home" aria-selected="true"></a>
+  </li>
+  <li class="nav-item" role="presentation">
+    <a class="nav-link" id="latest-tab" data-toggle="tab" href="#latest" role="tab" aria-controls="profile" aria-selected="false"></a>
+  </li>
+  <li class="nav-item" role="presentation">
+    <a class="nav-link" id="inventions-tab" data-toggle="tab" href="#inventions" role="tab" aria-controls="contact" aria-selected="false"></a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="organic" role="tabpanel" aria-labelledby="organic-tab">
+  	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/b49_XnutptQ" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+  	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/Pj4S_OQEDUU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+  	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/2qiNKen-rm0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 	</div>
 	<div id="shimmer">
-		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/qIDav0b9uAg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/G_uJ-aXXTEY" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 	</div>
 	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/CSxygxIRGZ8" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+  </div>
+  <div class="tab-pane fade" id="latest" role="tabpanel" aria-labelledby="latest-tab">
+  	<div id="shimmer">
 		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/0gdy2yerZNg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 	</div>
 	<div id="shimmer">
@@ -66,5 +92,31 @@
 	<div id="shimmer">
 		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/P2YPG8PO9JU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 	</div>
+  </div>
+  <div class="tab-pane fade" id="inventions" role="tabpanel" aria-labelledby="inventions-tab">
+  	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/ZbiP2VH-SW8" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/d5PTKHRw2FQ" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/lzGE4mBRPK0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/lt1vnLJu1GU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/X-p4P0SQytM" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+	<div id="shimmer">
+		<iframe id="frame" width="100%" height="315" src="https://www.youtube.com/embed/KAV0w-UIobI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+  </div>
+</div>
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="container/js/videos.js"></script>
 </body>
 </html>

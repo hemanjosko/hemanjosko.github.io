@@ -157,7 +157,7 @@ function returnStateSelection() {
 		'<option value="KA">Karnataka</option>' +
 		'<option value="KL">Kerala</option>' +
 		'<option value="LD">Lakshadweep</option>' +
-		'<option value="MP">Madhya Pradesh</option>' +
+		'<option value="MP" selected>Madhya Pradesh</option>' +
 		'<option value="MH">Maharashtra</option>' +
 		'<option value="MN">Manipur</option>' +
 		'<option value="ML">Meghalaya</option>' +
