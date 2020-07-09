@@ -16,7 +16,7 @@ var g_first = {
 };
 var g_option = {
 	"EN": "Dear farmer brother, Today I can show you the weather and I can show your states official website",
-	"HN": "प्रिय किसान भाई, आज मैं आपको मौसम दिखा सकता हूं और मैं आपके राज्यों की आधिकारिक वेबसाइट दिखा सकता हूँ"
+	"HN": "प्रिय किसान भाई, आज मैं आपको मौसम दिखा सकती हूं और मैं आपके राज्यों की आधिकारिक वेबसाइट दिखा सकती हूँ"
 };
 var g_first_option = {
 	"EN": "Let's see website of State Official Agricultural Government<br/><br/>Select your state",
