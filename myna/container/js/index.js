@@ -1,83 +1,120 @@
 var queryString = window.location.search;
 var urlParams = new URLSearchParams(queryString);
 var lang = urlParams.get('lang');
-
+var click_once = 0;
 var g_title = {
 	"EN": "Myna",
-	"HN": "मैना"
+	"HN": "मैना",
+	"MH": "मैना",
+	"PJ": "ਮੇਨਾ"
 };
 var g_start = {
 	"EN": "Let's Start",
-	"HN": "शुरू करे "
+	"HN": "शुरू करे ",
+	"MH": "प्रारंभ करा",
+	"PJ": "ਸ਼ੁਰੂ ਕਰੋ"
 };
 var g_first = {
 	"EN": "Dear Farmer<br/>I am Myna, I will try to provide you lots of information related farming,<br/> price of crops, subsidy information, government schemes and weather <br/>",
-	"HN": "प्रिय किसान भाई,<br/>मेरा नाम मैना है, में आपको खेती सम्बन्धी देशभर की जानकारियां <br/>एवं सरकारी नियम व सब्सिडी, फसलों की वर्त्तमान कीमत, <br/>मौसम और भी कई जानकारियां में आपको <br/>देने की कोशिश करुँगी"
+	"HN": "प्रिय किसान भाई,<br/>मेरा नाम मैना है, में आपको खेती सम्बन्धी देशभर की जानकारियां <br/>एवं सरकारी नियम व सब्सिडी, फसलों की वर्त्तमान कीमत, <br/>मौसम और भी कई जानकारियां में आपको <br/>देने की कोशिश करुँगी",
+	"MH": "प्रिय शेतकरी <br/> मी मैना आहे, मी तुम्हाला शेतीशी संबंधित बरीच माहिती देण्याचा प्रयत्न करेन,<br/> पिकांची किंमत, अनुदानाची माहिती, सरकारी योजना आणि हवामान <br/>",
+	"PJ": "ਪਿਆਰੇ ਕਿਸਾਨ <br/> ਮੈਂ ਮਾਇਨਾ ਹਾਂ, ਮੈਂ ਤੁਹਾਨੂੰ ਖੇਤੀ ਨਾਲ ਜੁੜੀ ਬਹੁਤ ਸਾਰੀ ਜਾਣਕਾਰੀ ਪ੍ਰਦਾਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗਾ, <br/> ਫਸਲਾਂ ਦੀ ਕੀਮਤ, ਸਬਸਿਡੀ ਦੀ ਜਾਣਕਾਰੀ, ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਅਤੇ ਮੌਸਮ <br/>"
 };
 var g_option = {
 	"EN": "Dear farmer brother, Today I can show you the weather and I can show your states official website",
-	"HN": "प्रिय किसान भाई, आज मैं आपको मौसम दिखा सकती हूं और मैं आपके राज्यों की आधिकारिक वेबसाइट दिखा सकती हूँ"
+	"HN": "प्रिय किसान भाई, आज मैं आपको मौसम दिखा सकती हूं और मैं आपके राज्यों की आधिकारिक वेबसाइट दिखा सकती हूँ",
+	"MH": "प्रिय शेतकरी बंधू, आज मी तुम्हाला हवामान दाखवू शकतो आणि मी तुमची राज्ये अधिकृत वेबसाइट दर्शवू शकतो",
+	"PJ": "ਪਿਆਰੇ ਕਿਸਾਨ ਵੀਰ, ਅੱਜ ਮੈਂ ਤੁਹਾਨੂੰ ਮੌਸਮ ਦਿਖਾ ਸਕਦਾ ਹਾਂ ਅਤੇ ਮੈਂ ਤੁਹਾਡੇ ਰਾਜਾਂ ਨੂੰ ਅਧਿਕਾਰਤ ਵੈਬਸਾਈਟ ਦਿਖਾ ਸਕਦਾ ਹਾਂ"
 };
 var g_first_option = {
 	"EN": "Let's see website of State Official Agricultural Government<br/><br/>Select your state",
-	"HN": "आइए देखते हैं राज्य आधिकारिक कृषि सरकार की वेबसाइट<br/><br/>अपना राज्य चुनें"
+	"HN": "आइए देखते हैं राज्य आधिकारिक कृषि सरकार की वेबसाइट<br/><br/>अपना राज्य चुनें",
+	"MH": "चला राज्य अधिकृत कृषी सरकारची वेबसाइट पाहू या. <br/> <br/> आपले राज्य निवडा",
+	"PJ": "ਚਲੋ ਰਾਜ ਦੀ ਸਰਕਾਰੀ ਖੇਤੀਬਾੜੀ ਸਰਕਾਰ ਦੀ ਵੈਬਸਾਈਟ ਵੇਖੀਏ <br/> <br/> ਆਪਣਾ ਰਾਜ ਚੁਣੋ"
 };
 var g_second_option = {
 	"EN": "Let's see how is weather today",
-	"HN": "आइए देखें कि आज कैसा है मौसम"
+	"HN": "आइए देखें कि आज कैसा है मौसम",
+	"MH": "आज हवामान कसे आहे ते पाहूया",
+	"PJ": "ਆਓ ਦੇਖੀਏ ਅੱਜ ਮੌਸਮ ਕਿਵੇਂ ਹੈ"
 };
-var click_once = 0;
 var g_okay = {
 	"EN": "Okay",
-	"HN": "ठीक है"
+	"HN": "ठीक है",
+	"MH": "ठीक आहे",
+	"PJ": "ਠੀਕ ਹੈ"
 };
 var g_website = {
 	"EN": "Government Website",
-	"HN": "सरकारी वेबसाइट"
+	"HN": "सरकारी वेबसाइट",
+	"MH": "सरकारी वेबसाइट",
+	"PJ": "ਸਰਕਾਰੀ ਵੈਬਸਾਈਟ"
 };
 var g_weather = {
 	"EN": "Weather",
-	"HN": "मौसम"
+	"HN": "मौसम",
+	"MH": "हवामान",
+	"PJ": "ਮੌਸਮ"
 };
 var g_loading = {
 	"EN": "Loading...",
-	"HN": "कृपया प्रतीक्षा करे..."
+	"HN": "कृपया प्रतीक्षा करे...",
+	"MH": "कृपया थांबा ...",
+	"PJ": "ਕ੍ਰਿਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ ..."
 };
 var g_myna_msg = {
 	"EN": "Hello I am myna and I am farmer friend",
-	"HN": "हैलो मैं मैना हूं और मैं किसान की दोस्त हूँ "
+	"HN": "हैलो मैं मैना हूं और मैं किसान की दोस्त हूँ ",
+	"MH": "नमस्कार मी मैना आहे आणि मी शेतकरी मित्र आहे",
+	"PJ": "ਹੈਲੋ ਮੈਂ ਮਾਇਨਾ ਹਾਂ ਅਤੇ ਮੈਂ ਕਿਸਾਨ ਮਿੱਤਰ ਹਾਂ"
 };
 var g_videos = {
 	"EN": "Videos",
-	"HN": "वीडियो"
+	"HN": "वीडियो",
+	"MH": "व्हिडिओ",
+	"PJ": "ਵੀਡੀਓ"
 };
 var g_prices = {
 	"EN": "Prices",
-	"HN": "कीमत"
+	"HN": "कीमत",
+	"MH": "किंमत",
+	"PJ": "ਮੁੱਲ"
 };
 var g_third_option = {
 	"EN": "See agricultural and informational videos",
-	"HN": "कृषि और सूचनात्मक वीडियो देखें"
+	"HN": "कृषि और सूचनात्मक वीडियो देखें",
+	"MH": "कृषी आणि माहितीविषयक व्हिडिओ पहा",
+	"PJ": "ਖੇਤੀਬਾੜੀ ਅਤੇ ਜਾਣਕਾਰੀ ਵਾਲੀਆਂ ਵੀਡੀਓ ਵੇਖੋ"
 };
 var g_fourth_option = {
 	"EN": "See the current prices of crops",
-	"HN": "फसलों की वर्तमान कीमतों को देखें"
+	"HN": "फसलों की वर्तमान कीमतों को देखें",
+	"MH": "सद्यस्थितीतील पिकांचे दर पहा",
+	"PJ": "ਫਸਲਾਂ ਦੇ ਮੌਜੂਦਾ ਭਾਅ ਵੇਖੋ"
 };
 var g_goback = {
 	"EN": "<< Go back",
-	"HN": "<< पिछे जाइये "
+	"HN": "<< पिछे जाइये ",
+	"MH": "<< परत जा",
+	"PJ": "<< ਵਾਪਸ ਜਾਓ"
 };
 var g_covid = {
 	"EN": "#IndiaFightsCorona COVID-19",
-	"HN": "#IndiaFightsCorona कोरोना वायरस"
+	"HN": "#IndiaFightsCorona कोरोना वायरस",
+	"MH": "#IndiaFightsCorona COVID-19",
+	"PJ": "#IndiaFightsCorona COVID-19"
 };
 var g_insurance = {
 	"EN": "Pradhan Mantri Fasal Bima Yojana",
-	"HN": "प्रधानमंत्री फ़सल बीमा योजना"
+	"HN": "प्रधानमंत्री फ़सल बीमा योजना",
+	"MH": "प्रधानमंत्री पीक विमा योजना",
+	"PJ": "ਪ੍ਰਧਾਨ ਫਸਲ ਬੀਮਾ ਯੋਜਨਾ"
 };
 var g_vikaspedia = {
 	"EN": "Important Links - Vikaspedia",
-	"HN": "महत्वपूर्ण जानकारी - विकासपीडीया"
+	"HN": "महत्वपूर्ण जानकारी - विकासपीडीया",
+	"MH": "महत्वाची माहिती - विकासपीडिया",
+	"PJ": "ਮਹੱਤਵਪੂਰਣ ਜਾਣਕਾਰੀ - ਵਿਕਾਸਪੀਡੀਆ"
 };
 $(document).ready(function () {
 	if (lang != "") {
@@ -130,7 +167,7 @@ function stateUrl(state) {
 		"NL": "https://agriculture.nagaland.gov.in/",
 		"OR": "http://agriodisha.nic.in/",
 		"PY": "https://agri.py.gov.in/",
-		"PB": "https://agri.punjab.gov.in/",
+		"PB": "https://agri.punjab.gov.in/?q=pa",
 		"RJ": "http://agriculture.rajasthan.gov.in/",
 		"SK": "http://www.sikkimagrisnet.org",
 		"TN": "http://www.tn.gov.in/department/2",
@@ -164,14 +201,14 @@ function returnStateSelection() {
 		'<option value="KL">Kerala</option>' +
 		'<option value="LD">Lakshadweep</option>' +
 		'<option value="MP" selected>Madhya Pradesh</option>' +
-		'<option value="MH">Maharashtra</option>' +
+		'<option value="MH">महाराष्ट्र</option>' +
 		'<option value="MN">Manipur</option>' +
 		'<option value="ML">Meghalaya</option>' +
 		'<option value="MZ">Mizoram</option>' +
 		'<option value="NL">Nagaland</option>' +
 		'<option value="OR">Odisha</option>' +
 		'<option value="PY">Puducherry</option>' +
-		'<option value="PB">Punjab</option>' +
+		'<option value="PB">ਪੰਜਾਬ</option>' +
 		'<option value="RJ">Rajasthan</option>' +
 		'<option value="SK">Sikkim</option>' +
 		'<option value="TN">Tamilnadu</option>' +
@@ -206,7 +243,14 @@ function firstStart() {
 	$(".myna-speak span").html(g_first_option[lang]);
 	$(".customer-speak").html(returnStateSelection() + '<br/><button type="button" onclick="openStateWebsite()" class="mr-1 mt-1 btn btn-primary rounded-pill">' + g_okay[lang] + '</button>' +
 		'<button type="button" onclick="openMainPage()" class="mr-1 mt-1 btn btn-primary rounded-pill">' + g_goback[lang] + '</button>');
-
+    if(lang=="PJ"){
+        var langs = "PB";
+    } else if(lang=="EN" || lang=="HN"){
+        var langs = "MP";
+    } else{
+        var langs = lang;
+    }
+    $(".customer-speak select").val(langs).change();
 }
 
 function seccondStart() {
