@@ -75,6 +75,10 @@ var g_insurance = {
 	"EN": "Pradhan Mantri Fasal Bima Yojana",
 	"HN": "प्रधानमंत्री फ़सल बीमा योजना"
 };
+var g_vikaspedia = {
+	"EN": "Important Links - Vikaspedia",
+	"HN": "महत्वपूर्ण जानकारी - विकासपीडीया"
+};
 $(document).ready(function () {
 	if (lang != "") {
 		changeLanguage(lang);
@@ -89,8 +93,10 @@ function changeLanguage(lang) {
 	$(".customer-speak button").html(g_start[lang]);
 	$(".myna-speak span").html(g_first[lang]);
 	$("#ln-covid").html(g_covid[lang]);
+	$("#ln-vikaspedia").html(g_vikaspedia[lang]);
 	if(lang=="HN"){
 		$("#ln-covid").attr("href", "https://www.mygov.in/hi/covid-19/");
+		$("#ln-vikaspedia").attr("href", "https://hi.vikaspedia.in/agriculture");
 	}
 	$("#ln-insurance").html(g_insurance[lang]);
 }
