@@ -116,6 +116,12 @@ var g_vikaspedia = {
 	"MH": "महत्वाची माहिती - विकासपीडिया",
 	"PJ": "ਮਹੱਤਵਪੂਰਣ ਜਾਣਕਾਰੀ - ਵਿਕਾਸਪੀਡੀਆ"
 };
+var g_share_text = {
+	"EN": "Download now to get all the information and right advice of farming - Myna - Smart Krishi Network",
+	"HN": "खेती की देश विदेश की सभी जानकारियां और सही सलाह पाने के लिए अभी डाउनलोड करें - मैना - स्मार्ट कृषी नेटवर्क",
+	"MH": "शेतीचा देश व परदेशातील सर्व माहिती व योग्य सल्ला मिळविण्यासाठी आत्ताच डाउनलोड करा - मैना - स्मार्ट कृषी नेटवर्क",
+	"PJ": "ਵਮਾਈਨਾ - ਸਮਾਰਟ ਕ੍ਰਿਸ਼ੀ ਨੈਟਵਰਕ - ਖੇਤੀ ਬਾਰੇ ਸਾਰੀ ਜਾਣਕਾਰੀ ਅਤੇ ਸਹੀ ਸਲਾਹ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਹੁਣੇ ਡਾਉਨਲੋਡ ਕਰੋ"
+};
 $(document).ready(function () {
 	if (lang != "") {
 		changeLanguage(lang);
@@ -293,5 +299,5 @@ function openMainPage() {
 }
 
 function shareApp() {
-	appJavaScriptInterface.shareApp("खेती की देश विदेश की सभी जानकारियां और सही सलाह पाने के लिए अभी डाउनलोड करें  - Myna - Smart Krishi Network ");
+	appJavaScriptInterface.shareApp(g_share_text[lang]);
 }

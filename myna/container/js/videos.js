@@ -4,15 +4,21 @@ var lang = urlParams.get('lang');
 
 var g_organic = {
 	"EN": "Organic",
-	"HN": "जैविक"
+	"HN": "जैविक",
+	"MH": "सेंद्रिय",
+	"PJ": "ਜੈਵਿਕ"
 };
 var g_latest = {
 	"EN": "Latest",
-	"HN": "नवीनतम"
+	"HN": "नवीनतम",
+	"MH": "नवीनतम",
+	"PJ": "ਤਾਜ਼ਾ"
 };
 var g_inventions = {
 	"EN": "Inventions",
-	"HN": "आविष्कार"
+	"HN": "आविष्कार",
+	"MH": "शोध",
+	"PJ": "ਖੋਜ"
 };
 $(document).ready(function () {
 	if (lang != "") {
