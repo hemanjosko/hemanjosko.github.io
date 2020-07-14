@@ -122,6 +122,12 @@ var g_share_text = {
 	"MH": "शेतीचा देश व परदेशातील सर्व माहिती व योग्य सल्ला मिळविण्यासाठी आत्ताच डाउनलोड करा - मैना - स्मार्ट कृषी नेटवर्क ",
 	"PJ": "ਵਮਾਈਨਾ - ਸਮਾਰਟ ਕ੍ਰਿਸ਼ੀ ਨੈਟਵਰਕ - ਖੇਤੀ ਬਾਰੇ ਸਾਰੀ ਜਾਣਕਾਰੀ ਅਤੇ ਸਹੀ ਸਲਾਹ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਹੁਣੇ ਡਾਉਨਲੋਡ ਕਰੋ "
 };
+var g_pmkisan = {
+	"EN": "6000 Rs/Year: PM-Kisan Samman Nidhi",
+	"HN": "6000 रु/साल: पीएम-किसान सम्मान निधि",
+	"MH": "6000 Rs/Year: शेतकरी सन्मान निधी योजना",
+	"PJ": "6000 Rs/Year: ਕਿਸਾਨ ਨਿਧੀ ਹੁਣ ਘਰ ਬੈਠੇ ਫਾਰਮ ਭਰੋ"
+};
 $(document).ready(function () {
 	if (lang != "") {
 		changeLanguage(lang);
@@ -142,6 +148,7 @@ function changeLanguage(lang) {
 		$("#ln-vikaspedia").attr("href", "https://hi.vikaspedia.in/agriculture");
 	}
 	$("#ln-insurance").html(g_insurance[lang]);
+	$("#ln-pmkisan").html(g_pmkisan[lang]);
 }
 
 function stateUrl(state) {
