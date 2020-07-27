@@ -128,6 +128,12 @@ var g_pmkisan = {
 	"MH": "6000 Rs/Year: शेतकरी सन्मान निधी योजना",
 	"PJ": "6000 Rs/Year: ਕਿਸਾਨ ਨਿਧੀ ਹੁਣ ਘਰ ਬੈਠੇ ਫਾਰਮ ਭਰੋ"
 };
+var g_addbusiness = {
+	"EN": "Show your business on our app",
+	"HN": "अपने बिज़नेस की जानकारी दीजिये हमसे जुड़ने के लिए",
+	"MH": "आपला अ‍व्यवसाय आमच्या अ‍ॅपवर दाखवा",
+	"PJ": "ਸਾਡੇ ਐਪ ਤੇ ਆਪਣਾ ਕਾਰੋਬਾਰ ਦਿਖਾਓ"
+};
 $(document).ready(function () {
 	if (lang != "") {
 		changeLanguage(lang);
@@ -149,6 +155,7 @@ function changeLanguage(lang) {
 	}
 	$("#ln-insurance").html(g_insurance[lang]);
 	$("#ln-pmkisan").html(g_pmkisan[lang]);
+	$("#ln-addbusiness").html(g_addbusiness[lang]);
 }
 
 function stateUrl(state) {
