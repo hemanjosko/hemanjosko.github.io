@@ -254,7 +254,7 @@ function listStart() {
 	$(".myna-speak span").html(g_option[lang]);
 	$(".customer-speak").html('<button type="button" onclick="firstStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">' + g_website[lang] + '</button>' +
 		'<button type="button" onclick="seccondStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">' + g_weather[lang] + '</button>' +
-		'<button type="button" onclick="thirdStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">' + g_videos[lang] + '</button>' +
+		//'<button type="button" onclick="thirdStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">' + g_videos[lang] + '</button>' +
 		'<button type="button" onclick="fourthStart()" class="mr-1 mt-1 btn btn-primary rounded-pill">' + g_prices[lang] + '</button>' +
 		'<button type="button" onclick="openMainPage()" class="mr-1 mt-1 btn btn-primary rounded-pill">' + g_goback[lang] + '</button>');
 }
